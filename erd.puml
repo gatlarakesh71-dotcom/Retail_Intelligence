@@ -1,0 +1,96 @@
+@startuml
+' ERD inferred from CSV files in this project
+' Render with PlantUML (e.g., plantuml erd.puml) or use a PlantUML extension in VS Code
+
+hide circle
+
+entity "customers" as customers {
+  * cust_id : INTEGER
+  --
+  age : INTEGER
+  gender : TEXT
+  city : TEXT
+  loyalty_segment : TEXT
+  preferred_channel : TEXT
+  registration_date : DATE
+}
+
+entity "skus" as skus {
+  * sku_id : INTEGER
+  --
+  sku_name : TEXT
+  category : TEXT
+  subcategory : TEXT
+  unit_price : DECIMAL
+  cost_price : DECIMAL
+  brand : TEXT
+}
+
+entity "stores" as stores {
+  * store_id : INTEGER
+  --
+  store_name : TEXT
+  city : TEXT
+  store_type : TEXT
+  opening_date : TIMESTAMP
+}
+
+entity "promotions" as promotions {
+  * promo_id : INTEGER
+  --
+  promo_name : TEXT
+  start_date : DATE
+  end_date : DATE
+  discount_pct : DECIMAL
+  promo_type : TEXT
+}
+
+entity "inventory" as inventory {
+  * store_id : INTEGER
+  * sku_id : INTEGER
+  * snapshot_date : DATE
+  --
+  stock_on_hand : INTEGER
+  reorder_point : INTEGER
+  safety_stock : INTEGER
+  last_restock_date : DATE
+}
+
+entity "sales" as sales {
+  ' The CSV has no single sale_id; natural key is a combination of date/store/sku/customer
+  * date : DATE
+  * store_id : INTEGER
+  * sku_id : INTEGER
+  * customer_id : INTEGER
+  --
+  quantity : INTEGER
+  unit_price : DECIMAL
+  total_value : DECIMAL
+  channel : TEXT
+  discount_pct : DECIMAL
+}
+
+' Relationships (FKs inferred from CSV columns)
+customers ||--o{ sales : "cust_id -> customer_id (1-to-many)"
+skus ||--o{ sales : "sku_id -> sku_id (1-to-many)"
+stores ||--o{ sales : "store_id -> store_id (1-to-many)"
+
+stores ||--o{ inventory : "store_id -> store_id (1-to-many)"
+skus ||--o{ inventory : "sku_id -> sku_id (1-to-many)"
+
+' promotions has no explicit foreign key in sales CSV
+note right of promotions
+  promotions.csv contains promo_id and date ranges
+  No promo_id column exists in sales.csv, so there is no explicit FK.
+  To associate promotions with sales, add promo_id to sales or build
+  a date/discount-based mapping in an ETL step.
+end note
+
+' Suggested improvements
+note left
+  - Consider adding a surrogate sale_id (INTEGER PK) to sales for convenience.
+  - Inventory primary key: (store_id, sku_id, snapshot_date) as shown.
+  - Validate customer_id nulls in sales (some rows have missing customer_id) — these represent anonymous or external-channel sales.
+end note
+
+@enduml
