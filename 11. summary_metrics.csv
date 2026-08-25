@@ -1,0 +1,78 @@
+metric_category,metric_name,dimension,value,unit,source
+Revenue,Revenue by region,Abu Dhabi,20493649.962263823,currency,Revenue by region and store type.csv
+Revenue,Revenue by region,Dubai,41044846.36305559,currency,Revenue by region and store type.csv
+Revenue,Revenue by region,Sharjah,11676434.979554057,currency,Revenue by region and store type.csv
+Revenue,Revenue by category,Electronics,40794793.87650585,currency,Top 5 product categories by revenue.csv
+Revenue,Revenue by category,Household,8191033.421236038,currency,Top 5 product categories by revenue.csv
+Revenue,Revenue by category,Personal Care,8182091.924863815,currency,Top 5 product categories by revenue.csv
+Revenue,Revenue by category,Grocery,5564995.900908947,currency,Top 5 product categories by revenue.csv
+Revenue,Revenue by category,Snacks,4321417.420051575,currency,Top 5 product categories by revenue.csv
+Promotion,Revenue,Promotion Period,45562157.994089365,currency,Check if promotions increased sales.csv
+Promotion,Transactions,Promotion Period,343869.0,count,Check if promotions increased sales.csv
+Promotion,Average revenue per transaction,Promotion Period,132.49859101602462,currency_per_transaction,Check if promotions increased sales.csv
+Promotion,Revenue,Non-Promotion Period,28043974.850965023,currency,Check if promotions increased sales.csv
+Promotion,Transactions,Non-Promotion Period,300943.0,count,Check if promotions increased sales.csv
+Promotion,Average revenue per transaction,Non-Promotion Period,93.18699837166848,currency_per_transaction,Check if promotions increased sales.csv
+Customer,RFM segment customers,Lost,1658.0,customers,RFM segment summary.csv
+Customer,RFM segment customers,At Risk,1480.0,customers,RFM segment summary.csv
+Customer,RFM segment customers,Loyal,1327.0,customers,RFM segment summary.csv
+Customer,RFM segment customers,Champions,535.0,customers,RFM segment summary.csv
+Retention,Average retention rate,Month 0,80.14879310344828,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 1,78.8898245614035,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 2,80.07321428571429,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 3,79.45254545454546,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 4,78.88574074074073,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 5,80.47264150943397,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 6,79.33538461538463,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 7,80.13078431372548,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 8,78.94980000000001,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 9,79.0630612244898,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 10,78.87541666666668,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 11,80.4540425531915,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 12,80.18130434782609,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 13,79.22711111111113,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 14,79.36113636363636,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 15,79.81441860465117,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 16,80.36642857142857,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 17,79.55146341463416,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 18,80.024,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 19,79.4728205128205,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 20,78.74947368421053,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 21,79.93405405405406,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 22,78.61833333333334,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 23,80.01171428571428,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 24,80.23382352941177,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 25,80.36939393939394,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 26,78.799375,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 27,79.53806451612904,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 28,80.05633333333334,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 29,80.00482758620689,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 30,79.13892857142858,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 31,78.61333333333333,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 32,78.1703846153846,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 33,81.43440000000001,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 34,78.87833333333333,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 35,79.74565217391304,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 36,80.98590909090909,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 37,80.71523809523808,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 38,80.429,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 39,79.37842105263157,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 40,78.055,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 41,78.91117647058822,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 42,79.34937500000001,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 43,77.22399999999999,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 44,77.35142857142856,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 45,79.45769230769233,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 46,80.92083333333332,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 47,80.08818181818181,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 48,80.106,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 49,80.14999999999999,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 50,79.5475,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 51,78.10857142857142,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 52,77.90333333333334,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 53,76.324,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 54,72.68,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 55,73.37,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 56,67.68,percent,Cohort retention data.csv
+Retention,Average retention rate,Month 57,77.78,percent,Cohort retention data.csv
+Customer,Repeat purchase rate,All customers,100.0,percent,Repeat purchase rate.csv
