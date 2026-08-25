@@ -1,0 +1,11 @@
+table_name,issue,issue_count
+bm_sales,negative_quantity,0
+bm_sales,zero_or_negative_unit_price,0
+bm_sales,zero_or_negative_total_value,0
+bm_sales,future_date,0
+bm_inventory,negative_stock,0
+bm_inventory,negative_reorder_point,0
+bm_inventory,negative_safety_stock,0
+bm_customers,invalid_age,0
+bm_promotions,end_before_start,0
+bm_promotions,invalid_discount,0

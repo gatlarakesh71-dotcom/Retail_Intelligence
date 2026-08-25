@@ -1,0 +1,5001 @@
+cust_id,city,total_spend,spend_tier
+1846,Abu Dhabi,17773.23,High
+1404,Dubai,17600.11,High
+3969,Dubai,17572.74,High
+3727,Dubai,17473.10,High
+4900,Dubai,17367.41,High
+4184,Dubai,17304.00,High
+3845,Dubai,17287.19,High
+1962,Sharjah,17213.00,High
+1343,Abu Dhabi,17028.26,High
+3378,Abu Dhabi,16938.89,High
+1169,Dubai,16918.80,High
+283,Sharjah,16879.78,High
+3680,Dubai,16806.78,High
+559,Abu Dhabi,16736.51,High
+4915,Sharjah,16714.40,High
+2636,Dubai,16667.04,High
+3424,Dubai,16619.60,High
+3756,Dubai,16388.45,High
+2771,Dubai,16382.08,High
+2804,Sharjah,16349.96,High
+2360,Abu Dhabi,16331.14,High
+4337,Abu Dhabi,16323.43,High
+3865,Dubai,16312.48,High
+3695,Sharjah,16268.35,High
+2895,Abu Dhabi,16219.42,High
+1966,Dubai,16205.73,High
+467,Abu Dhabi,16188.26,High
+4227,Sharjah,16182.67,High
+2923,Sharjah,16157.08,High
+249,Dubai,16105.09,High
+702,Sharjah,16090.01,High
+4316,Abu Dhabi,16060.85,High
+4078,Dubai,16060.36,High
+1852,Sharjah,16047.01,High
+4510,Sharjah,16042.56,High
+267,Abu Dhabi,16013.61,High
+4524,Abu Dhabi,15986.84,High
+701,Dubai,15920.34,High
+4377,Abu Dhabi,15916.86,High
+2166,Abu Dhabi,15863.14,High
+3285,Sharjah,15854.24,High
+1867,Abu Dhabi,15852.97,High
+4742,Abu Dhabi,15848.91,High
+1824,Abu Dhabi,15845.70,High
+4396,Sharjah,15843.10,High
+3469,Sharjah,15778.61,High
+3317,Abu Dhabi,15765.69,High
+455,Dubai,15765.21,High
+3678,Abu Dhabi,15752.47,High
+3873,Dubai,15750.20,High
+509,Abu Dhabi,15699.42,High
+3470,Dubai,15697.79,High
+3272,Dubai,15681.68,High
+4345,Abu Dhabi,15657.52,High
+2308,Sharjah,15657.25,High
+705,Dubai,15641.62,High
+3794,Sharjah,15638.46,High
+2612,Abu Dhabi,15572.92,High
+132,Dubai,15552.86,High
+414,Dubai,15521.86,High
+2217,Dubai,15487.81,High
+348,Sharjah,15483.89,High
+2124,Dubai,15471.59,High
+3544,Dubai,15464.03,High
+4356,Dubai,15462.83,High
+4840,Abu Dhabi,15461.05,High
+66,Dubai,15436.67,High
+3084,Abu Dhabi,15430.33,High
+1324,Sharjah,15427.23,High
+4689,Abu Dhabi,15412.68,High
+250,Abu Dhabi,15411.92,High
+3857,Abu Dhabi,15403.87,High
+4604,Dubai,15403.41,High
+4869,Abu Dhabi,15394.96,High
+2461,Dubai,15379.69,High
+3856,Abu Dhabi,15379.17,High
+2425,Sharjah,15368.12,High
+224,Dubai,15346.52,High
+3536,Sharjah,15334.55,High
+2273,Sharjah,15311.14,High
+2625,Dubai,15294.43,High
+3172,Sharjah,15293.94,High
+1869,Abu Dhabi,15288.37,High
+394,Dubai,15281.79,High
+4079,Sharjah,15268.06,High
+3403,Abu Dhabi,15249.89,High
+4248,Sharjah,15242.07,High
+3591,Sharjah,15241.01,High
+4442,Dubai,15235.07,High
+724,Dubai,15222.07,High
+4221,Sharjah,15186.93,High
+4969,Abu Dhabi,15140.37,High
+4723,Dubai,15133.50,High
+3208,Sharjah,15124.35,High
+526,Dubai,15121.97,High
+4178,Dubai,15107.12,High
+2834,Dubai,15098.13,High
+4250,Dubai,15097.09,High
+1462,Dubai,15068.79,High
+655,Dubai,15068.55,High
+4094,Dubai,15053.85,High
+1888,Dubai,15041.45,High
+4587,Dubai,15041.20,High
+1575,Sharjah,15027.38,High
+3151,Abu Dhabi,15019.73,High
+4481,Abu Dhabi,15018.73,High
+2245,Dubai,15012.74,High
+2977,Abu Dhabi,14996.11,Medium
+4769,Dubai,14987.09,Medium
+4955,Sharjah,14984.97,Medium
+1173,Abu Dhabi,14972.03,Medium
+1974,Dubai,14969.89,Medium
+369,Dubai,14962.93,Medium
+3415,Abu Dhabi,14940.58,Medium
+3718,Dubai,14934.80,Medium
+1256,Abu Dhabi,14928.41,Medium
+3705,Sharjah,14927.66,Medium
+3782,Dubai,14911.92,Medium
+4512,Dubai,14909.48,Medium
+4014,Dubai,14891.46,Medium
+716,Dubai,14888.54,Medium
+884,Sharjah,14884.05,Medium
+2574,Sharjah,14873.27,Medium
+404,Abu Dhabi,14835.28,Medium
+1074,Dubai,14818.98,Medium
+4890,Dubai,14818.41,Medium
+3676,Sharjah,14817.62,Medium
+1648,Sharjah,14816.05,Medium
+4546,Dubai,14811.38,Medium
+34,Dubai,14792.32,Medium
+1638,Abu Dhabi,14789.18,Medium
+1545,Dubai,14767.75,Medium
+2578,Abu Dhabi,14766.85,Medium
+4,Abu Dhabi,14759.84,Medium
+4563,Sharjah,14752.54,Medium
+1688,Dubai,14751.92,Medium
+243,Dubai,14744.18,Medium
+2807,Sharjah,14740.65,Medium
+2591,Sharjah,14735.63,Medium
+4949,Dubai,14730.64,Medium
+4725,Dubai,14729.37,Medium
+211,Abu Dhabi,14728.24,Medium
+2420,Dubai,14727.24,Medium
+456,Abu Dhabi,14721.12,Medium
+1104,Abu Dhabi,14715.05,Medium
+3972,Dubai,14702.64,Medium
+1642,Sharjah,14701.20,Medium
+2183,Dubai,14700.17,Medium
+1327,Dubai,14695.80,Medium
+1535,Dubai,14675.88,Medium
+4263,Sharjah,14675.30,Medium
+743,Abu Dhabi,14671.82,Medium
+2110,Abu Dhabi,14661.73,Medium
+3448,Sharjah,14661.04,Medium
+4684,Dubai,14655.35,Medium
+273,Sharjah,14655.14,Medium
+2568,Abu Dhabi,14655.10,Medium
+1102,Sharjah,14635.82,Medium
+2161,Dubai,14630.14,Medium
+4233,Sharjah,14620.87,Medium
+656,Abu Dhabi,14620.44,Medium
+1777,Dubai,14620.37,Medium
+2758,Dubai,14612.93,Medium
+2717,Abu Dhabi,14608.95,Medium
+3875,Dubai,14607.82,Medium
+372,Sharjah,14606.25,Medium
+2604,Sharjah,14601.83,Medium
+1290,Abu Dhabi,14594.05,Medium
+4632,Sharjah,14588.12,Medium
+1096,Dubai,14587.29,Medium
+2832,Dubai,14583.62,Medium
+341,Dubai,14578.55,Medium
+2975,Dubai,14574.24,Medium
+301,Dubai,14571.12,Medium
+4245,Sharjah,14570.44,Medium
+4402,Sharjah,14561.23,Medium
+4560,Sharjah,14527.12,Medium
+983,Dubai,14522.61,Medium
+2277,Dubai,14516.66,Medium
+3430,Abu Dhabi,14515.66,Medium
+2740,Dubai,14492.77,Medium
+2267,Abu Dhabi,14490.65,Medium
+4691,Sharjah,14489.98,Medium
+791,Sharjah,14489.33,Medium
+4875,Dubai,14476.32,Medium
+870,Dubai,14466.75,Medium
+4371,Sharjah,14464.13,Medium
+807,Dubai,14460.48,Medium
+1111,Abu Dhabi,14458.58,Medium
+2971,Sharjah,14452.74,Medium
+337,Sharjah,14451.88,Medium
+1585,Sharjah,14449.17,Medium
+540,Sharjah,14441.31,Medium
+2328,Dubai,14430.31,Medium
+4495,Dubai,14428.38,Medium
+3435,Sharjah,14422.50,Medium
+2147,Dubai,14422.24,Medium
+1996,Abu Dhabi,14421.88,Medium
+2149,Dubai,14421.21,Medium
+3564,Dubai,14417.25,Medium
+1372,Dubai,14414.18,Medium
+590,Abu Dhabi,14411.05,Medium
+2432,Abu Dhabi,14408.65,Medium
+3560,Dubai,14407.78,Medium
+2261,Dubai,14404.51,Medium
+1914,Sharjah,14398.51,Medium
+356,Dubai,14396.78,Medium
+1037,Abu Dhabi,14396.42,Medium
+1948,Abu Dhabi,14396.08,Medium
+1348,Abu Dhabi,14395.29,Medium
+1223,Dubai,14385.47,Medium
+1333,Sharjah,14382.84,Medium
+4308,Dubai,14372.00,Medium
+2015,Abu Dhabi,14371.41,Medium
+1387,Abu Dhabi,14369.45,Medium
+1982,Dubai,14363.58,Medium
+2437,Dubai,14357.53,Medium
+1090,Dubai,14355.43,Medium
+1843,Dubai,14350.94,Medium
+3385,Sharjah,14348.92,Medium
+1692,Dubai,14343.47,Medium
+4968,Dubai,14340.71,Medium
+1825,Dubai,14330.98,Medium
+3913,Dubai,14327.21,Medium
+1728,Sharjah,14323.70,Medium
+448,Dubai,14323.10,Medium
+265,Dubai,14322.81,Medium
+1619,Sharjah,14321.88,Medium
+1477,Dubai,14320.72,Medium
+878,Abu Dhabi,14317.22,Medium
+516,Abu Dhabi,14313.88,Medium
+3337,Dubai,14311.03,Medium
+3362,Dubai,14304.12,Medium
+1730,Sharjah,14296.25,Medium
+2927,Dubai,14292.56,Medium
+1538,Dubai,14291.16,Medium
+1115,Dubai,14290.39,Medium
+3535,Abu Dhabi,14288.98,Medium
+1748,Dubai,14288.74,Medium
+229,Dubai,14283.62,Medium
+2342,Dubai,14281.75,Medium
+4450,Dubai,14264.20,Medium
+4343,Dubai,14256.43,Medium
+1883,Abu Dhabi,14250.92,Medium
+142,Sharjah,14249.77,Medium
+2350,Dubai,14245.54,Medium
+2076,Sharjah,14237.70,Medium
+3184,Dubai,14234.33,Medium
+4731,Dubai,14233.54,Medium
+828,Abu Dhabi,14228.11,Medium
+3331,Dubai,14227.88,Medium
+2324,Abu Dhabi,14218.54,Medium
+1752,Abu Dhabi,14209.88,Medium
+2783,Abu Dhabi,14196.50,Medium
+366,Dubai,14195.34,Medium
+586,Dubai,14189.21,Medium
+3043,Abu Dhabi,14188.31,Medium
+4212,Abu Dhabi,14184.32,Medium
+2900,Abu Dhabi,14183.75,Medium
+2252,Dubai,14183.56,Medium
+1604,Abu Dhabi,14179.65,Medium
+2744,Sharjah,14178.85,Medium
+357,Dubai,14175.62,Medium
+795,Sharjah,14171.35,Medium
+3495,Sharjah,14159.26,Medium
+3579,Dubai,14156.52,Medium
+3614,Abu Dhabi,14155.94,Medium
+2359,Dubai,14149.50,Medium
+2163,Sharjah,14145.41,Medium
+3688,Dubai,14144.60,Medium
+3402,Dubai,14142.94,Medium
+4911,Sharjah,14139.61,Medium
+2930,Dubai,14138.48,Medium
+946,Dubai,14136.52,Medium
+1431,Dubai,14132.30,Medium
+3801,Dubai,14129.00,Medium
+2290,Sharjah,14124.39,Medium
+4572,Dubai,14123.26,Medium
+1061,Sharjah,14119.30,Medium
+3294,Dubai,14116.53,Medium
+2919,Dubai,14109.92,Medium
+2030,Dubai,14106.40,Medium
+4959,Dubai,14101.77,Medium
+4088,Dubai,14097.99,Medium
+3506,Sharjah,14095.78,Medium
+2512,Abu Dhabi,14084.09,Medium
+4017,Sharjah,14082.45,Medium
+2812,Dubai,14077.78,Medium
+4398,Sharjah,14068.83,Medium
+1143,Dubai,14066.67,Medium
+4811,Dubai,14064.96,Medium
+3209,Sharjah,14063.01,Medium
+4360,Abu Dhabi,14056.11,Medium
+3407,Dubai,14051.67,Medium
+1789,Abu Dhabi,14044.86,Medium
+492,Dubai,14044.66,Medium
+3288,Abu Dhabi,14026.90,Medium
+2170,Dubai,14025.51,Medium
+1393,Sharjah,14018.57,Medium
+4239,Dubai,14012.73,Medium
+1039,Sharjah,14009.08,Medium
+1957,Abu Dhabi,14007.50,Medium
+713,Dubai,14003.15,Medium
+2774,Dubai,13999.25,Medium
+1508,Abu Dhabi,13977.25,Medium
+3636,Abu Dhabi,13971.65,Medium
+506,Sharjah,13968.13,Medium
+3864,Sharjah,13967.81,Medium
+4645,Dubai,13963.67,Medium
+4117,Sharjah,13955.30,Medium
+245,Dubai,13948.57,Medium
+1706,Dubai,13947.82,Medium
+190,Sharjah,13945.26,Medium
+1714,Dubai,13924.74,Medium
+4942,Dubai,13922.99,Medium
+2438,Abu Dhabi,13922.39,Medium
+4366,Dubai,13921.31,Medium
+1481,Dubai,13919.47,Medium
+2344,Dubai,13916.57,Medium
+4945,Dubai,13908.69,Medium
+4336,Sharjah,13904.95,Medium
+4994,Abu Dhabi,13900.71,Medium
+3853,Abu Dhabi,13899.86,Medium
+1968,Dubai,13894.97,Medium
+1812,Dubai,13891.84,Medium
+3795,Dubai,13889.46,Medium
+4630,Dubai,13888.36,Medium
+681,Dubai,13885.48,Medium
+601,Abu Dhabi,13883.11,Medium
+4675,Abu Dhabi,13882.71,Medium
+2679,Sharjah,13879.67,Medium
+1679,Dubai,13879.16,Medium
+1842,Dubai,13877.50,Medium
+1426,Dubai,13876.69,Medium
+3077,Dubai,13876.00,Medium
+3169,Dubai,13863.88,Medium
+2439,Dubai,13861.88,Medium
+2968,Dubai,13860.02,Medium
+4568,Dubai,13859.71,Medium
+3252,Abu Dhabi,13854.38,Medium
+4562,Sharjah,13850.07,Medium
+757,Abu Dhabi,13848.51,Medium
+483,Dubai,13848.30,Medium
+2250,Abu Dhabi,13846.69,Medium
+4567,Abu Dhabi,13846.42,Medium
+2524,Dubai,13842.48,Medium
+1461,Dubai,13839.05,Medium
+838,Sharjah,13834.42,Medium
+3476,Sharjah,13829.52,Medium
+1878,Dubai,13827.03,Medium
+2218,Sharjah,13825.95,Medium
+3554,Abu Dhabi,13820.39,Medium
+2925,Dubai,13818.36,Medium
+1902,Sharjah,13817.80,Medium
+1316,Abu Dhabi,13817.47,Medium
+916,Abu Dhabi,13813.21,Medium
+3879,Abu Dhabi,13813.20,Medium
+1591,Dubai,13811.46,Medium
+2288,Dubai,13799.28,Medium
+3883,Abu Dhabi,13795.28,Medium
+2386,Dubai,13794.90,Medium
+3890,Sharjah,13789.85,Medium
+386,Abu Dhabi,13786.07,Medium
+3698,Abu Dhabi,13785.51,Medium
+4808,Dubai,13779.97,Medium
+405,Dubai,13772.84,Medium
+3717,Abu Dhabi,13770.99,Medium
+1936,Sharjah,13764.15,Medium
+1700,Abu Dhabi,13763.23,Medium
+1093,Abu Dhabi,13754.01,Medium
+2318,Abu Dhabi,13749.96,Medium
+3979,Dubai,13749.43,Medium
+3393,Dubai,13742.69,Medium
+1583,Dubai,13742.50,Medium
+1177,Dubai,13741.53,Medium
+2254,Dubai,13740.99,Medium
+3668,Abu Dhabi,13740.76,Medium
+1701,Dubai,13733.02,Medium
+2899,Abu Dhabi,13725.90,Medium
+3760,Abu Dhabi,13725.53,Medium
+4783,Dubai,13721.83,Medium
+890,Dubai,13718.95,Medium
+2302,Abu Dhabi,13712.60,Medium
+4997,Sharjah,13704.69,Medium
+1537,Dubai,13703.70,Medium
+913,Dubai,13701.74,Medium
+3981,Abu Dhabi,13694.06,Medium
+3045,Dubai,13693.96,Medium
+4513,Dubai,13691.59,Medium
+2351,Abu Dhabi,13691.24,Medium
+3100,Abu Dhabi,13687.45,Medium
+3035,Dubai,13685.79,Medium
+1616,Dubai,13685.04,Medium
+333,Sharjah,13683.59,Medium
+3640,Dubai,13681.47,Medium
+3524,Dubai,13671.62,Medium
+4472,Abu Dhabi,13670.39,Medium
+4103,Abu Dhabi,13669.08,Medium
+4215,Sharjah,13669.05,Medium
+652,Dubai,13667.75,Medium
+4500,Sharjah,13666.46,Medium
+359,Abu Dhabi,13666.39,Medium
+2451,Dubai,13663.06,Medium
+130,Abu Dhabi,13662.97,Medium
+738,Dubai,13658.79,Medium
+751,Dubai,13657.75,Medium
+2084,Sharjah,13651.51,Medium
+809,Sharjah,13649.75,Medium
+4315,Sharjah,13645.47,Medium
+2609,Dubai,13644.21,Medium
+4534,Abu Dhabi,13632.77,Medium
+117,Dubai,13631.68,Medium
+3194,Abu Dhabi,13625.53,Medium
+319,Sharjah,13622.55,Medium
+3541,Abu Dhabi,13616.77,Medium
+227,Abu Dhabi,13615.84,Medium
+511,Sharjah,13611.87,Medium
+3016,Sharjah,13610.33,Medium
+3010,Sharjah,13610.24,Medium
+1835,Dubai,13606.33,Medium
+4657,Abu Dhabi,13603.78,Medium
+4022,Abu Dhabi,13595.40,Medium
+2064,Dubai,13591.10,Medium
+3164,Dubai,13589.62,Medium
+2268,Abu Dhabi,13586.51,Medium
+4039,Abu Dhabi,13578.35,Medium
+53,Dubai,13578.32,Medium
+4784,Sharjah,13577.19,Medium
+707,Dubai,13576.85,Medium
+1862,Abu Dhabi,13572.85,Medium
+4557,Dubai,13570.23,Medium
+1865,Dubai,13567.95,Medium
+4086,Dubai,13563.66,Medium
+3,Dubai,13562.01,Medium
+1626,Sharjah,13559.93,Medium
+4112,Dubai,13559.18,Medium
+3187,Sharjah,13555.05,Medium
+3984,Abu Dhabi,13546.24,Medium
+2114,Dubai,13543.01,Medium
+856,Sharjah,13537.39,Medium
+3165,Dubai,13536.30,Medium
+4019,Sharjah,13535.06,Medium
+3336,Dubai,13533.88,Medium
+260,Sharjah,13533.59,Medium
+4321,Dubai,13533.54,Medium
+2349,Abu Dhabi,13533.49,Medium
+2068,Sharjah,13533.07,Medium
+4798,Sharjah,13532.78,Medium
+470,Dubai,13532.28,Medium
+2613,Dubai,13528.18,Medium
+808,Sharjah,13525.82,Medium
+4735,Abu Dhabi,13517.97,Medium
+3381,Sharjah,13517.44,Medium
+4847,Dubai,13517.40,Medium
+4136,Sharjah,13515.49,Medium
+4361,Abu Dhabi,13514.20,Medium
+3956,Dubai,13500.92,Medium
+768,Dubai,13500.72,Medium
+3790,Abu Dhabi,13497.73,Medium
+4586,Dubai,13497.38,Medium
+4467,Dubai,13494.40,Medium
+4952,Abu Dhabi,13491.15,Medium
+1941,Abu Dhabi,13488.01,Medium
+4685,Sharjah,13483.81,Medium
+340,Abu Dhabi,13480.61,Medium
+3594,Dubai,13478.35,Medium
+3817,Abu Dhabi,13476.22,Medium
+550,Dubai,13475.32,Medium
+784,Abu Dhabi,13474.75,Medium
+3566,Dubai,13473.74,Medium
+1964,Sharjah,13473.01,Medium
+2951,Dubai,13470.83,Medium
+1349,Dubai,13464.64,Medium
+3825,Dubai,13463.20,Medium
+1775,Abu Dhabi,13459.82,Medium
+4082,Dubai,13458.19,Medium
+1457,Dubai,13457.26,Medium
+2174,Abu Dhabi,13456.03,Medium
+3364,Sharjah,13450.94,Medium
+2190,Sharjah,13450.00,Medium
+552,Sharjah,13445.85,Medium
+1682,Abu Dhabi,13443.78,Medium
+781,Dubai,13442.81,Medium
+2796,Dubai,13442.25,Medium
+4380,Abu Dhabi,13429.94,Medium
+1071,Dubai,13428.78,Medium
+4864,Dubai,13426.09,Medium
+3489,Dubai,13417.49,Medium
+3439,Sharjah,13417.36,Medium
+4850,Abu Dhabi,13415.71,Medium
+764,Abu Dhabi,13414.55,Medium
+4824,Dubai,13414.43,Medium
+2809,Abu Dhabi,13406.66,Medium
+2730,Sharjah,13405.57,Medium
+4669,Abu Dhabi,13403.18,Medium
+3830,Dubai,13401.54,Medium
+4893,Abu Dhabi,13387.92,Medium
+437,Sharjah,13386.59,Medium
+3310,Abu Dhabi,13384.80,Medium
+2137,Abu Dhabi,13380.25,Medium
+4577,Sharjah,13378.01,Medium
+1195,Abu Dhabi,13376.29,Medium
+660,Abu Dhabi,13372.22,Medium
+2869,Abu Dhabi,13371.74,Medium
+3799,Dubai,13369.83,Medium
+3426,Abu Dhabi,13363.22,Medium
+3253,Dubai,13362.51,Medium
+2986,Sharjah,13358.57,Medium
+1548,Dubai,13358.47,Medium
+1049,Abu Dhabi,13358.05,Medium
+3513,Sharjah,13357.32,Medium
+4796,Dubai,13352.10,Medium
+2939,Abu Dhabi,13351.04,Medium
+1815,Dubai,13350.76,Medium
+2129,Dubai,13349.55,Medium
+2965,Dubai,13349.18,Medium
+1699,Abu Dhabi,13348.69,Medium
+1840,Abu Dhabi,13347.27,Medium
+766,Dubai,13347.05,Medium
+1273,Abu Dhabi,13343.88,Medium
+3083,Dubai,13342.06,Medium
+1130,Sharjah,13339.80,Medium
+3263,Dubai,13337.43,Medium
+2849,Dubai,13336.65,Medium
+2445,Dubai,13334.43,Medium
+632,Dubai,13334.38,Medium
+3458,Sharjah,13334.00,Medium
+3473,Abu Dhabi,13330.32,Medium
+1633,Abu Dhabi,13324.08,Medium
+4530,Dubai,13324.00,Medium
+1026,Abu Dhabi,13323.67,Medium
+4813,Sharjah,13322.10,Medium
+978,Abu Dhabi,13321.15,Medium
+4624,Dubai,13317.05,Medium
+942,Dubai,13317.00,Medium
+927,Dubai,13314.36,Medium
+1503,Abu Dhabi,13310.66,Medium
+4181,Dubai,13309.98,Medium
+3293,Abu Dhabi,13308.25,Medium
+1248,Sharjah,13307.36,Medium
+4668,Dubai,13303.29,Medium
+464,Sharjah,13301.78,Medium
+4839,Sharjah,13291.42,Medium
+3820,Dubai,13289.02,Medium
+20,Sharjah,13282.60,Medium
+2727,Dubai,13280.75,Medium
+2934,Abu Dhabi,13278.35,Medium
+124,Dubai,13278.14,Medium
+3156,Sharjah,13271.69,Medium
+974,Abu Dhabi,13271.04,Medium
+410,Abu Dhabi,13266.51,Medium
+2036,Dubai,13266.03,Medium
+3515,Sharjah,13262.31,Medium
+4525,Dubai,13261.41,Medium
+3467,Dubai,13260.20,Medium
+3568,Sharjah,13260.03,Medium
+3170,Dubai,13259.53,Medium
+3585,Dubai,13256.19,Medium
+2340,Abu Dhabi,13253.68,Medium
+2156,Dubai,13251.24,Medium
+2272,Abu Dhabi,13250.92,Medium
+2659,Abu Dhabi,13248.90,Medium
+2390,Dubai,13247.62,Medium
+4867,Abu Dhabi,13243.88,Medium
+487,Abu Dhabi,13241.33,Medium
+2226,Sharjah,13240.75,Medium
+1156,Dubai,13238.23,Medium
+1791,Dubai,13237.08,Medium
+444,Abu Dhabi,13234.70,Medium
+58,Sharjah,13234.21,Medium
+3387,Dubai,13232.57,Medium
+1309,Sharjah,13232.10,Medium
+2346,Dubai,13231.30,Medium
+1099,Abu Dhabi,13229.33,Medium
+4643,Sharjah,13228.02,Medium
+1276,Dubai,13226.96,Medium
+3860,Sharjah,13226.35,Medium
+2911,Sharjah,13224.20,Medium
+3071,Sharjah,13223.90,Medium
+2244,Sharjah,13222.46,Medium
+2385,Dubai,13219.07,Medium
+134,Sharjah,13217.93,Medium
+1305,Sharjah,13216.92,Medium
+4211,Abu Dhabi,13216.23,Medium
+1315,Abu Dhabi,13216.09,Medium
+4335,Dubai,13215.83,Medium
+1589,Dubai,13214.54,Medium
+2380,Abu Dhabi,13214.18,Medium
+970,Dubai,13213.48,Medium
+2317,Dubai,13211.87,Medium
+3419,Abu Dhabi,13208.24,Medium
+3706,Dubai,13204.08,Medium
+3446,Dubai,13201.74,Medium
+2521,Dubai,13199.45,Medium
+4871,Abu Dhabi,13199.13,Medium
+85,Sharjah,13197.87,Medium
+3189,Abu Dhabi,13197.49,Medium
+315,Dubai,13194.43,Medium
+1940,Abu Dhabi,13194.36,Medium
+3007,Abu Dhabi,13190.40,Medium
+3051,Dubai,13189.27,Medium
+4175,Dubai,13187.12,Medium
+4067,Dubai,13186.87,Medium
+4922,Abu Dhabi,13185.76,Medium
+1389,Dubai,13185.11,Medium
+798,Dubai,13180.38,Medium
+4152,Abu Dhabi,13180.25,Medium
+3485,Dubai,13176.21,Medium
+665,Sharjah,13175.07,Medium
+3780,Abu Dhabi,13174.39,Medium
+1832,Dubai,13173.89,Medium
+2982,Dubai,13173.63,Medium
+364,Abu Dhabi,13171.16,Medium
+571,Dubai,13171.13,Medium
+1493,Dubai,13169.54,Medium
+4762,Dubai,13165.19,Medium
+3464,Abu Dhabi,13163.32,Medium
+733,Dubai,13161.09,Medium
+3733,Sharjah,13158.48,Medium
+3602,Sharjah,13156.66,Medium
+2292,Dubai,13156.13,Medium
+4986,Sharjah,13155.95,Medium
+4313,Sharjah,13154.46,Medium
+3073,Abu Dhabi,13153.75,Medium
+3870,Dubai,13152.54,Medium
+4440,Dubai,13152.28,Medium
+4860,Dubai,13149.27,Medium
+324,Sharjah,13144.88,Medium
+38,Abu Dhabi,13144.13,Medium
+4826,Sharjah,13141.72,Medium
+1893,Sharjah,13140.96,Medium
+2434,Dubai,13140.62,Medium
+4487,Abu Dhabi,13132.56,Medium
+3656,Abu Dhabi,13131.51,Medium
+308,Dubai,13124.23,Medium
+2069,Dubai,13121.81,Medium
+4418,Dubai,13119.97,Medium
+3412,Abu Dhabi,13119.10,Medium
+1485,Sharjah,13111.90,Medium
+1007,Dubai,13111.80,Medium
+3784,Sharjah,13108.95,Medium
+2152,Abu Dhabi,13107.47,Medium
+682,Abu Dhabi,13104.66,Medium
+4488,Abu Dhabi,13104.38,Medium
+3416,Abu Dhabi,13101.84,Medium
+502,Dubai,13096.65,Medium
+3413,Sharjah,13095.05,Medium
+727,Dubai,13092.09,Medium
+633,Dubai,13087.60,Medium
+3037,Sharjah,13086.02,Medium
+4819,Dubai,13081.35,Medium
+3144,Abu Dhabi,13080.72,Medium
+3791,Abu Dhabi,13080.63,Medium
+2059,Dubai,13074.87,Medium
+67,Sharjah,13073.35,Medium
+2843,Dubai,13073.28,Medium
+545,Sharjah,13071.59,Medium
+1951,Abu Dhabi,13070.42,Medium
+2056,Dubai,13069.24,Medium
+3228,Abu Dhabi,13066.08,Medium
+4433,Sharjah,13064.74,Medium
+1056,Dubai,13064.34,Medium
+2987,Dubai,13061.80,Medium
+3306,Abu Dhabi,13059.77,Medium
+4991,Sharjah,13052.56,Medium
+1564,Abu Dhabi,13049.69,Medium
+4877,Abu Dhabi,13049.04,Medium
+3265,Dubai,13048.15,Medium
+3978,Dubai,13046.02,Medium
+647,Dubai,13041.40,Medium
+4114,Dubai,13039.18,Medium
+1317,Dubai,13038.50,Medium
+2279,Abu Dhabi,13036.09,Medium
+1576,Sharjah,13034.14,Medium
+157,Dubai,13031.73,Medium
+1641,Abu Dhabi,13027.84,Medium
+2199,Abu Dhabi,13027.45,Medium
+899,Dubai,13023.68,Medium
+4367,Dubai,13022.73,Medium
+1550,Dubai,13021.96,Medium
+1496,Dubai,13021.81,Medium
+1291,Abu Dhabi,13014.10,Medium
+2052,Abu Dhabi,13013.99,Medium
+3015,Sharjah,13012.10,Medium
+2134,Dubai,13010.77,Medium
+242,Sharjah,13010.57,Medium
+2246,Dubai,13006.46,Medium
+4758,Dubai,13005.66,Medium
+2225,Dubai,13004.57,Medium
+1314,Abu Dhabi,13004.37,Medium
+4506,Abu Dhabi,13001.45,Medium
+2014,Dubai,13000.38,Medium
+1375,Dubai,13000.18,Medium
+1631,Dubai,12998.44,Medium
+2844,Abu Dhabi,12996.57,Medium
+4081,Dubai,12996.54,Medium
+672,Sharjah,12994.08,Medium
+932,Dubai,12993.45,Medium
+2949,Dubai,12991.46,Medium
+3145,Dubai,12990.52,Medium
+2113,Sharjah,12988.47,Medium
+4350,Sharjah,12985.96,Medium
+2088,Abu Dhabi,12984.16,Medium
+2037,Dubai,12983.59,Medium
+2228,Sharjah,12982.83,Medium
+4280,Dubai,12980.61,Medium
+475,Dubai,12979.75,Medium
+1822,Sharjah,12975.64,Medium
+4288,Dubai,12974.55,Medium
+1845,Sharjah,12972.57,Medium
+2842,Sharjah,12966.90,Medium
+604,Abu Dhabi,12964.80,Medium
+2992,Dubai,12964.06,Medium
+3752,Abu Dhabi,12959.64,Medium
+3520,Dubai,12958.50,Medium
+1183,Dubai,12957.71,Medium
+1572,Dubai,12957.31,Medium
+2792,Dubai,12956.15,Medium
+2235,Dubai,12954.79,Medium
+2800,Sharjah,12954.62,Medium
+606,Sharjah,12953.31,Medium
+2164,Dubai,12948.36,Medium
+4956,Dubai,12947.04,Medium
+86,Dubai,12946.42,Medium
+4774,Dubai,12945.99,Medium
+897,Dubai,12945.88,Medium
+240,Abu Dhabi,12945.60,Medium
+667,Abu Dhabi,12945.35,Medium
+2518,Abu Dhabi,12944.93,Medium
+2887,Abu Dhabi,12944.81,Medium
+2065,Abu Dhabi,12940.73,Medium
+2860,Sharjah,12935.61,Medium
+4803,Dubai,12935.47,Medium
+4667,Dubai,12934.38,Medium
+2408,Dubai,12931.00,Medium
+2714,Abu Dhabi,12928.70,Medium
+3053,Sharjah,12926.72,Medium
+1969,Dubai,12926.67,Medium
+4639,Dubai,12923.43,Medium
+1261,Dubai,12918.75,Medium
+922,Sharjah,12918.10,Medium
+247,Dubai,12917.57,Medium
+1311,Abu Dhabi,12914.21,Medium
+779,Sharjah,12912.92,Medium
+1450,Dubai,12912.39,Medium
+4745,Dubai,12910.67,Medium
+2374,Dubai,12910.26,Medium
+2160,Dubai,12910.00,Medium
+3225,Abu Dhabi,12908.64,Medium
+2222,Abu Dhabi,12905.74,Medium
+675,Dubai,12904.82,Medium
+1218,Sharjah,12904.75,Medium
+4704,Dubai,12903.55,Medium
+782,Abu Dhabi,12901.53,Medium
+2638,Abu Dhabi,12901.09,Medium
+2534,Dubai,12896.67,Medium
+2967,Sharjah,12895.92,Medium
+3942,Sharjah,12894.17,Medium
+4382,Abu Dhabi,12893.73,Medium
+442,Sharjah,12892.73,Medium
+4444,Dubai,12890.85,Medium
+1489,Abu Dhabi,12890.53,Medium
+4584,Abu Dhabi,12887.71,Medium
+568,Dubai,12884.01,Medium
+1573,Abu Dhabi,12883.95,Medium
+3555,Dubai,12881.30,Medium
+1991,Sharjah,12880.61,Medium
+3057,Abu Dhabi,12879.22,Medium
+1250,Dubai,12878.21,Medium
+14,Dubai,12876.27,Medium
+2813,Dubai,12875.20,Medium
+4252,Dubai,12874.12,Medium
+2473,Dubai,12873.21,Medium
+4950,Abu Dhabi,12869.77,Medium
+3786,Sharjah,12868.07,Medium
+3019,Dubai,12864.97,Medium
+3650,Dubai,12864.43,Medium
+2952,Dubai,12864.37,Medium
+3744,Dubai,12864.12,Medium
+2300,Dubai,12862.28,Medium
+3844,Dubai,12860.92,Medium
+2400,Dubai,12860.35,Medium
+915,Sharjah,12857.70,Medium
+1955,Dubai,12856.28,Medium
+2121,Dubai,12852.82,Medium
+3235,Dubai,12852.78,Medium
+2072,Abu Dhabi,12852.45,Medium
+1233,Abu Dhabi,12849.80,Medium
+1411,Dubai,12849.44,Medium
+472,Abu Dhabi,12846.43,Medium
+1586,Sharjah,12844.80,Medium
+1266,Dubai,12843.61,Medium
+3042,Dubai,12843.52,Medium
+805,Dubai,12843.34,Medium
+1786,Sharjah,12840.67,Medium
+2303,Dubai,12836.22,Medium
+2099,Sharjah,12834.98,Medium
+3211,Dubai,12831.71,Medium
+3363,Sharjah,12831.21,Medium
+971,Sharjah,12828.35,Medium
+1933,Abu Dhabi,12826.96,Medium
+4036,Sharjah,12819.58,Medium
+425,Abu Dhabi,12818.92,Medium
+2650,Abu Dhabi,12816.61,Medium
+2269,Abu Dhabi,12815.60,Medium
+4891,Abu Dhabi,12815.44,Medium
+1784,Dubai,12814.76,Medium
+1201,Sharjah,12814.63,Medium
+445,Dubai,12814.45,Medium
+772,Dubai,12810.49,Medium
+3492,Sharjah,12808.56,Medium
+1655,Dubai,12807.19,Medium
+2759,Dubai,12805.67,Medium
+2983,Dubai,12804.88,Medium
+1611,Abu Dhabi,12801.32,Medium
+706,Dubai,12800.61,Medium
+4265,Abu Dhabi,12797.29,Medium
+4538,Dubai,12796.25,Medium
+2393,Abu Dhabi,12789.81,Medium
+2594,Dubai,12788.67,Medium
+711,Sharjah,12786.61,Medium
+84,Sharjah,12784.46,Medium
+3603,Dubai,12781.07,Medium
+3715,Dubai,12780.64,Medium
+4848,Dubai,12780.02,Medium
+2341,Sharjah,12779.64,Medium
+2016,Abu Dhabi,12778.49,Medium
+3995,Sharjah,12778.46,Medium
+1293,Dubai,12774.98,Medium
+2123,Sharjah,12774.76,Medium
+1172,Abu Dhabi,12772.64,Medium
+1958,Dubai,12772.44,Medium
+4504,Sharjah,12772.43,Medium
+380,Dubai,12771.26,Medium
+3563,Abu Dhabi,12767.18,Medium
+2868,Sharjah,12765.31,Medium
+4057,Dubai,12763.67,Medium
+4954,Abu Dhabi,12763.03,Medium
+4649,Dubai,12762.90,Medium
+3234,Dubai,12761.84,Medium
+2275,Dubai,12758.86,Medium
+1295,Dubai,12757.47,Medium
+458,Dubai,12756.49,Medium
+4376,Abu Dhabi,12752.62,Medium
+952,Dubai,12751.23,Medium
+1226,Dubai,12750.60,Medium
+2248,Abu Dhabi,12750.53,Medium
+2652,Abu Dhabi,12749.75,Medium
+2682,Sharjah,12749.43,Medium
+1425,Sharjah,12744.46,Medium
+1432,Abu Dhabi,12741.17,Medium
+262,Dubai,12738.79,Medium
+1890,Dubai,12737.60,Medium
+4425,Dubai,12736.45,Medium
+1297,Sharjah,12733.44,Medium
+4521,Dubai,12730.85,Medium
+822,Dubai,12729.04,Medium
+4130,Dubai,12724.90,Medium
+4098,Dubai,12724.75,Medium
+3483,Dubai,12722.11,Medium
+466,Dubai,12719.09,Medium
+143,Abu Dhabi,12713.07,Medium
+4270,Dubai,12712.15,Medium
+1475,Abu Dhabi,12711.20,Medium
+3793,Dubai,12709.19,Medium
+4287,Sharjah,12707.34,Medium
+4929,Dubai,12700.93,Medium
+2938,Sharjah,12700.83,Medium
+4421,Dubai,12694.20,Medium
+2953,Abu Dhabi,12693.23,Medium
+1715,Dubai,12693.05,Medium
+3909,Abu Dhabi,12692.68,Medium
+962,Sharjah,12691.68,Medium
+2315,Dubai,12687.91,Medium
+926,Dubai,12686.54,Medium
+3587,Dubai,12685.93,Medium
+1654,Sharjah,12684.11,Medium
+4047,Dubai,12682.25,Medium
+1961,Sharjah,12679.36,Medium
+2584,Abu Dhabi,12677.17,Medium
+1308,Abu Dhabi,12674.17,Medium
+1675,Dubai,12673.19,Medium
+206,Dubai,12671.07,Medium
+615,Sharjah,12671.06,Medium
+3275,Abu Dhabi,12670.55,Medium
+4224,Dubai,12667.18,Medium
+4293,Abu Dhabi,12666.32,Medium
+4041,Dubai,12664.43,Medium
+2815,Sharjah,12664.02,Medium
+3673,Abu Dhabi,12662.67,Medium
+3682,Abu Dhabi,12661.34,Medium
+2820,Dubai,12658.44,Medium
+2251,Dubai,12657.42,Medium
+3809,Dubai,12656.81,Medium
+2011,Sharjah,12655.84,Medium
+694,Abu Dhabi,12654.88,Medium
+302,Dubai,12652.50,Medium
+1300,Sharjah,12650.29,Medium
+4496,Dubai,12647.51,Medium
+3257,Dubai,12645.16,Medium
+4626,Sharjah,12640.82,Medium
+4013,Abu Dhabi,12640.78,Medium
+3487,Dubai,12639.08,Medium
+1525,Dubai,12638.44,Medium
+2734,Dubai,12637.55,Medium
+4055,Sharjah,12636.50,Medium
+4910,Dubai,12635.93,Medium
+426,Dubai,12633.80,Medium
+1225,Dubai,12630.13,Medium
+4760,Sharjah,12629.88,Medium
+474,Sharjah,12629.19,Medium
+4694,Sharjah,12627.47,Medium
+2135,Abu Dhabi,12626.79,Medium
+3980,Abu Dhabi,12625.34,Medium
+3355,Dubai,12625.07,Medium
+2649,Abu Dhabi,12623.41,Medium
+1773,Dubai,12621.28,Medium
+3127,Abu Dhabi,12620.50,Medium
+921,Sharjah,12618.93,Medium
+1054,Dubai,12618.88,Medium
+1721,Dubai,12618.84,Medium
+4021,Abu Dhabi,12617.26,Medium
+2444,Dubai,12615.02,Medium
+748,Sharjah,12611.35,Medium
+965,Sharjah,12610.82,Medium
+2027,Sharjah,12607.56,Medium
+22,Sharjah,12607.41,Medium
+2628,Abu Dhabi,12607.38,Medium
+2667,Abu Dhabi,12604.51,Medium
+2711,Abu Dhabi,12602.22,Medium
+396,Dubai,12601.62,Medium
+1761,Dubai,12600.96,Medium
+1246,Dubai,12598.01,Medium
+3442,Dubai,12593.20,Medium
+1184,Dubai,12593.18,Medium
+735,Abu Dhabi,12592.87,Medium
+3493,Dubai,12592.69,Medium
+2806,Dubai,12590.83,Medium
+3593,Abu Dhabi,12590.49,Medium
+4340,Sharjah,12589.92,Medium
+1763,Dubai,12587.47,Medium
+4640,Dubai,12586.81,Medium
+3930,Dubai,12582.20,Medium
+336,Dubai,12581.82,Medium
+1882,Abu Dhabi,12580.69,Medium
+310,Dubai,12580.09,Medium
+1134,Dubai,12576.61,Medium
+1817,Dubai,12573.92,Medium
+389,Dubai,12572.76,Medium
+3997,Dubai,12570.80,Medium
+4589,Dubai,12569.34,Medium
+3013,Abu Dhabi,12565.37,Medium
+888,Dubai,12565.35,Medium
+4201,Sharjah,12561.17,Medium
+4897,Sharjah,12560.22,Medium
+454,Sharjah,12559.65,Medium
+1275,Sharjah,12557.82,Medium
+3396,Sharjah,12557.01,Medium
+419,Dubai,12554.16,Medium
+3701,Dubai,12551.00,Medium
+137,Dubai,12548.69,Medium
+1635,Dubai,12548.23,Medium
+1746,Abu Dhabi,12548.12,Medium
+4437,Abu Dhabi,12547.35,Medium
+2662,Dubai,12545.38,Medium
+1408,Dubai,12544.76,Medium
+3017,Dubai,12540.32,Medium
+588,Abu Dhabi,12537.77,Medium
+2410,Dubai,12534.73,Medium
+252,Dubai,12534.33,Medium
+3987,Sharjah,12532.77,Medium
+3655,Dubai,12530.55,Medium
+515,Dubai,12530.16,Medium
+4660,Dubai,12529.72,Medium
+344,Dubai,12529.43,Medium
+3662,Abu Dhabi,12528.17,Medium
+15,Abu Dhabi,12527.57,Medium
+296,Dubai,12525.23,Medium
+4511,Abu Dhabi,12524.51,Medium
+2892,Dubai,12524.05,Medium
+2238,Dubai,12521.13,Medium
+1132,Sharjah,12520.38,Medium
+1540,Abu Dhabi,12518.60,Medium
+200,Dubai,12516.82,Medium
+4979,Abu Dhabi,12516.79,Medium
+1569,Dubai,12512.56,Medium
+3341,Abu Dhabi,12510.39,Medium
+831,Dubai,12509.53,Medium
+1765,Dubai,12508.38,Medium
+4179,Sharjah,12506.79,Medium
+286,Dubai,12506.30,Medium
+1906,Dubai,12505.96,Medium
+903,Abu Dhabi,12505.79,Medium
+370,Abu Dhabi,12500.50,Medium
+4995,Abu Dhabi,12499.15,Medium
+3216,Sharjah,12497.31,Medium
+3896,Dubai,12496.67,Medium
+129,Dubai,12496.61,Medium
+1490,Dubai,12496.47,Medium
+3803,Dubai,12495.20,Medium
+4106,Dubai,12495.13,Medium
+3764,Dubai,12493.60,Medium
+233,Dubai,12492.05,Medium
+3091,Abu Dhabi,12489.28,Medium
+3432,Dubai,12489.20,Medium
+876,Dubai,12488.10,Medium
+3491,Dubai,12487.60,Medium
+1935,Dubai,12487.30,Medium
+3292,Sharjah,12485.07,Medium
+3197,Dubai,12482.60,Medium
+3999,Abu Dhabi,12480.30,Medium
+1329,Dubai,12475.99,Medium
+843,Dubai,12474.25,Medium
+3155,Abu Dhabi,12474.00,Medium
+433,Dubai,12471.41,Medium
+2579,Abu Dhabi,12470.47,Medium
+1683,Abu Dhabi,12469.10,Medium
+1465,Dubai,12468.80,Medium
+1257,Abu Dhabi,12468.56,Medium
+3871,Abu Dhabi,12467.77,Medium
+1284,Dubai,12467.67,Medium
+118,Dubai,12467.34,Medium
+3206,Sharjah,12466.12,Medium
+2042,Dubai,12465.59,Medium
+375,Sharjah,12464.08,Medium
+55,Dubai,12461.10,Medium
+4231,Dubai,12457.08,Medium
+4988,Abu Dhabi,12456.73,Medium
+4536,Abu Dhabi,12456.49,Medium
+2781,Dubai,12456.02,Medium
+1993,Dubai,12455.22,Medium
+3086,Sharjah,12455.19,Medium
+4432,Dubai,12454.33,Medium
+2394,Dubai,12453.96,Medium
+4148,Dubai,12453.02,Medium
+3905,Dubai,12452.16,Medium
+219,Sharjah,12450.82,Medium
+2209,Abu Dhabi,12450.03,Medium
+1520,Dubai,12448.57,Medium
+852,Sharjah,12448.22,Medium
+2737,Sharjah,12446.86,Medium
+1334,Dubai,12446.44,Medium
+4720,Sharjah,12442.73,Medium
+3004,Abu Dhabi,12442.67,Medium
+894,Dubai,12439.96,Medium
+3623,Abu Dhabi,12439.62,Medium
+3926,Sharjah,12438.51,Medium
+1292,Dubai,12437.33,Medium
+4267,Abu Dhabi,12436.60,Medium
+2096,Dubai,12433.40,Medium
+4070,Abu Dhabi,12432.88,Medium
+3514,Abu Dhabi,12432.12,Medium
+3925,Abu Dhabi,12430.63,Medium
+2664,Dubai,12430.63,Medium
+2173,Abu Dhabi,12429.97,Medium
+1440,Sharjah,12429.46,Medium
+3200,Dubai,12428.85,Medium
+1780,Dubai,12428.31,Medium
+1779,Dubai,12428.17,Medium
+1595,Sharjah,12428.05,Medium
+850,Dubai,12428.05,Medium
+4460,Dubai,12424.98,Medium
+2039,Dubai,12424.96,Medium
+629,Dubai,12424.82,Medium
+4341,Dubai,12423.91,Medium
+4529,Abu Dhabi,12420.02,Medium
+2552,Abu Dhabi,12419.78,Medium
+3806,Sharjah,12419.73,Medium
+650,Dubai,12417.84,Medium
+1643,Dubai,12416.83,Medium
+2242,Abu Dhabi,12416.01,Medium
+1447,Sharjah,12415.09,Medium
+201,Sharjah,12413.66,Medium
+2610,Dubai,12413.47,Medium
+3453,Abu Dhabi,12411.34,Medium
+39,Abu Dhabi,12410.72,Medium
+3175,Abu Dhabi,12409.60,Medium
+3451,Sharjah,12407.77,Medium
+4713,Abu Dhabi,12406.51,Medium
+489,Dubai,12406.18,Medium
+4593,Dubai,12403.39,Medium
+4917,Abu Dhabi,12399.70,Medium
+787,Abu Dhabi,12397.04,Medium
+486,Dubai,12395.38,Medium
+3836,Abu Dhabi,12394.86,Medium
+3819,Abu Dhabi,12394.43,Medium
+2642,Dubai,12393.03,Medium
+2103,Dubai,12390.13,Medium
+1743,Sharjah,12388.36,Medium
+1847,Dubai,12387.58,Medium
+2054,Abu Dhabi,12387.25,Medium
+3462,Dubai,12385.97,Medium
+4756,Sharjah,12385.80,Medium
+4537,Sharjah,12385.72,Medium
+4836,Dubai,12385.58,Medium
+2188,Dubai,12382.38,Medium
+1696,Abu Dhabi,12381.96,Medium
+1403,Abu Dhabi,12380.68,Medium
+4801,Dubai,12380.24,Medium
+1734,Dubai,12378.17,Medium
+421,Sharjah,12377.31,Medium
+2347,Dubai,12377.13,Medium
+2316,Dubai,12375.98,Medium
+4228,Sharjah,12374.87,Medium
+1712,Abu Dhabi,12374.28,Medium
+3854,Dubai,12373.81,Medium
+1406,Abu Dhabi,12370.25,Medium
+2979,Abu Dhabi,12367.57,Medium
+3342,Sharjah,12366.56,Medium
+1502,Abu Dhabi,12366.37,Medium
+4858,Sharjah,12362.33,Medium
+4497,Abu Dhabi,12360.56,Medium
+94,Abu Dhabi,12358.42,Medium
+1320,Dubai,12357.78,Medium
+4599,Dubai,12357.16,Medium
+3986,Dubai,12355.91,Medium
+1578,Dubai,12352.12,Medium
+2989,Sharjah,12351.34,Medium
+4865,Dubai,12349.97,Medium
+3849,Abu Dhabi,12349.72,Medium
+2755,Dubai,12349.41,Medium
+1210,Dubai,12347.10,Medium
+3296,Dubai,12346.92,Medium
+624,Dubai,12345.65,Medium
+3411,Dubai,12345.61,Medium
+3107,Dubai,12342.38,Medium
+156,Abu Dhabi,12341.82,Medium
+4629,Dubai,12340.77,Medium
+3392,Abu Dhabi,12338.84,Medium
+2038,Dubai,12338.73,Medium
+4368,Dubai,12332.99,Medium
+1997,Dubai,12330.97,Medium
+423,Abu Dhabi,12329.29,Medium
+4851,Abu Dhabi,12329.10,Medium
+872,Dubai,12328.84,Medium
+4740,Dubai,12327.26,Medium
+799,Dubai,12325.48,Medium
+3400,Abu Dhabi,12325.20,Medium
+574,Abu Dhabi,12323.81,Medium
+4176,Dubai,12323.70,Medium
+2028,Abu Dhabi,12320.41,Medium
+3707,Abu Dhabi,12318.76,Medium
+4030,Sharjah,12317.90,Medium
+2523,Dubai,12317.41,Medium
+199,Dubai,12317.38,Medium
+4904,Dubai,12316.91,Medium
+4518,Abu Dhabi,12316.59,Medium
+2825,Dubai,12316.37,Medium
+185,Abu Dhabi,12315.64,Medium
+3961,Sharjah,12315.22,Medium
+4188,Abu Dhabi,12314.52,Medium
+1766,Abu Dhabi,12313.95,Medium
+47,Sharjah,12312.03,Medium
+2775,Abu Dhabi,12311.84,Medium
+3148,Dubai,12311.26,Medium
+2446,Abu Dhabi,12310.07,Medium
+3221,Dubai,12309.61,Medium
+1131,Dubai,12309.08,Medium
+4006,Abu Dhabi,12308.64,Medium
+2592,Dubai,12306.06,Medium
+4238,Dubai,12304.01,Medium
+862,Dubai,12300.91,Medium
+1434,Abu Dhabi,12298.74,Medium
+3436,Sharjah,12298.56,Medium
+3340,Sharjah,12297.03,Medium
+495,Sharjah,12296.04,Medium
+3792,Abu Dhabi,12294.09,Medium
+4492,Dubai,12293.82,Medium
+166,Dubai,12292.93,Medium
+4191,Dubai,12290.15,Medium
+800,Sharjah,12288.92,Medium
+1251,Dubai,12287.75,Medium
+621,Dubai,12287.03,Medium
+801,Dubai,12286.04,Medium
+939,Dubai,12285.32,Medium
+3863,Abu Dhabi,12283.86,Medium
+152,Dubai,12282.77,Medium
+4461,Sharjah,12282.63,Medium
+4111,Dubai,12281.68,Medium
+1214,Dubai,12280.98,Medium
+786,Abu Dhabi,12279.78,Medium
+279,Dubai,12279.24,Medium
+25,Abu Dhabi,12278.50,Medium
+1369,Abu Dhabi,12277.85,Medium
+1602,Dubai,12277.40,Medium
+288,Dubai,12274.09,Medium
+3611,Abu Dhabi,12273.73,Medium
+3989,Abu Dhabi,12272.73,Medium
+2508,Dubai,12272.52,Medium
+1364,Dubai,12271.75,Medium
+3163,Sharjah,12271.66,Medium
+4249,Dubai,12271.24,Medium
+353,Dubai,12270.23,Medium
+4283,Dubai,12269.76,Medium
+2157,Dubai,12268.28,Medium
+3026,Dubai,12268.19,Medium
+684,Dubai,12267.11,Medium
+1076,Dubai,12264.76,Medium
+2057,Sharjah,12264.68,Medium
+4479,Abu Dhabi,12262.91,Medium
+87,Dubai,12261.54,Medium
+74,Abu Dhabi,12259.60,Medium
+1866,Sharjah,12259.28,Medium
+679,Dubai,12254.83,Medium
+3546,Abu Dhabi,12252.88,Medium
+984,Dubai,12251.80,Medium
+4458,Abu Dhabi,12251.29,Medium
+1985,Dubai,12251.09,Medium
+1421,Dubai,12250.86,Medium
+859,Abu Dhabi,12250.51,Medium
+4721,Dubai,12250.07,Medium
+2962,Dubai,12248.94,Medium
+2127,Dubai,12248.57,Medium
+4928,Dubai,12248.45,Medium
+3920,Dubai,12243.22,Medium
+3774,Dubai,12241.76,Medium
+2692,Sharjah,12240.77,Medium
+365,Abu Dhabi,12240.38,Medium
+1363,Dubai,12240.28,Medium
+648,Abu Dhabi,12239.42,Medium
+3038,Dubai,12238.11,Medium
+401,Abu Dhabi,12236.05,Medium
+1687,Dubai,12233.36,Medium
+2262,Dubai,12230.95,Medium
+4177,Abu Dhabi,12220.80,Medium
+1986,Abu Dhabi,12220.79,Medium
+284,Abu Dhabi,12220.00,Medium
+1459,Dubai,12218.67,Medium
+1664,Abu Dhabi,12217.59,Medium
+841,Abu Dhabi,12217.19,Medium
+203,Dubai,12216.64,Medium
+4677,Dubai,12215.76,Medium
+666,Sharjah,12215.34,Medium
+3056,Dubai,12214.12,Medium
+3461,Dubai,12213.45,Medium
+3318,Dubai,12212.21,Medium
+988,Dubai,12209.24,Medium
+2569,Dubai,12208.78,Medium
+12,Sharjah,12208.38,Medium
+3090,Dubai,12207.62,Medium
+3246,Sharjah,12206.66,Medium
+169,Dubai,12206.33,Medium
+1170,Abu Dhabi,12206.00,Medium
+2673,Sharjah,12204.61,Medium
+2487,Abu Dhabi,12203.70,Medium
+677,Dubai,12203.53,Medium
+3959,Abu Dhabi,12196.01,Medium
+4323,Abu Dhabi,12194.30,Medium
+3114,Dubai,12192.98,Medium
+3783,Dubai,12192.20,Medium
+2477,Dubai,12191.98,Medium
+1377,Dubai,12190.17,Medium
+4296,Sharjah,12188.95,Medium
+268,Dubai,12184.83,Medium
+4946,Dubai,12184.19,Medium
+688,Dubai,12183.86,Medium
+1449,Dubai,12183.78,Medium
+4539,Dubai,12183.74,Medium
+2061,Dubai,12181.59,Medium
+3162,Abu Dhabi,12181.35,Medium
+3465,Sharjah,12180.88,Medium
+4011,Dubai,12180.65,Medium
+2194,Sharjah,12178.67,Medium
+4410,Dubai,12177.19,Medium
+68,Sharjah,12176.96,Medium
+1027,Sharjah,12175.30,Medium
+239,Dubai,12174.78,Medium
+3391,Sharjah,12174.50,Medium
+503,Dubai,12174.05,Medium
+2838,Sharjah,12171.84,Medium
+2903,Sharjah,12171.46,Medium
+949,Sharjah,12170.18,Medium
+2363,Sharjah,12169.05,Medium
+3840,Dubai,12169.02,Medium
+1829,Sharjah,12165.85,Medium
+2688,Abu Dhabi,12165.82,Medium
+3002,Dubai,12164.80,Medium
+4187,Abu Dhabi,12163.44,Medium
+1282,Abu Dhabi,12163.28,Medium
+2128,Abu Dhabi,12159.39,Medium
+1193,Abu Dhabi,12158.60,Medium
+342,Dubai,12158.51,Medium
+3081,Abu Dhabi,12158.16,Medium
+2575,Dubai,12157.93,Medium
+1066,Abu Dhabi,12157.44,Medium
+218,Dubai,12156.52,Medium
+2240,Sharjah,12156.29,Medium
+3498,Dubai,12155.64,Medium
+4247,Dubai,12154.77,Medium
+4886,Abu Dhabi,12153.76,Medium
+1753,Dubai,12152.86,Medium
+3738,Abu Dhabi,12152.49,Medium
+1536,Abu Dhabi,12150.86,Medium
+83,Dubai,12149.71,Medium
+1848,Dubai,12148.31,Medium
+1581,Dubai,12145.08,Medium
+4268,Dubai,12143.69,Medium
+599,Sharjah,12142.19,Medium
+4462,Dubai,12141.40,Medium
+1352,Abu Dhabi,12140.47,Medium
+1727,Sharjah,12137.47,Medium
+2205,Dubai,12136.50,Medium
+1500,Sharjah,12135.43,Medium
+1247,Sharjah,12133.73,Medium
+2007,Sharjah,12132.08,Medium
+4446,Dubai,12131.91,Medium
+2465,Sharjah,12131.10,Medium
+1757,Dubai,12129.52,Medium
+2573,Sharjah,12129.27,Medium
+92,Abu Dhabi,12119.83,Medium
+4895,Dubai,12116.24,Medium
+1531,Dubai,12115.57,Medium
+2677,Dubai,12114.29,Medium
+2905,Dubai,12109.15,Medium
+2603,Dubai,12108.73,Medium
+2691,Abu Dhabi,12105.86,Medium
+2708,Dubai,12105.20,Medium
+4594,Dubai,12103.45,Medium
+3420,Abu Dhabi,12102.88,Medium
+241,Abu Dhabi,12098.05,Medium
+2079,Sharjah,12097.77,Medium
+1385,Dubai,12096.61,Medium
+2361,Dubai,12095.42,Medium
+968,Dubai,12092.53,Medium
+1206,Abu Dhabi,12091.75,Medium
+994,Sharjah,12091.46,Medium
+3346,Dubai,12091.42,Medium
+4282,Abu Dhabi,12088.92,Medium
+3749,Dubai,12088.66,Medium
+4411,Abu Dhabi,12086.89,Medium
+1975,Abu Dhabi,12085.14,Medium
+3445,Dubai,12085.10,Medium
+3215,Dubai,12082.96,Medium
+4827,Abu Dhabi,12082.86,Medium
+4392,Dubai,12078.58,Medium
+4412,Dubai,12078.00,Medium
+3118,Abu Dhabi,12077.76,Medium
+2805,Sharjah,12077.29,Medium
+2182,Dubai,12076.89,Medium
+1809,Sharjah,12075.94,Medium
+436,Abu Dhabi,12075.19,Medium
+1830,Dubai,12073.54,Medium
+3772,Sharjah,12072.88,Medium
+4415,Abu Dhabi,12072.17,Medium
+3711,Abu Dhabi,12071.60,Medium
+4791,Dubai,12069.84,Medium
+1652,Dubai,12069.04,Medium
+3778,Abu Dhabi,12068.57,Medium
+4375,Dubai,12066.74,Medium
+1553,Abu Dhabi,12065.43,Medium
+3644,Abu Dhabi,12064.14,Medium
+2143,Sharjah,12063.29,Medium
+271,Abu Dhabi,12061.97,Medium
+1522,Sharjah,12056.04,Medium
+2621,Dubai,12055.68,Medium
+3421,Abu Dhabi,12054.66,Medium
+567,Sharjah,12053.15,Medium
+2018,Dubai,12051.98,Medium
+2856,Abu Dhabi,12051.17,Medium
+3478,Sharjah,12049.86,Medium
+4647,Sharjah,12046.55,Medium
+3028,Dubai,12046.52,Medium
+3283,Abu Dhabi,12045.33,Medium
+4009,Dubai,12043.92,Medium
+969,Abu Dhabi,12042.97,Medium
+1044,Dubai,12041.10,Medium
+3049,Dubai,12040.57,Medium
+4816,Dubai,12038.87,Medium
+2348,Abu Dhabi,12034.97,Medium
+2485,Abu Dhabi,12034.59,Medium
+3395,Dubai,12034.31,Medium
+3557,Abu Dhabi,12031.46,Medium
+2902,Dubai,12029.90,Medium
+236,Abu Dhabi,12029.44,Medium
+381,Abu Dhabi,12028.55,Medium
+54,Dubai,12028.39,Medium
+827,Dubai,12027.94,Medium
+1398,Sharjah,12027.92,Medium
+4431,Abu Dhabi,12027.70,Medium
+820,Abu Dhabi,12027.27,Medium
+1639,Abu Dhabi,12023.33,Medium
+1690,Sharjah,12021.98,Medium
+644,Dubai,12021.80,Medium
+362,Sharjah,12020.53,Medium
+4547,Dubai,12019.80,Medium
+1353,Dubai,12017.00,Medium
+3181,Dubai,12016.68,Medium
+3353,Dubai,12013.43,Medium
+1921,Dubai,12011.57,Medium
+334,Dubai,12009.44,Medium
+2823,Abu Dhabi,12008.93,Medium
+769,Dubai,12006.49,Medium
+4167,Dubai,12006.41,Medium
+661,Sharjah,12003.76,Medium
+2808,Dubai,12000.05,Medium
+1494,Abu Dhabi,11999.13,Medium
+300,Dubai,11997.16,Medium
+1301,Dubai,11994.01,Medium
+758,Dubai,11993.86,Medium
+2122,Abu Dhabi,11991.95,Medium
+2797,Abu Dhabi,11990.38,Medium
+2520,Abu Dhabi,11989.56,Medium
+1368,Dubai,11988.38,Medium
+3110,Dubai,11986.17,Medium
+2582,Dubai,11986.16,Medium
+1960,Abu Dhabi,11985.07,Medium
+127,Dubai,11983.27,Medium
+2852,Dubai,11982.47,Medium
+3210,Abu Dhabi,11982.21,Medium
+835,Dubai,11981.32,Medium
+1341,Dubai,11979.18,Medium
+2624,Dubai,11978.27,Medium
+3716,Dubai,11978.01,Medium
+1163,Dubai,11977.07,Medium
+4483,Sharjah,11976.06,Medium
+651,Dubai,11975.17,Medium
+4913,Dubai,11973.43,Medium
+4553,Dubai,11972.75,Medium
+4977,Sharjah,11972.07,Medium
+17,Sharjah,11971.82,Medium
+1287,Dubai,11971.15,Medium
+4805,Dubai,11970.51,Medium
+2043,Abu Dhabi,11970.17,Medium
+3617,Abu Dhabi,11969.62,Medium
+4983,Dubai,11968.34,Medium
+3327,Abu Dhabi,11967.12,Medium
+2906,Sharjah,11965.37,Medium
+3321,Dubai,11963.32,Medium
+4038,Sharjah,11962.92,Medium
+60,Dubai,11961.66,Medium
+4329,Dubai,11959.69,Medium
+2081,Sharjah,11959.14,Medium
+4168,Dubai,11959.00,Medium
+4703,Abu Dhabi,11958.52,Medium
+731,Dubai,11958.42,Medium
+2208,Sharjah,11957.45,Medium
+4876,Dubai,11956.73,Medium
+2762,Sharjah,11956.57,Medium
+223,Dubai,11956.16,Medium
+507,Abu Dhabi,11953.49,Medium
+4786,Abu Dhabi,11953.49,Medium
+3572,Sharjah,11953.34,Medium
+352,Dubai,11951.86,Medium
+4655,Dubai,11951.29,Medium
+3348,Sharjah,11949.79,Medium
+2598,Sharjah,11948.05,Medium
+1078,Sharjah,11947.68,Medium
+3303,Abu Dhabi,11946.87,Medium
+1474,Abu Dhabi,11946.46,Medium
+1729,Abu Dhabi,11945.86,Medium
+1365,Abu Dhabi,11945.77,Medium
+2176,Dubai,11945.40,Medium
+1850,Dubai,11945.02,Medium
+3645,Abu Dhabi,11943.73,Medium
+3390,Sharjah,11943.33,Medium
+2424,Abu Dhabi,11943.33,Medium
+527,Dubai,11942.71,Medium
+880,Sharjah,11942.49,Medium
+4065,Dubai,11941.96,Medium
+2980,Dubai,11940.84,Medium
+991,Dubai,11939.15,Medium
+3488,Dubai,11939.14,Medium
+2086,Dubai,11938.11,Medium
+4173,Abu Dhabi,11937.62,Medium
+611,Dubai,11937.36,Medium
+231,Abu Dhabi,11937.25,Medium
+3583,Dubai,11937.13,Medium
+3330,Sharjah,11937.10,Medium
+2470,Abu Dhabi,11936.07,Medium
+3839,Abu Dhabi,11935.39,Medium
+4373,Dubai,11935.26,Medium
+3140,Dubai,11935.17,Medium
+4180,Abu Dhabi,11932.28,Medium
+4193,Dubai,11932.08,Medium
+136,Dubai,11929.84,Medium
+3696,Dubai,11928.93,Medium
+2407,Dubai,11927.15,Medium
+811,Abu Dhabi,11922.64,Medium
+618,Sharjah,11922.31,Medium
+2898,Sharjah,11921.72,Medium
+712,Sharjah,11918.60,Medium
+2266,Dubai,11918.26,Medium
+649,Dubai,11918.18,Medium
+2670,Sharjah,11914.89,Medium
+4854,Dubai,11914.82,Medium
+2824,Dubai,11912.04,Medium
+2462,Dubai,11911.42,Medium
+3365,Sharjah,11910.74,Medium
+4828,Abu Dhabi,11910.54,Medium
+2622,Dubai,11910.20,Medium
+3202,Abu Dhabi,11909.23,Medium
+1208,Abu Dhabi,11909.23,Medium
+4576,Abu Dhabi,11903.70,Medium
+3089,Dubai,11902.14,Medium
+955,Sharjah,11902.00,Medium
+825,Sharjah,11898.04,Medium
+1938,Dubai,11897.78,Medium
+3266,Sharjah,11897.36,Medium
+1694,Dubai,11896.86,Medium
+4508,Sharjah,11896.73,Medium
+1507,Dubai,11896.46,Medium
+3642,Dubai,11896.19,Medium
+468,Dubai,11895.24,Medium
+3324,Dubai,11893.99,Medium
+2614,Dubai,11891.76,Medium
+1853,Dubai,11891.53,Medium
+2469,Abu Dhabi,11891.23,Medium
+2910,Dubai,11890.28,Medium
+2840,Abu Dhabi,11888.28,Medium
+3134,Dubai,11887.78,Medium
+463,Sharjah,11887.26,Medium
+854,Sharjah,11885.87,Medium
+4648,Dubai,11885.02,Medium
+2212,Sharjah,11883.99,Medium
+2397,Dubai,11883.62,Medium
+1534,Dubai,11883.16,Medium
+4197,Dubai,11877.84,Medium
+147,Dubai,11877.51,Medium
+4213,Dubai,11876.23,Medium
+2409,Dubai,11876.21,Medium
+4122,Sharjah,11874.30,Medium
+3735,Sharjah,11869.09,Medium
+2839,Dubai,11868.93,Medium
+2793,Abu Dhabi,11868.50,Medium
+213,Dubai,11867.66,Medium
+214,Dubai,11866.20,Medium
+1984,Abu Dhabi,11864.52,Medium
+4960,Sharjah,11864.43,Medium
+1062,Dubai,11864.39,Medium
+858,Abu Dhabi,11864.17,Medium
+4597,Abu Dhabi,11860.86,Medium
+4110,Sharjah,11857.35,Medium
+3289,Dubai,11857.02,Medium
+1197,Sharjah,11854.79,Medium
+4244,Dubai,11852.37,Medium
+3512,Dubai,11851.71,Medium
+3139,Abu Dhabi,11850.65,Medium
+2089,Dubai,11850.54,Medium
+4043,Sharjah,11847.87,Medium
+1230,Dubai,11847.34,Medium
+1000,Dubai,11847.27,Medium
+481,Abu Dhabi,11847.03,Medium
+911,Abu Dhabi,11846.98,Medium
+561,Sharjah,11846.78,Medium
+51,Dubai,11846.69,Medium
+4887,Dubai,11845.09,Medium
+3598,Abu Dhabi,11844.17,Medium
+9,Dubai,11842.68,Medium
+2416,Dubai,11842.28,Medium
+734,Dubai,11841.55,Medium
+1245,Dubai,11840.76,Medium
+1100,Dubai,11840.64,Medium
+2973,Abu Dhabi,11837.57,Medium
+3675,Dubai,11836.90,Medium
+1003,Sharjah,11836.86,Medium
+3796,Dubai,11835.15,Medium
+409,Sharjah,11835.10,Medium
+3874,Dubai,11835.05,Medium
+802,Dubai,11834.84,Medium
+2595,Dubai,11834.32,Medium
+3480,Abu Dhabi,11834.29,Medium
+4305,Sharjah,11833.34,Medium
+2918,Sharjah,11832.83,Medium
+4243,Dubai,11832.65,Medium
+4050,Abu Dhabi,11831.90,Medium
+4736,Abu Dhabi,11831.36,Medium
+3183,Dubai,11830.85,Medium
+1031,Abu Dhabi,11829.57,Medium
+276,Dubai,11827.54,Medium
+1298,Dubai,11827.17,Medium
+533,Abu Dhabi,11824.60,Medium
+4302,Dubai,11824.38,Medium
+3921,Abu Dhabi,11823.54,Medium
+2880,Dubai,11823.32,Medium
+1810,Sharjah,11821.01,Medium
+1077,Dubai,11820.79,Medium
+2798,Abu Dhabi,11820.28,Medium
+2319,Abu Dhabi,11820.02,Medium
+4879,Dubai,11818.39,Medium
+2314,Abu Dhabi,11816.26,Medium
+3699,Dubai,11813.74,Medium
+1926,Dubai,11813.45,Medium
+3704,Abu Dhabi,11812.85,Medium
+1002,Dubai,11812.62,Medium
+3044,Dubai,11811.17,Medium
+1468,Abu Dhabi,11809.41,Medium
+3052,Dubai,11808.62,Medium
+2306,Dubai,11807.43,Medium
+3616,Sharjah,11806.69,Medium
+1357,Dubai,11806.08,Medium
+3119,Dubai,11805.86,Medium
+4916,Abu Dhabi,11805.76,Medium
+549,Dubai,11805.44,Medium
+1813,Dubai,11804.51,Medium
+1560,Abu Dhabi,11804.46,Medium
+3287,Abu Dhabi,11804.44,Medium
+3371,Sharjah,11804.07,Medium
+2830,Dubai,11803.99,Medium
+4277,Dubai,11803.82,Medium
+2336,Dubai,11803.48,Medium
+1142,Abu Dhabi,11803.04,Medium
+4100,Dubai,11802.04,Medium
+4456,Dubai,11800.94,Medium
+3968,Dubai,11800.90,Medium
+4637,Sharjah,11800.82,Medium
+3624,Dubai,11800.68,Medium
+1599,Dubai,11798.26,Medium
+2000,Sharjah,11796.76,Medium
+3992,Abu Dhabi,11794.09,Medium
+1703,Sharjah,11793.05,Medium
+1716,Dubai,11792.91,Medium
+1198,Abu Dhabi,11791.55,Medium
+2141,Sharjah,11790.14,Medium
+1148,Dubai,11790.03,Medium
+4146,Sharjah,11789.25,Medium
+1285,Dubai,11787.91,Medium
+4638,Abu Dhabi,11786.75,Medium
+4981,Dubai,11786.56,Medium
+1594,Abu Dhabi,11784.26,Medium
+2526,Dubai,11783.94,Medium
+3066,Sharjah,11783.34,Medium
+1405,Abu Dhabi,11782.76,Medium
+1695,Abu Dhabi,11782.70,Medium
+2684,Dubai,11782.29,Medium
+350,Sharjah,11780.97,Medium
+1677,Abu Dhabi,11778.44,Medium
+295,Abu Dhabi,11777.23,Medium
+3988,Dubai,11776.07,Medium
+4352,Abu Dhabi,11775.82,Medium
+4317,Dubai,11774.22,Medium
+338,Abu Dhabi,11773.74,Medium
+1437,Sharjah,11772.61,Medium
+1900,Dubai,11771.71,Medium
+1154,Dubai,11771.58,Medium
+4751,Abu Dhabi,11771.39,Medium
+2283,Dubai,11771.30,Medium
+4085,Abu Dhabi,11768.78,Medium
+3376,Abu Dhabi,11768.50,Medium
+535,Sharjah,11765.52,Medium
+1691,Abu Dhabi,11764.01,Medium
+1498,Dubai,11763.69,Medium
+105,Dubai,11763.57,Medium
+4448,Abu Dhabi,11761.57,Medium
+230,Dubai,11761.04,Medium
+542,Abu Dhabi,11759.71,Medium
+4757,Dubai,11759.37,Medium
+377,Abu Dhabi,11759.27,Medium
+3295,Abu Dhabi,11759.13,Medium
+4564,Sharjah,11756.08,Medium
+4372,Dubai,11756.07,Medium
+1453,Abu Dhabi,11754.66,Medium
+2177,Dubai,11754.44,Medium
+3726,Dubai,11754.43,Medium
+1012,Sharjah,11751.25,Medium
+508,Dubai,11750.29,Medium
+4075,Sharjah,11750.00,Medium
+1035,Abu Dhabi,11749.28,Medium
+3918,Abu Dhabi,11749.11,Medium
+63,Dubai,11748.36,Medium
+634,Dubai,11747.30,Medium
+1064,Abu Dhabi,11746.53,Medium
+1621,Dubai,11745.96,Medium
+3723,Dubai,11744.40,Medium
+4318,Dubai,11743.40,Medium
+1660,Dubai,11743.17,Medium
+2186,Dubai,11742.95,Medium
+4692,Dubai,11742.84,Medium
+108,Dubai,11741.74,Medium
+4273,Dubai,11741.71,Medium
+3936,Abu Dhabi,11741.23,Medium
+612,Dubai,11741.05,Medium
+1358,Dubai,11740.87,Medium
+3102,Sharjah,11739.20,Medium
+4612,Abu Dhabi,11737.81,Medium
+1452,Sharjah,11737.43,Medium
+2731,Sharjah,11734.74,Medium
+504,Sharjah,11734.60,Medium
+3965,Abu Dhabi,11734.52,Medium
+4102,Abu Dhabi,11733.81,Medium
+306,Dubai,11733.77,Medium
+1009,Abu Dhabi,11733.63,Medium
+1402,Dubai,11733.53,Medium
+4139,Abu Dhabi,11732.60,Medium
+4333,Sharjah,11732.16,Medium
+354,Sharjah,11731.40,Medium
+1628,Dubai,11731.14,Medium
+1194,Dubai,11728.85,Medium
+2570,Dubai,11725.26,Medium
+4924,Abu Dhabi,11722.01,Medium
+3664,Sharjah,11720.93,Medium
+639,Dubai,11720.32,Medium
+4236,Abu Dhabi,11719.95,Medium
+70,Dubai,11718.64,Medium
+2557,Sharjah,11715.37,Medium
+1086,Abu Dhabi,11715.15,Medium
+3816,Dubai,11714.84,Medium
+1478,Dubai,11714.56,Medium
+3456,Dubai,11714.34,Medium
+4269,Abu Dhabi,11714.23,Medium
+3195,Dubai,11713.75,Medium
+1542,Abu Dhabi,11711.49,Medium
+191,Dubai,11710.97,Medium
+2483,Dubai,11709.90,Medium
+4416,Abu Dhabi,11709.64,Medium
+104,Sharjah,11708.36,Medium
+4240,Dubai,11708.25,Medium
+1711,Dubai,11706.58,Medium
+1718,Abu Dhabi,11705.42,Medium
+626,Dubai,11705.01,Medium
+1380,Abu Dhabi,11703.99,Medium
+4235,Dubai,11702.86,Medium
+2309,Abu Dhabi,11702.23,Medium
+1749,Sharjah,11701.44,Medium
+3343,Dubai,11700.97,Medium
+447,Dubai,11700.25,Medium
+2479,Dubai,11699.59,Medium
+2630,Dubai,11699.38,Medium
+1265,Sharjah,11699.24,Medium
+3788,Abu Dhabi,11699.04,Medium
+4818,Abu Dhabi,11697.17,Medium
+4294,Sharjah,11696.07,Medium
+4944,Sharjah,11695.98,Medium
+4331,Abu Dhabi,11695.84,Medium
+723,Dubai,11694.72,Medium
+1095,Dubai,11694.31,Medium
+1551,Abu Dhabi,11693.90,Medium
+1787,Dubai,11692.04,Medium
+3758,Abu Dhabi,11691.13,Medium
+2874,Dubai,11691.06,Medium
+3880,Abu Dhabi,11690.81,Medium
+3383,Dubai,11690.50,Medium
+1401,Abu Dhabi,11688.44,Medium
+728,Abu Dhabi,11686.99,Medium
+4651,Sharjah,11686.76,Medium
+3911,Dubai,11684.51,Medium
+2538,Dubai,11683.74,Medium
+4417,Sharjah,11683.35,Medium
+4480,Dubai,11683.21,Medium
+4304,Dubai,11682.38,Medium
+4490,Sharjah,11682.14,Medium
+892,Dubai,11681.89,Medium
+75,Dubai,11681.75,Medium
+1912,Sharjah,11681.70,Medium
+2516,Sharjah,11681.14,Medium
+1213,Dubai,11679.29,Medium
+3712,Dubai,11677.49,Medium
+617,Dubai,11676.85,Medium
+2413,Dubai,11673.95,Medium
+972,Dubai,11672.17,Medium
+2581,Dubai,11669.36,Medium
+4782,Abu Dhabi,11668.70,Medium
+2576,Dubai,11668.27,Medium
+2499,Abu Dhabi,11658.40,Medium
+1394,Dubai,11657.39,Medium
+1264,Sharjah,11655.92,Medium
+3471,Dubai,11655.03,Medium
+4493,Dubai,11653.43,Medium
+3238,Sharjah,11651.56,Medium
+940,Dubai,11651.18,Medium
+107,Abu Dhabi,11649.64,Medium
+2510,Sharjah,11646.57,Medium
+1328,Abu Dhabi,11645.03,Medium
+4868,Dubai,11644.77,Medium
+195,Abu Dhabi,11642.71,Medium
+1981,Dubai,11641.32,Medium
+4118,Dubai,11640.70,Medium
+2280,Dubai,11639.97,Medium
+4775,Dubai,11639.55,Medium
+2180,Abu Dhabi,11638.22,Medium
+596,Sharjah,11637.94,Medium
+5000,Dubai,11637.86,Medium
+1239,Dubai,11635.99,Medium
+1057,Abu Dhabi,11635.82,Medium
+2551,Abu Dhabi,11635.14,Medium
+1081,Dubai,11634.83,Medium
+3725,Abu Dhabi,11634.43,Medium
+2669,Dubai,11633.28,Medium
+3943,Dubai,11631.77,Medium
+4290,Abu Dhabi,11631.68,Medium
+937,Dubai,11630.91,Medium
+3631,Dubai,11627.46,Medium
+1480,Dubai,11625.35,Medium
+2877,Abu Dhabi,11625.26,Medium
+1566,Dubai,11625.19,Medium
+4395,Dubai,11625.17,Medium
+402,Abu Dhabi,11624.19,Medium
+253,Dubai,11622.64,Medium
+812,Dubai,11622.47,Medium
+4174,Abu Dhabi,11622.03,Medium
+3247,Sharjah,11621.16,Medium
+2729,Sharjah,11620.35,Medium
+1894,Abu Dhabi,11619.57,Medium
+4299,Dubai,11618.56,Medium
+669,Abu Dhabi,11617.43,Medium
+1751,Dubai,11616.19,Medium
+2429,Sharjah,11615.70,Medium
+3724,Dubai,11613.83,Medium
+4124,Abu Dhabi,11612.50,Medium
+3080,Abu Dhabi,11611.20,Medium
+3377,Abu Dhabi,11610.13,Medium
+2265,Abu Dhabi,11609.77,Medium
+1423,Abu Dhabi,11608.43,Medium
+2003,Dubai,11606.02,Medium
+2106,Dubai,11605.53,Medium
+4861,Sharjah,11603.99,Medium
+4023,Dubai,11602.69,Medium
+2819,Abu Dhabi,11602.29,Medium
+363,Abu Dhabi,11601.55,Medium
+1253,Dubai,11599.26,Medium
+1518,Abu Dhabi,11598.67,Medium
+3314,Dubai,11598.02,Medium
+4037,Dubai,11597.22,Medium
+2608,Dubai,11595.68,Medium
+2073,Sharjah,11592.01,Medium
+3973,Dubai,11592.00,Medium
+4320,Sharjah,11588.51,Medium
+3553,Abu Dhabi,11588.14,Medium
+521,Dubai,11587.24,Medium
+3025,Sharjah,11586.45,Medium
+4413,Dubai,11583.40,Medium
+1400,Dubai,11582.86,Medium
+1558,Abu Dhabi,11582.29,Medium
+2055,Sharjah,11581.37,Medium
+4930,Sharjah,11580.31,Medium
+3527,Sharjah,11580.27,Medium
+961,Abu Dhabi,11579.90,Medium
+2846,Abu Dhabi,11579.56,Medium
+98,Dubai,11578.71,Medium
+1319,Abu Dhabi,11576.09,Medium
+4217,Sharjah,11574.77,Medium
+40,Sharjah,11573.45,Medium
+4834,Dubai,11573.13,Medium
+4601,Dubai,11572.01,Medium
+3588,Dubai,11570.76,Medium
+2239,Abu Dhabi,11569.96,Medium
+1263,Abu Dhabi,11565.51,Medium
+2956,Abu Dhabi,11564.70,Medium
+531,Dubai,11564.55,Medium
+1033,Dubai,11564.17,Medium
+1386,Abu Dhabi,11563.53,Medium
+4010,Dubai,11563.22,Medium
+4003,Abu Dhabi,11561.97,Medium
+2680,Abu Dhabi,11561.63,Medium
+4427,Dubai,11558.26,Medium
+3199,Dubai,11557.95,Medium
+4778,Sharjah,11550.55,Medium
+440,Abu Dhabi,11549.30,Medium
+1808,Dubai,11548.04,Medium
+2587,Dubai,11547.37,Medium
+944,Dubai,11547.15,Medium
+3565,Abu Dhabi,11547.06,Medium
+3244,Dubai,11545.85,Medium
+935,Abu Dhabi,11545.03,Medium
+580,Dubai,11541.29,Medium
+3633,Abu Dhabi,11538.70,Medium
+2757,Dubai,11538.10,Medium
+4618,Dubai,11536.47,Medium
+941,Abu Dhabi,11536.35,Medium
+589,Abu Dhabi,11536.18,Medium
+4454,Dubai,11535.94,Medium
+235,Abu Dhabi,11532.76,Medium
+3182,Abu Dhabi,11530.38,Medium
+3885,Sharjah,11527.07,Medium
+2999,Sharjah,11523.67,Medium
+3940,Sharjah,11523.52,Medium
+4938,Dubai,11523.52,Medium
+1954,Dubai,11522.98,Medium
+2291,Sharjah,11522.12,Medium
+3666,Abu Dhabi,11522.08,Medium
+4046,Dubai,11517.92,Medium
+257,Sharjah,11517.79,Medium
+510,Sharjah,11517.68,Medium
+3361,Sharjah,11516.26,Medium
+2515,Dubai,11515.12,Medium
+3112,Dubai,11514.89,Medium
+1533,Abu Dhabi,11514.32,Medium
+3767,Dubai,11513.81,Medium
+3499,Abu Dhabi,11508.18,Medium
+4297,Abu Dhabi,11507.96,Medium
+459,Sharjah,11507.59,Medium
+3261,Dubai,11507.20,Medium
+3578,Sharjah,11507.19,Medium
+4726,Dubai,11507.10,Medium
+1570,Abu Dhabi,11506.93,Medium
+2071,Abu Dhabi,11506.60,Medium
+27,Sharjah,11505.40,Medium
+579,Abu Dhabi,11503.12,Medium
+4831,Dubai,11502.75,Medium
+170,Abu Dhabi,11501.92,Medium
+3900,Dubai,11501.65,Medium
+2022,Abu Dhabi,11501.27,Medium
+4229,Dubai,11500.81,Medium
+4540,Sharjah,11500.36,Medium
+480,Dubai,11500.27,Medium
+3595,Abu Dhabi,11499.62,Medium
+4698,Dubai,11498.94,Medium
+4166,Abu Dhabi,11490.59,Medium
+1574,Dubai,11490.37,Medium
+3963,Abu Dhabi,11488.58,Medium
+2472,Sharjah,11488.08,Medium
+4399,Sharjah,11485.97,Medium
+2850,Dubai,11485.45,Medium
+3124,Dubai,11480.04,Medium
+289,Sharjah,11478.85,Medium
+3692,Abu Dhabi,11477.33,Medium
+1020,Abu Dhabi,11475.12,Medium
+3494,Dubai,11473.97,Medium
+2921,Sharjah,11472.88,Medium
+541,Sharjah,11472.63,Medium
+351,Sharjah,11472.53,Medium
+2959,Sharjah,11471.90,Medium
+462,Dubai,11471.80,Medium
+4937,Sharjah,11470.99,Medium
+1114,Dubai,11470.89,Medium
+238,Abu Dhabi,11468.22,Medium
+123,Abu Dhabi,11467.27,Medium
+2585,Dubai,11465.89,Medium
+3501,Abu Dhabi,11464.62,Medium
+1410,Dubai,11462.89,Medium
+2221,Dubai,11460.56,Medium
+3273,Sharjah,11460.34,Medium
+4806,Dubai,11458.86,Medium
+1236,Sharjah,11458.41,Medium
+1106,Dubai,11457.71,Medium
+657,Dubai,11457.62,Medium
+3226,Sharjah,11454.01,Medium
+4627,Sharjah,11453.92,Medium
+3736,Dubai,11452.61,Medium
+2596,Dubai,11451.53,Medium
+2035,Dubai,11449.55,Medium
+1756,Dubai,11446.89,Medium
+2841,Sharjah,11445.10,Medium
+2615,Abu Dhabi,11445.07,Medium
+2791,Abu Dhabi,11444.36,Medium
+3550,Dubai,11444.30,Medium
+4939,Dubai,11444.26,Medium
+4310,Dubai,11443.71,Medium
+1593,Sharjah,11443.39,Medium
+4390,Abu Dhabi,11443.16,Medium
+493,Abu Dhabi,11441.37,Medium
+496,Dubai,11440.27,Medium
+1539,Dubai,11440.22,Medium
+836,Sharjah,11439.56,Medium
+2426,Dubai,11439.40,Medium
+2345,Sharjah,11439.03,Medium
+4016,Dubai,11438.98,Medium
+3452,Dubai,11436.87,Medium
+3179,Sharjah,11436.44,Medium
+749,Sharjah,11434.76,Medium
+4605,Dubai,11433.67,Medium
+4466,Sharjah,11432.53,Medium
+1006,Dubai,11431.68,Medium
+1260,Abu Dhabi,11427.80,Medium
+2884,Sharjah,11427.64,Medium
+11,Abu Dhabi,11427.49,Medium
+2513,Dubai,11427.22,Medium
+4204,Abu Dhabi,11426.74,Medium
+3099,Abu Dhabi,11426.01,Medium
+1310,Dubai,11425.54,Medium
+1228,Dubai,11425.44,Medium
+1702,Sharjah,11425.35,Medium
+1190,Abu Dhabi,11423.60,Medium
+2365,Dubai,11422.71,Medium
+3832,Abu Dhabi,11421.92,Medium
+3441,Abu Dhabi,11421.43,Medium
+4789,Abu Dhabi,11421.20,Medium
+4142,Dubai,11419.13,Medium
+4438,Abu Dhabi,11415.66,Medium
+2914,Dubai,11414.79,Medium
+938,Dubai,11411.59,Medium
+3326,Dubai,11410.53,Medium
+933,Dubai,11409.39,Medium
+2765,Dubai,11409.27,Medium
+4468,Dubai,11409.20,Medium
+3531,Dubai,11408.58,Medium
+1876,Sharjah,11408.48,Medium
+990,Abu Dhabi,11407.16,Medium
+1063,Dubai,11406.90,Medium
+417,Dubai,11405.88,Medium
+767,Abu Dhabi,11405.37,Medium
+4793,Dubai,11404.84,Medium
+1877,Dubai,11404.67,Medium
+3224,Dubai,11401.22,Medium
+3604,Sharjah,11399.49,Medium
+3823,Dubai,11396.53,Medium
+2639,Abu Dhabi,11396.27,Medium
+2517,Abu Dhabi,11395.52,Medium
+4973,Dubai,11395.27,Medium
+1112,Dubai,11393.78,Medium
+1138,Dubai,11392.52,Medium
+2458,Dubai,11391.14,Medium
+2355,Sharjah,11389.53,Medium
+2715,Dubai,11389.35,Medium
+4717,Dubai,11388.73,Medium
+960,Sharjah,11387.20,Medium
+46,Abu Dhabi,11385.59,Medium
+1750,Dubai,11384.07,Medium
+908,Dubai,11383.90,Medium
+598,Dubai,11383.77,Medium
+4644,Abu Dhabi,11383.54,Medium
+3135,Dubai,11382.40,Medium
+278,Dubai,11381.52,Medium
+4422,Dubai,11379.62,Medium
+1041,Dubai,11379.01,Medium
+1126,Dubai,11378.00,Medium
+397,Abu Dhabi,11376.21,Medium
+2831,Dubai,11374.44,Medium
+2436,Sharjah,11372.39,Medium
+1121,Dubai,11372.15,Medium
+2985,Dubai,11371.15,Medium
+1192,Abu Dhabi,11370.59,Medium
+133,Dubai,11368.45,Medium
+4974,Abu Dhabi,11367.57,Medium
+837,Abu Dhabi,11366.18,Medium
+4430,Abu Dhabi,11364.24,Medium
+1661,Abu Dhabi,11363.17,Medium
+2675,Dubai,11363.16,Medium
+3319,Abu Dhabi,11362.89,Medium
+2366,Dubai,11361.17,Medium
+151,Dubai,11361.16,Medium
+4172,Dubai,11360.96,Medium
+4962,Dubai,11360.54,Medium
+2120,Abu Dhabi,11360.12,Medium
+4579,Dubai,11359.95,Medium
+3003,Dubai,11359.94,Medium
+2200,Sharjah,11359.80,Medium
+4872,Sharjah,11359.16,Medium
+2158,Dubai,11358.17,Medium
+4727,Abu Dhabi,11357.76,Medium
+2284,Sharjah,11357.65,Medium
+551,Abu Dhabi,11356.93,Medium
+3618,Abu Dhabi,11355.33,Medium
+1119,Sharjah,11355.02,Medium
+3277,Dubai,11354.99,Medium
+4863,Dubai,11352.98,Medium
+3703,Dubai,11348.86,Medium
+4526,Sharjah,11348.09,Medium
+1627,Sharjah,11347.24,Medium
+4976,Dubai,11346.90,Medium
+1612,Sharjah,11346.62,Medium
+963,Abu Dhabi,11345.73,Medium
+1458,Sharjah,11344.58,Medium
+1342,Abu Dhabi,11343.52,Medium
+411,Dubai,11343.15,Medium
+3569,Dubai,11342.38,Medium
+4743,Dubai,11341.69,Medium
+2440,Sharjah,11341.63,Medium
+3810,Abu Dhabi,11338.73,Medium
+4105,Dubai,11338.25,Medium
+3245,Sharjah,11338.15,Medium
+3323,Sharjah,11337.45,Medium
+959,Sharjah,11335.18,Medium
+2643,Abu Dhabi,11334.75,Medium
+4149,Abu Dhabi,11333.25,Medium
+2058,Abu Dhabi,11333.20,Medium
+564,Sharjah,11332.30,Medium
+323,Dubai,11332.03,Medium
+399,Abu Dhabi,11330.57,Medium
+953,Abu Dhabi,11327.81,Medium
+1252,Dubai,11325.77,Medium
+3720,Dubai,11325.67,Medium
+2618,Dubai,11325.48,Medium
+4509,Abu Dhabi,11322.91,Medium
+3237,Dubai,11322.90,Medium
+298,Abu Dhabi,11322.22,Medium
+867,Sharjah,11316.27,Medium
+1373,Dubai,11315.13,Medium
+1409,Sharjah,11312.69,Medium
+373,Dubai,11312.09,Medium
+1697,Abu Dhabi,11309.75,Medium
+174,Dubai,11308.52,Medium
+1107,Sharjah,11308.51,Medium
+1140,Dubai,11307.79,Medium
+2616,Sharjah,11307.65,Medium
+116,Dubai,11305.57,Medium
+2048,Sharjah,11304.90,Medium
+415,Dubai,11304.71,Medium
+2620,Abu Dhabi,11303.83,Medium
+4849,Dubai,11302.86,Medium
+3508,Abu Dhabi,11302.81,Medium
+3818,Dubai,11301.64,Medium
+2189,Abu Dhabi,11299.98,Medium
+4943,Dubai,11299.58,Medium
+524,Sharjah,11299.11,Medium
+3305,Dubai,11298.22,Medium
+1495,Sharjah,11297.60,Medium
+1524,Abu Dhabi,11296.81,Medium
+3041,Dubai,11296.62,Medium
+4144,Sharjah,11296.03,Medium
+13,Abu Dhabi,11294.83,Medium
+3249,Abu Dhabi,11294.59,Medium
+3848,Abu Dhabi,11294.06,Medium
+2713,Sharjah,11292.56,Medium
+3264,Dubai,11292.31,Medium
+331,Dubai,11289.59,Medium
+2297,Abu Dhabi,11288.58,Medium
+2211,Abu Dhabi,11287.22,Medium
+1355,Abu Dhabi,11286.23,Medium
+441,Dubai,11285.55,Medium
+2640,Sharjah,11285.05,Medium
+931,Dubai,11284.64,Medium
+2358,Abu Dhabi,11282.85,Medium
+1963,Dubai,11281.82,Medium
+1479,Abu Dhabi,11278.54,Medium
+2353,Dubai,11277.63,Medium
+3297,Dubai,11276.29,Medium
+1609,Sharjah,11275.65,Medium
+4600,Dubai,11275.25,Medium
+182,Sharjah,11274.72,Medium
+4210,Dubai,11274.20,Medium
+698,Sharjah,11273.92,Medium
+2687,Sharjah,11273.59,Medium
+1442,Dubai,11272.62,Medium
+4507,Dubai,11272.27,Medium
+4754,Dubai,11270.23,Medium
+3938,Dubai,11270.00,Medium
+2231,Dubai,11268.55,Medium
+4683,Sharjah,11267.79,Medium
+729,Abu Dhabi,11264.58,Medium
+1924,Abu Dhabi,11264.25,Medium
+3693,Sharjah,11264.24,Medium
+910,Abu Dhabi,11262.26,Medium
+1644,Abu Dhabi,11261.71,Medium
+662,Sharjah,11261.19,Medium
+2428,Abu Dhabi,11259.63,Medium
+4763,Dubai,11259.48,Medium
+1758,Dubai,11258.71,Medium
+1268,Dubai,11256.25,Medium
+1826,Abu Dhabi,11255.53,Medium
+546,Dubai,11254.69,Medium
+1562,Abu Dhabi,11254.35,Medium
+4569,Dubai,11253.92,Medium
+4633,Sharjah,11251.51,Medium
+3976,Dubai,11251.20,Medium
+986,Dubai,11250.85,Medium
+2720,Dubai,11249.75,Medium
+2475,Dubai,11249.49,Medium
+1083,Dubai,11249.21,Medium
+2227,Abu Dhabi,11249.21,Medium
+1045,Abu Dhabi,11248.16,Medium
+2976,Abu Dhabi,11247.19,Medium
+1058,Abu Dhabi,11245.31,Medium
+3447,Dubai,11245.09,Medium
+1046,Dubai,11238.68,Medium
+1796,Dubai,11238.17,Medium
+3104,Sharjah,11238.05,Medium
+1209,Dubai,11237.79,Medium
+640,Dubai,11237.32,Medium
+1023,Dubai,11237.17,Medium
+4262,Dubai,11235.82,Medium
+3477,Dubai,11235.42,Medium
+593,Abu Dhabi,11233.58,Medium
+2233,Dubai,11231.36,Medium
+1068,Abu Dhabi,11229.83,Medium
+2540,Dubai,11228.66,Medium
+721,Dubai,11227.97,Medium
+1637,Dubai,11227.80,Medium
+520,Abu Dhabi,11227.60,Medium
+2782,Abu Dhabi,11227.27,Medium
+1828,Abu Dhabi,11225.98,Medium
+3545,Dubai,11225.65,Medium
+144,Sharjah,11223.87,Medium
+3505,Abu Dhabi,11223.79,Medium
+2092,Sharjah,11223.53,Medium
+4533,Abu Dhabi,11219.32,Medium
+3708,Abu Dhabi,11219.06,Medium
+1270,Dubai,11218.79,Medium
+636,Sharjah,11218.15,Medium
+2311,Abu Dhabi,11217.86,Medium
+1122,Sharjah,11217.21,Medium
+2159,Dubai,11216.06,Medium
+1294,Dubai,11215.91,Medium
+4230,Dubai,11215.74,Medium
+985,Dubai,11215.44,Medium
+4428,Abu Dhabi,11215.39,Medium
+115,Abu Dhabi,11214.24,Medium
+4358,Sharjah,11214.11,Medium
+719,Dubai,11212.50,Medium
+1720,Dubai,11211.45,Medium
+1164,Dubai,11210.38,Medium
+1928,Sharjah,11208.66,Medium
+3895,Abu Dhabi,11206.29,Medium
+4613,Abu Dhabi,11205.36,Medium
+1187,Abu Dhabi,11204.90,Medium
+2294,Dubai,11204.43,Medium
+3960,Abu Dhabi,11202.22,Medium
+16,Abu Dhabi,11201.61,Medium
+416,Dubai,11200.18,Medium
+2817,Dubai,11200.09,Medium
+514,Dubai,11196.21,Medium
+2702,Dubai,11196.09,Medium
+3908,Dubai,11195.24,Medium
+4883,Dubai,11194.85,Medium
+1987,Dubai,11194.01,Medium
+2115,Dubai,11193.74,Medium
+2678,Dubai,11193.15,Medium
+4279,Dubai,11192.69,Medium
+2260,Dubai,11191.94,Medium
+2102,Dubai,11191.12,Medium
+4570,Dubai,11190.30,Medium
+3370,Dubai,11188.73,Medium
+553,Abu Dhabi,11188.63,Medium
+3258,Sharjah,11187.61,Medium
+1511,Abu Dhabi,11186.73,Medium
+3347,Dubai,11185.70,Medium
+832,Sharjah,11185.41,Medium
+3762,Abu Dhabi,11185.30,Medium
+3592,Dubai,11184.68,Medium
+181,Abu Dhabi,11183.74,Medium
+3123,Sharjah,11183.14,Medium
+3129,Abu Dhabi,11182.68,Medium
+4289,Abu Dhabi,11179.71,Medium
+4680,Sharjah,11178.80,Medium
+3835,Dubai,11178.59,Medium
+3928,Abu Dhabi,11178.09,Medium
+2506,Abu Dhabi,11176.95,Medium
+2635,Dubai,11174.72,Medium
+981,Dubai,11174.28,Medium
+3754,Sharjah,11174.24,Medium
+528,Dubai,11173.31,Medium
+3897,Dubai,11173.08,Medium
+1390,Dubai,11173.01,Medium
+3547,Dubai,11172.20,Medium
+3697,Sharjah,11170.62,Medium
+3586,Dubai,11168.37,Medium
+851,Sharjah,11168.07,Medium
+1988,Sharjah,11165.87,Medium
+3990,Dubai,11164.79,Medium
+3753,Dubai,11164.33,Medium
+1764,Dubai,11163.21,Medium
+3299,Abu Dhabi,11163.03,Medium
+3171,Dubai,11162.88,Medium
+4093,Abu Dhabi,11162.65,Medium
+3214,Dubai,11162.58,Medium
+3741,Dubai,11161.40,Medium
+3551,Abu Dhabi,11160.12,Medium
+2683,Dubai,11159.62,Medium
+2848,Dubai,11158.64,Medium
+3773,Dubai,11156.92,Medium
+532,Sharjah,11155.49,Medium
+947,Dubai,11152.53,Medium
+4025,Dubai,11152.22,Medium
+1283,Abu Dhabi,11151.52,Medium
+4989,Abu Dhabi,11148.89,Medium
+2482,Abu Dhabi,11146.84,Medium
+2779,Sharjah,11146.63,Medium
+2450,Sharjah,11144.18,Medium
+4033,Dubai,11143.96,Medium
+3529,Dubai,11143.77,Medium
+2629,Dubai,11142.87,Medium
+3146,Abu Dhabi,11141.79,Medium
+4348,Dubai,11139.12,Medium
+957,Dubai,11138.70,Medium
+3070,Sharjah,11138.08,Medium
+209,Sharjah,11137.79,Medium
+3278,Dubai,11136.73,Medium
+3398,Abu Dhabi,11136.28,Medium
+1166,Abu Dhabi,11135.29,Medium
+2104,Dubai,11131.66,Medium
+2276,Dubai,11131.53,Medium
+3020,Dubai,11130.69,Medium
+4060,Abu Dhabi,11129.61,Medium
+1125,Dubai,11129.17,Medium
+2493,Dubai,11129.06,Medium
+290,Dubai,11127.75,Medium
+2223,Sharjah,11127.72,Medium
+3952,Dubai,11127.09,Medium
+4170,Dubai,11126.91,Medium
+4473,Abu Dhabi,11126.03,Medium
+1232,Dubai,11124.77,Medium
+3186,Dubai,11123.99,Medium
+3977,Dubai,11121.86,Medium
+2966,Abu Dhabi,11119.43,Medium
+578,Dubai,11119.43,Medium
+1244,Sharjah,11115.76,Medium
+2882,Dubai,11114.59,Medium
+692,Abu Dhabi,11114.07,Medium
+140,Dubai,11113.92,Medium
+3714,Dubai,11112.61,Medium
+2644,Abu Dhabi,11108.88,Medium
+1127,Abu Dhabi,11107.55,Medium
+607,Sharjah,11106.64,Medium
+2126,Dubai,11106.51,Medium
+2897,Dubai,11103.57,Medium
+4241,Dubai,11103.20,Medium
+30,Abu Dhabi,11102.65,Medium
+3335,Dubai,11102.46,Medium
+1332,Dubai,11102.41,Medium
+3384,Dubai,11101.75,Medium
+1989,Dubai,11101.70,Medium
+1970,Dubai,11101.62,Medium
+1792,Sharjah,11101.58,Medium
+2995,Dubai,11099.46,Medium
+1527,Abu Dhabi,11099.23,Medium
+2544,Dubai,11099.12,Medium
+4449,Dubai,11099.11,Medium
+4365,Sharjah,11098.97,Medium
+3597,Sharjah,11096.91,Medium
+2974,Abu Dhabi,11095.64,Medium
+4681,Dubai,11095.30,Medium
+1149,Dubai,11094.54,Medium
+106,Sharjah,11093.94,Medium
+1666,Abu Dhabi,11093.61,Medium
+2833,Dubai,11092.37,Medium
+4113,Abu Dhabi,11092.33,Medium
+2935,Dubai,11092.30,Medium
+1857,Sharjah,11091.24,Medium
+1429,Abu Dhabi,11090.82,Medium
+2421,Dubai,11087.34,Medium
+4004,Dubai,11084.99,Medium
+4220,Abu Dhabi,11084.98,Medium
+4545,Dubai,11084.52,Medium
+646,Sharjah,11084.10,Medium
+476,Dubai,11082.39,Medium
+2339,Dubai,11081.96,Medium
+4385,Sharjah,11081.02,Medium
+4257,Dubai,11079.71,Medium
+1759,Abu Dhabi,11078.97,Medium
+3647,Abu Dhabi,11078.88,Medium
+215,Dubai,11078.10,Medium
+3176,Dubai,11077.89,Medium
+31,Dubai,11076.46,Medium
+2764,Dubai,11076.44,Medium
+3577,Abu Dhabi,11075.61,Medium
+3983,Abu Dhabi,11075.34,Medium
+275,Dubai,11075.26,Medium
+1160,Dubai,11074.93,Medium
+885,Dubai,11073.76,Medium
+4748,Abu Dhabi,11073.19,Medium
+1428,Dubai,11072.42,Medium
+2954,Sharjah,11072.06,Medium
+2555,Dubai,11069.29,Medium
+914,Dubai,11067.50,Medium
+3958,Dubai,11067.38,Medium
+4151,Abu Dhabi,11067.00,Medium
+4992,Dubai,11066.25,Medium
+1504,Sharjah,11065.76,Medium
+609,Dubai,11062.55,Medium
+879,Sharjah,11061.09,Medium
+189,Abu Dhabi,11056.77,Medium
+2253,Abu Dhabi,11055.58,Medium
+4436,Sharjah,11055.37,Medium
+2362,Sharjah,11054.72,Medium
+2799,Sharjah,11054.39,Medium
+556,Abu Dhabi,11052.81,Medium
+3130,Abu Dhabi,11051.96,Medium
+3239,Sharjah,11049.54,Medium
+4145,Abu Dhabi,11048.19,Medium
+3386,Abu Dhabi,11047.44,Medium
+329,Sharjah,11045.82,Medium
+2418,Dubai,11043.65,Medium
+220,Dubai,11043.39,Medium
+2535,Sharjah,11042.19,Medium
+4125,Abu Dhabi,11038.98,Medium
+3322,Dubai,11038.15,Medium
+99,Dubai,11037.88,Medium
+1918,Dubai,11037.10,Medium
+1472,Dubai,11036.09,Medium
+1724,Dubai,11035.91,Medium
+4761,Abu Dhabi,11035.54,Medium
+792,Abu Dhabi,11034.77,Medium
+4892,Dubai,11033.47,Medium
+3410,Dubai,11032.37,Medium
+2633,Sharjah,11031.39,Medium
+1158,Abu Dhabi,11029.37,Medium
+2029,Abu Dhabi,11028.61,Medium
+2452,Abu Dhabi,11024.77,Medium
+3859,Dubai,11023.88,Medium
+642,Abu Dhabi,11022.34,Medium
+3095,Sharjah,11022.19,Medium
+3014,Sharjah,11021.41,Medium
+3153,Dubai,11020.61,Medium
+1345,Abu Dhabi,11019.82,Medium
+1760,Sharjah,11011.24,Medium
+3713,Dubai,11010.99,Medium
+4925,Sharjah,11010.88,Medium
+3128,Dubai,11010.55,Medium
+4137,Sharjah,11009.50,Medium
+4303,Abu Dhabi,11009.17,Medium
+3125,Abu Dhabi,11008.43,Medium
+3298,Dubai,11007.83,Medium
+3919,Dubai,11006.14,Medium
+1740,Dubai,11005.25,Medium
+1326,Sharjah,11005.03,Medium
+2193,Sharjah,11003.70,Medium
+3300,Abu Dhabi,11002.74,Medium
+2460,Sharjah,11002.53,Medium
+2,Abu Dhabi,11002.53,Medium
+1889,Dubai,11002.16,Medium
+4000,Abu Dhabi,11001.93,Medium
+3826,Dubai,10999.69,Medium
+205,Dubai,10998.50,Medium
+4471,Sharjah,10996.47,Medium
+1947,Dubai,10995.77,Medium
+2599,Dubai,10994.88,Medium
+4909,Dubai,10994.47,Medium
+839,Abu Dhabi,10992.38,Medium
+4084,Dubai,10992.18,Medium
+237,Dubai,10991.63,Medium
+4119,Dubai,10990.32,Medium
+1082,Abu Dhabi,10989.63,Medium
+3847,Dubai,10988.90,Medium
+4810,Dubai,10988.52,Medium
+1565,Abu Dhabi,10987.41,Medium
+1995,Sharjah,10987.12,Medium
+355,Dubai,10986.52,Medium
+3240,Sharjah,10984.04,Medium
+4028,Abu Dhabi,10983.97,Medium
+2747,Abu Dhabi,10983.75,Medium
+1799,Dubai,10978.29,Medium
+980,Sharjah,10976.35,Medium
+4457,Sharjah,10975.95,Medium
+2271,Dubai,10975.46,Medium
+1259,Abu Dhabi,10974.79,Medium
+2219,Dubai,10974.27,Medium
+3313,Dubai,10970.52,Medium
+4712,Dubai,10969.73,Medium
+752,Dubai,10969.31,Medium
+625,Abu Dhabi,10968.93,Medium
+1977,Sharjah,10967.64,Medium
+4999,Sharjah,10966.71,Medium
+2325,Abu Dhabi,10965.93,Medium
+4947,Abu Dhabi,10965.29,Medium
+4724,Abu Dhabi,10963.25,Medium
+1708,Abu Dhabi,10962.53,Medium
+2602,Dubai,10962.48,Medium
+1097,Dubai,10960.30,Medium
+2984,Dubai,10959.19,Medium
+3740,Dubai,10958.88,Medium
+1243,Dubai,10958.73,Medium
+2754,Dubai,10957.15,Medium
+2541,Dubai,10956.94,Medium
+954,Abu Dhabi,10955.84,Medium
+24,Sharjah,10954.94,Medium
+4659,Abu Dhabi,10949.22,Medium
+10,Sharjah,10948.98,Medium
+2560,Dubai,10948.08,Medium
+3061,Dubai,10946.74,Medium
+714,Abu Dhabi,10946.62,Medium
+1943,Dubai,10945.55,Medium
+1913,Abu Dhabi,10945.06,Medium
+1047,Sharjah,10944.65,Medium
+4196,Dubai,10943.77,Medium
+4753,Dubai,10942.40,Medium
+695,Dubai,10941.87,Medium
+488,Abu Dhabi,10940.67,Medium
+3250,Dubai,10940.41,Medium
+819,Dubai,10938.42,Medium
+2162,Dubai,10938.13,Medium
+3605,Dubai,10937.05,Medium
+3078,Sharjah,10936.48,Medium
+3672,Abu Dhabi,10936.11,Medium
+460,Dubai,10935.96,Medium
+4729,Sharjah,10935.13,Medium
+3575,Dubai,10934.85,Medium
+3405,Dubai,10932.25,Medium
+3255,Dubai,10931.39,Medium
+3829,Dubai,10931.30,Medium
+1686,Abu Dhabi,10931.02,Medium
+3628,Sharjah,10930.94,Medium
+4414,Dubai,10929.48,Medium
+395,Dubai,10929.42,Medium
+3955,Abu Dhabi,10928.91,Medium
+291,Sharjah,10928.61,Medium
+1705,Dubai,10928.51,Medium
+2694,Abu Dhabi,10927.13,Medium
+2403,Dubai,10927.09,Medium
+3548,Dubai,10923.12,Medium
+4087,Dubai,10922.17,Medium
+3739,Abu Dhabi,10920.73,Medium
+3440,Dubai,10920.65,Medium
+2741,Sharjah,10919.78,Medium
+4209,Dubai,10918.32,Medium
+4465,Dubai,10918.28,Medium
+3759,Dubai,10918.08,Medium
+3665,Sharjah,10918.03,Medium
+742,Abu Dhabi,10916.61,Medium
+187,Abu Dhabi,10915.74,Medium
+3443,Abu Dhabi,10915.31,Medium
+2387,Abu Dhabi,10914.82,Medium
+1739,Dubai,10914.19,Medium
+2700,Dubai,10912.90,Medium
+4829,Dubai,10912.49,Medium
+906,Sharjah,10912.31,Medium
+4347,Dubai,10909.26,Medium
+1028,Sharjah,10909.09,Medium
+2044,Sharjah,10907.71,Medium
+3765,Abu Dhabi,10907.51,Medium
+461,Dubai,10905.10,Medium
+3280,Dubai,10904.84,Medium
+3087,Sharjah,10902.55,Medium
+907,Abu Dhabi,10901.22,Medium
+1019,Dubai,10899.73,Medium
+2858,Dubai,10898.26,Medium
+3217,Dubai,10897.97,Medium
+2066,Dubai,10896.12,Medium
+2801,Sharjah,10895.42,Medium
+4378,Dubai,10894.26,Medium
+2946,Dubai,10890.45,Medium
+3670,Abu Dhabi,10888.66,Medium
+1710,Sharjah,10888.41,Medium
+2447,Sharjah,10885.83,Medium
+543,Abu Dhabi,10885.82,Medium
+1529,Dubai,10882.85,Medium
+3433,Abu Dhabi,10881.83,Medium
+177,Sharjah,10881.64,Medium
+384,Dubai,10879.14,Medium
+89,Abu Dhabi,10878.91,Medium
+4134,Dubai,10877.93,Medium
+3894,Sharjah,10877.70,Medium
+3684,Sharjah,10876.65,Medium
+1103,Abu Dhabi,10875.05,Medium
+1587,Abu Dhabi,10873.61,Medium
+3117,Dubai,10871.83,Medium
+2653,Abu Dhabi,10871.16,Medium
+3141,Dubai,10871.11,Medium
+1771,Abu Dhabi,10870.46,Medium
+3267,Dubai,10869.69,Medium
+4384,Dubai,10867.01,Medium
+887,Dubai,10863.96,Medium
+3147,Abu Dhabi,10862.46,Medium
+2002,Sharjah,10861.82,Medium
+2878,Sharjah,10859.37,Medium
+929,Dubai,10857.29,Medium
+4953,Dubai,10856.76,Medium
+865,Sharjah,10856.24,Medium
+2050,Abu Dhabi,10855.34,Medium
+2543,Sharjah,10854.76,Medium
+4785,Dubai,10854.02,Medium
+4936,Dubai,10852.05,Medium
+1346,Dubai,10851.87,Medium
+2851,Abu Dhabi,10851.29,Medium
+2046,Abu Dhabi,10851.06,Medium
+3855,Sharjah,10849.94,Medium
+4616,Abu Dhabi,10849.09,Medium
+627,Dubai,10848.47,Medium
+4776,Dubai,10847.54,Medium
+1419,Dubai,10846.46,Medium
+4621,Abu Dhabi,10845.95,Medium
+3113,Sharjah,10844.52,Medium
+1433,Dubai,10843.55,Medium
+895,Abu Dhabi,10843.28,Medium
+367,Abu Dhabi,10843.14,Medium
+451,Sharjah,10843.11,Medium
+3408,Abu Dhabi,10840.45,Medium
+2549,Dubai,10839.87,Medium
+1189,Dubai,10839.86,Medium
+1412,Dubai,10839.81,Medium
+2476,Abu Dhabi,10838.68,Medium
+3301,Sharjah,10838.26,Medium
+992,Dubai,10837.88,Medium
+383,Dubai,10837.19,Medium
+3138,Dubai,10836.80,Medium
+2026,Sharjah,10836.42,Medium
+977,Dubai,10836.41,Medium
+4027,Dubai,10835.64,Medium
+4734,Dubai,10833.45,Medium
+1238,Dubai,10831.15,Medium
+3582,Abu Dhabi,10830.91,Medium
+1685,Abu Dhabi,10830.84,Medium
+4278,Abu Dhabi,10830.44,Medium
+1806,Dubai,10827.18,Medium
+4477,Abu Dhabi,10827.05,Medium
+3517,Dubai,10826.86,Medium
+1838,Dubai,10826.69,Medium
+2522,Sharjah,10825.80,Medium
+4628,Abu Dhabi,10824.94,Medium
+2144,Dubai,10824.90,Medium
+2751,Sharjah,10824.36,Medium
+3932,Dubai,10824.32,Medium
+3502,Dubai,10822.91,Medium
+889,Abu Dhabi,10822.54,Medium
+164,Abu Dhabi,10821.63,Medium
+803,Dubai,10820.08,Medium
+2527,Dubai,10817.98,Medium
+2077,Dubai,10816.89,Medium
+4182,Dubai,10816.11,Medium
+2981,Abu Dhabi,10813.31,Medium
+4607,Abu Dhabi,10812.51,Medium
+2802,Abu Dhabi,10812.25,Medium
+173,Dubai,10811.66,Medium
+379,Sharjah,10809.95,Medium
+3359,Dubai,10808.80,Medium
+934,Dubai,10806.91,Medium
+3271,Sharjah,10804.91,Medium
+2698,Dubai,10804.12,Medium
+1085,Abu Dhabi,10803.50,Medium
+4147,Abu Dhabi,10803.44,Medium
+4527,Dubai,10802.96,Medium
+4862,Dubai,10802.53,Medium
+73,Abu Dhabi,10802.14,Medium
+2597,Sharjah,10802.11,Medium
+3748,Dubai,10801.76,Medium
+2480,Dubai,10801.50,Medium
+2550,Abu Dhabi,10798.80,Medium
+2632,Dubai,10798.50,Medium
+1657,Dubai,10798.35,Medium
+709,Dubai,10797.17,Medium
+4623,Sharjah,10796.42,Medium
+1255,Abu Dhabi,10796.15,Medium
+4271,Dubai,10795.95,Medium
+316,Abu Dhabi,10795.54,Medium
+3093,Dubai,10795.29,Medium
+4116,Abu Dhabi,10794.09,Medium
+2963,Abu Dhabi,10793.36,Medium
+2025,Abu Dhabi,10792.21,Medium
+4272,Abu Dhabi,10789.53,Medium
+2105,Dubai,10788.88,Medium
+3429,Dubai,10788.36,Medium
+82,Dubai,10787.39,Medium
+653,Dubai,10786.31,Medium
+4794,Sharjah,10785.96,Medium
+2648,Abu Dhabi,10785.63,Medium
+494,Dubai,10785.51,Medium
+3064,Sharjah,10784.92,Medium
+4123,Dubai,10783.74,Medium
+109,Abu Dhabi,10781.35,Medium
+3901,Abu Dhabi,10781.03,Medium
+2243,Sharjah,10778.47,Medium
+4622,Abu Dhabi,10777.49,Medium
+4615,Abu Dhabi,10776.60,Medium
+438,Dubai,10774.97,Medium
+3730,Sharjah,10773.71,Medium
+3463,Abu Dhabi,10771.86,Medium
+26,Dubai,10767.67,Medium
+1420,Dubai,10767.26,Medium
+4874,Dubai,10765.45,Medium
+2631,Dubai,10764.27,Medium
+4163,Dubai,10764.23,Medium
+1653,Abu Dhabi,10764.08,Medium
+1141,Abu Dhabi,10762.91,Medium
+1487,Dubai,10762.05,Medium
+1219,Abu Dhabi,10759.77,Medium
+499,Abu Dhabi,10759.69,Medium
+3689,Abu Dhabi,10758.11,Medium
+637,Abu Dhabi,10756.42,Medium
+1336,Sharjah,10755.81,Medium
+2060,Abu Dhabi,10755.28,Medium
+2778,Sharjah,10751.25,Medium
+1519,Abu Dhabi,10750.67,Medium
+4841,Sharjah,10750.60,Medium
+4200,Dubai,10749.09,Medium
+566,Dubai,10748.14,Medium
+866,Dubai,10747.49,Medium
+4885,Dubai,10745.82,Medium
+2009,Dubai,10744.85,Medium
+715,Sharjah,10743.86,Medium
+4814,Dubai,10743.63,Medium
+3325,Dubai,10743.40,Medium
+1615,Dubai,10740.67,Medium
+4927,Dubai,10740.64,Medium
+4447,Abu Dhabi,10739.74,Medium
+628,Dubai,10738.59,Medium
+2828,Dubai,10736.05,Medium
+192,Abu Dhabi,10735.87,Medium
+4407,Sharjah,10735.50,Medium
+1762,Sharjah,10735.01,Medium
+3065,Abu Dhabi,10733.23,Medium
+1590,Dubai,10732.50,Medium
+3009,Abu Dhabi,10731.71,Medium
+620,Abu Dhabi,10730.57,Medium
+4914,Dubai,10729.96,Medium
+4934,Dubai,10729.11,Medium
+4455,Abu Dhabi,10728.60,Medium
+950,Sharjah,10727.50,Medium
+28,Dubai,10727.19,Medium
+2131,Dubai,10726.37,Medium
+2853,Abu Dhabi,10724.42,Medium
+4133,Sharjah,10724.19,Medium
+1625,Abu Dhabi,10723.68,Medium
+4389,Sharjah,10722.38,Medium
+1501,Abu Dhabi,10721.46,Medium
+4234,Sharjah,10720.86,Medium
+3373,Sharjah,10720.62,Medium
+730,Dubai,10720.46,Medium
+4064,Dubai,10719.44,Medium
+1646,Abu Dhabi,10719.20,Medium
+1834,Dubai,10718.64,Medium
+4246,Abu Dhabi,10717.68,Medium
+1094,Abu Dhabi,10716.25,Medium
+4595,Abu Dhabi,10715.92,Medium
+4383,Sharjah,10715.62,Medium
+1804,Dubai,10715.37,Medium
+1361,Sharjah,10715.01,Medium
+3344,Dubai,10714.30,Medium
+659,Sharjah,10713.93,Medium
+4121,Abu Dhabi,10712.96,Medium
+2093,Abu Dhabi,10712.13,Medium
+2154,Abu Dhabi,10711.72,Medium
+4223,Dubai,10711.56,Medium
+4695,Dubai,10710.60,Medium
+4933,Dubai,10706.83,Medium
+1120,Dubai,10705.37,Medium
+4970,Dubai,10704.43,Medium
+558,Abu Dhabi,10704.39,Medium
+3008,Dubai,10704.17,Medium
+3985,Dubai,10702.87,Medium
+121,Sharjah,10702.45,Medium
+4355,Dubai,10701.53,Medium
+4702,Abu Dhabi,10701.50,Medium
+1731,Sharjah,10701.16,Medium
+1795,Dubai,10701.01,Medium
+1217,Sharjah,10699.11,Medium
+4435,Abu Dhabi,10698.43,Medium
+2627,Sharjah,10697.05,Medium
+1101,Dubai,10695.65,Medium
+3085,Dubai,10695.33,Medium
+1601,Abu Dhabi,10692.98,Medium
+4076,Dubai,10690.66,Medium
+4195,Sharjah,10689.53,Medium
+529,Abu Dhabi,10688.26,Medium
+4494,Abu Dhabi,10685.99,Medium
+1807,Abu Dhabi,10684.39,Medium
+2153,Abu Dhabi,10684.08,Medium
+3160,Sharjah,10683.87,Medium
+2756,Dubai,10681.47,Medium
+2074,Abu Dhabi,10679.98,Medium
+2204,Dubai,10678.07,Medium
+4258,Abu Dhabi,10677.13,Medium
+1776,Abu Dhabi,10676.57,Medium
+3734,Sharjah,10675.99,Medium
+3882,Sharjah,10675.49,Medium
+2116,Abu Dhabi,10672.05,Medium
+783,Sharjah,10671.45,Medium
+3804,Abu Dhabi,10671.17,Medium
+4307,Dubai,10669.29,Medium
+1942,Dubai,10668.93,Medium
+272,Dubai,10668.05,Medium
+4898,Abu Dhabi,10667.51,Medium
+1647,Abu Dhabi,10665.59,Medium
+2718,Dubai,10664.87,Medium
+153,Sharjah,10664.15,Medium
+2944,Sharjah,10664.06,Medium
+1772,Sharjah,10663.80,Medium
+2107,Dubai,10663.34,Medium
+2924,Dubai,10663.23,Medium
+159,Sharjah,10663.22,Medium
+4853,Dubai,10661.18,Medium
+244,Dubai,10660.51,Medium
+2787,Dubai,10658.09,Medium
+690,Dubai,10658.02,Medium
+1726,Dubai,10657.56,Medium
+5,Abu Dhabi,10657.03,Medium
+4405,Abu Dhabi,10654.86,Medium
+3667,Dubai,10654.61,Medium
+4107,Dubai,10652.74,Medium
+3193,Dubai,10650.82,Medium
+3137,Dubai,10650.28,Medium
+875,Sharjah,10648.96,Medium
+4580,Abu Dhabi,10648.95,Medium
+4426,Abu Dhabi,10648.21,Medium
+3630,Abu Dhabi,10648.13,Medium
+2100,Sharjah,10647.08,Medium
+4325,Abu Dhabi,10645.64,Medium
+270,Sharjah,10644.85,Medium
+3903,Dubai,10644.50,Medium
+4049,Abu Dhabi,10642.63,Medium
+3229,Abu Dhabi,10642.23,Medium
+3001,Sharjah,10642.13,Medium
+4844,Sharjah,10641.98,Medium
+293,Dubai,10639.88,Medium
+745,Dubai,10639.04,Medium
+4400,Dubai,10638.67,Medium
+3889,Dubai,10637.13,Medium
+3254,Sharjah,10636.57,Medium
+1713,Dubai,10634.01,Medium
+572,Dubai,10633.64,Medium
+450,Sharjah,10633.53,Medium
+1182,Abu Dhabi,10632.26,Medium
+4476,Abu Dhabi,10631.92,Medium
+816,Sharjah,10631.87,Medium
+763,Sharjah,10631.79,Medium
+3822,Dubai,10631.78,Medium
+1025,Dubai,10626.85,Medium
+582,Sharjah,10626.18,Medium
+3658,Abu Dhabi,10625.60,Medium
+222,Abu Dhabi,10624.81,Medium
+2382,Sharjah,10623.80,Medium
+4108,Abu Dhabi,10622.15,Medium
+3082,Dubai,10620.21,Medium
+282,Abu Dhabi,10616.73,Medium
+3620,Sharjah,10616.18,Medium
+4074,Sharjah,10615.76,Medium
+1742,Abu Dhabi,10614.28,Medium
+538,Dubai,10614.07,Medium
+2024,Sharjah,10612.90,Medium
+2454,Dubai,10612.59,Medium
+2443,Sharjah,10608.00,Medium
+796,Dubai,10607.28,Medium
+1895,Abu Dhabi,10605.36,Medium
+4393,Dubai,10604.80,Medium
+3687,Abu Dhabi,10602.89,Medium
+1303,Dubai,10602.77,Medium
+4957,Dubai,10602.63,Medium
+3198,Sharjah,10602.52,Medium
+2427,Sharjah,10600.95,Medium
+3120,Dubai,10598.74,Medium
+4256,Abu Dhabi,10595.91,Medium
+4842,Dubai,10593.65,Medium
+2150,Abu Dhabi,10592.61,Medium
+2780,Sharjah,10591.85,Medium
+873,Abu Dhabi,10591.00,Medium
+4631,Abu Dhabi,10590.56,Medium
+3068,Dubai,10589.82,Medium
+3205,Dubai,10589.62,Medium
+1645,Dubai,10588.92,Medium
+2776,Sharjah,10588.29,Medium
+4351,Dubai,10587.28,Medium
+1797,Abu Dhabi,10586.54,Medium
+1267,Abu Dhabi,10586.37,Medium
+2945,Dubai,10585.21,Medium
+2417,Dubai,10584.82,Medium
+2862,Sharjah,10584.42,Medium
+2383,Abu Dhabi,10583.84,Medium
+592,Dubai,10582.47,Medium
+4300,Abu Dhabi,10581.34,Medium
+741,Abu Dhabi,10579.09,Medium
+1430,Sharjah,10578.25,Medium
+1463,Dubai,10574.81,Medium
+1384,Sharjah,10574.28,Medium
+565,Dubai,10574.04,Medium
+1486,Sharjah,10574.02,Medium
+2637,Dubai,10573.68,Medium
+2728,Dubai,10572.98,Medium
+1174,Dubai,10572.24,Medium
+1351,Dubai,10571.80,Medium
+664,Dubai,10571.38,Medium
+2857,Sharjah,10570.58,Medium
+2739,Abu Dhabi,10569.62,Medium
+3351,Dubai,10569.14,Medium
+1892,Dubai,10566.87,Medium
+2012,Sharjah,10566.33,Medium
+3092,Dubai,10566.04,Medium
+663,Dubai,10565.28,Medium
+3388,Dubai,10564.63,Medium
+2533,Abu Dhabi,10564.37,Medium
+1289,Dubai,10564.19,Medium
+1671,Sharjah,10561.63,Medium
+1674,Dubai,10560.53,Medium
+725,Dubai,10559.91,Medium
+3627,Dubai,10558.64,Medium
+246,Sharjah,10558.18,Medium
+3047,Abu Dhabi,10557.26,Medium
+1179,Abu Dhabi,10556.65,Medium
+4732,Abu Dhabi,10556.11,Medium
+1885,Abu Dhabi,10555.26,Medium
+1980,Abu Dhabi,10555.24,Medium
+1001,Sharjah,10553.99,Medium
+2323,Sharjah,10553.20,Medium
+3691,Dubai,10551.31,Medium
+131,Sharjah,10549.55,Medium
+154,Sharjah,10546.46,Medium
+4120,Sharjah,10545.97,Medium
+2497,Dubai,10543.32,Medium
+29,Dubai,10543.28,Medium
+3397,Dubai,10542.78,Medium
+3722,Sharjah,10541.48,Medium
+1118,Sharjah,10538.68,Medium
+2590,Dubai,10537.18,Medium
+760,Abu Dhabi,10536.41,Medium
+4582,Abu Dhabi,10535.93,Medium
+2893,Dubai,10535.00,Medium
+2474,Dubai,10534.75,Medium
+4132,Dubai,10534.55,Medium
+4330,Abu Dhabi,10534.30,Medium
+3599,Dubai,10534.07,Medium
+2706,Abu Dhabi,10534.03,Medium
+987,Abu Dhabi,10532.46,Medium
+2021,Sharjah,10532.30,Medium
+3607,Dubai,10530.84,Medium
+3812,Sharjah,10529.92,Medium
+4673,Abu Dhabi,10529.65,Medium
+2572,Dubai,10529.62,Medium
+3797,Abu Dhabi,10527.45,Medium
+806,Dubai,10526.47,Medium
+4773,Abu Dhabi,10525.71,Medium
+226,Dubai,10525.38,Medium
+1129,Dubai,10524.78,Medium
+2743,Dubai,10524.59,Medium
+1546,Dubai,10520.41,Medium
+3496,Abu Dhabi,10520.11,Medium
+261,Dubai,10519.41,Medium
+2448,Abu Dhabi,10519.04,Medium
+3831,Abu Dhabi,10519.00,Medium
+869,Abu Dhabi,10518.96,Medium
+759,Dubai,10518.93,Medium
+4620,Dubai,10518.87,Medium
+585,Dubai,10518.48,Medium
+358,Abu Dhabi,10516.67,Medium
+1476,Abu Dhabi,10516.05,Medium
+1516,Sharjah,10515.01,Medium
+4978,Abu Dhabi,10514.87,Medium
+3401,Sharjah,10513.75,Medium
+1577,Dubai,10513.17,Medium
+1059,Abu Dhabi,10513.17,Medium
+2913,Sharjah,10509.47,Medium
+1557,Dubai,10508.89,Medium
+4559,Dubai,10508.35,Medium
+2970,Abu Dhabi,10508.16,Medium
+2529,Abu Dhabi,10506.27,Medium
+2891,Abu Dhabi,10506.09,Medium
+307,Abu Dhabi,10505.91,Medium
+1497,Dubai,10505.41,Medium
+2786,Dubai,10504.09,Medium
+42,Dubai,10503.74,Medium
+3105,Abu Dhabi,10502.96,Medium
+2826,Dubai,10502.42,Medium
+4199,Dubai,10500.92,Medium
+1689,Abu Dhabi,10500.27,Medium
+1571,Abu Dhabi,10500.10,Medium
+1506,Dubai,10498.78,Medium
+97,Dubai,10498.61,Medium
+57,Abu Dhabi,10498.56,Medium
+1178,Sharjah,10498.32,Medium
+1491,Dubai,10498.12,Medium
+2586,Dubai,10496.33,Medium
+2313,Sharjah,10495.88,Medium
+3108,Dubai,10492.16,Medium
+3837,Sharjah,10491.37,Medium
+1624,Abu Dhabi,10490.47,Medium
+112,Abu Dhabi,10490.34,Medium
+1157,Dubai,10489.23,Medium
+3625,Sharjah,10489.20,Medium
+2547,Dubai,10487.56,Medium
+4550,Abu Dhabi,10486.99,Medium
+4364,Dubai,10486.63,Medium
+1568,Sharjah,10485.93,Medium
+168,Abu Dhabi,10484.63,Medium
+3537,Dubai,10482.50,Medium
+2229,Dubai,10481.71,Medium
+248,Dubai,10481.31,Medium
+654,Sharjah,10479.57,Medium
+1898,Sharjah,10478.34,Medium
+347,Dubai,10477.84,Medium
+881,Sharjah,10477.83,Medium
+2255,Abu Dhabi,10475.59,Medium
+3241,Sharjah,10474.38,Medium
+789,Abu Dhabi,10473.83,Medium
+3805,Sharjah,10473.66,Medium
+2556,Abu Dhabi,10473.30,Medium
+1488,Dubai,10471.14,Medium
+2611,Dubai,10470.45,Medium
+3637,Dubai,10469.47,Medium
+804,Dubai,10469.39,Medium
+374,Sharjah,10469.29,Medium
+2847,Dubai,10465.85,Medium
+3746,Abu Dhabi,10465.43,Medium
+2005,Sharjah,10465.01,Medium
+1949,Dubai,10464.90,Medium
+3789,Dubai,10464.86,Medium
+3027,Dubai,10462.47,Medium
+1205,Dubai,10461.62,Medium
+167,Sharjah,10460.32,Medium
+3079,Dubai,10458.74,Medium
+1050,Dubai,10456.44,Medium
+403,Dubai,10456.17,Medium
+4800,Dubai,10455.92,Medium
+2304,Dubai,10454.93,Medium
+1855,Dubai,10454.26,Medium
+4092,Dubai,10453.31,Medium
+4259,Abu Dhabi,10451.16,Medium
+2320,Dubai,10449.90,Medium
+2745,Dubai,10449.76,Medium
+1048,Dubai,10448.73,Medium
+635,Sharjah,10448.11,Medium
+398,Abu Dhabi,10444.61,Medium
+1998,Dubai,10444.51,Medium
+2495,Sharjah,10442.47,Medium
+2955,Sharjah,10442.33,Medium
+3584,Dubai,10441.58,Medium
+4157,Sharjah,10441.55,Medium
+2894,Abu Dhabi,10441.32,Medium
+3522,Dubai,10441.31,Medium
+4165,Dubai,10439.55,Medium
+2870,Abu Dhabi,10437.69,Medium
+4266,Sharjah,10436.58,Medium
+2049,Dubai,10435.68,Medium
+4700,Abu Dhabi,10433.64,Medium
+2601,Abu Dhabi,10432.89,Medium
+4409,Sharjah,10432.41,Medium
+3721,Sharjah,10431.67,Medium
+2033,Dubai,10431.52,Medium
+1554,Sharjah,10430.79,Medium
+4222,Dubai,10429.50,Medium
+4498,Dubai,10428.23,Medium
+3460,Dubai,10427.89,Medium
+194,Abu Dhabi,10427.79,Medium
+3161,Sharjah,10424.41,Medium
+2735,Dubai,10424.06,Medium
+4441,Abu Dhabi,10422.97,Medium
+4963,Abu Dhabi,10422.09,Medium
+2008,Dubai,10421.20,Medium
+3929,Abu Dhabi,10420.48,Medium
+4792,Dubai,10419.52,Medium
+3877,Dubai,10417.84,Medium
+2354,Abu Dhabi,10415.55,Medium
+4205,Abu Dhabi,10415.19,Medium
+2505,Dubai,10414.05,Medium
+4807,Abu Dhabi,10412.46,Medium
+563,Dubai,10412.26,Medium
+3220,Dubai,10411.52,Medium
+2978,Sharjah,10411.06,Medium
+4674,Dubai,10410.88,Medium
+4768,Dubai,10407.84,Medium
+1513,Dubai,10406.66,Medium
+1606,Dubai,10405.28,Medium
+4728,Dubai,10401.67,Medium
+4707,Dubai,10401.56,Medium
+4326,Abu Dhabi,10399.79,Medium
+114,Abu Dhabi,10398.47,Medium
+3567,Dubai,10398.14,Medium
+4044,Dubai,10396.10,Medium
+1818,Dubai,10395.76,Medium
+81,Dubai,10395.12,Medium
+1070,Dubai,10393.97,Medium
+3601,Sharjah,10391.43,Medium
+3168,Dubai,10388.79,Medium
+2258,Dubai,10388.53,Medium
+1781,Dubai,10387.51,Medium
+2710,Dubai,10387.25,Medium
+1738,Dubai,10387.19,Medium
+2097,Dubai,10386.24,Medium
+2772,Abu Dhabi,10386.22,Medium
+4342,Dubai,10385.92,Medium
+1517,Dubai,10384.77,Medium
+207,Abu Dhabi,10382.98,Medium
+2329,Abu Dhabi,10381.75,Medium
+630,Dubai,10381.53,Medium
+1744,Abu Dhabi,10381.44,Medium
+4908,Dubai,10378.66,Medium
+2433,Dubai,10377.04,Medium
+1234,Dubai,10377.00,Medium
+4714,Abu Dhabi,10376.66,Medium
+3916,Abu Dhabi,10372.21,Medium
+2821,Dubai,10372.15,Medium
+1460,Dubai,10370.76,Medium
+4654,Dubai,10369.82,Medium
+4126,Dubai,10369.65,Medium
+4443,Abu Dhabi,10368.96,Medium
+1608,Dubai,10368.75,Medium
+3481,Sharjah,10367.55,Medium
+3954,Dubai,10365.29,Medium
+4565,Abu Dhabi,10365.18,Medium
+2399,Dubai,10363.50,Medium
+2459,Dubai,10363.16,Medium
+4522,Dubai,10362.27,Medium
+4353,Dubai,10362.19,Medium
+1414,Sharjah,10361.87,Medium
+3681,Dubai,10361.56,Medium
+2468,Abu Dhabi,10360.60,Medium
+1698,Sharjah,10359.69,Medium
+45,Abu Dhabi,10358.65,Medium
+951,Dubai,10358.50,Medium
+4475,Dubai,10358.20,Medium
+2442,Abu Dhabi,10356.13,Medium
+2247,Dubai,10355.21,Medium
+3731,Abu Dhabi,10354.46,Medium
+2411,Abu Dhabi,10353.97,Medium
+2220,Dubai,10353.43,Medium
+2536,Dubai,10353.24,Medium
+4590,Dubai,10351.77,Medium
+3641,Dubai,10350.09,Medium
+4770,Dubai,10349.03,Medium
+3414,Dubai,10348.12,Medium
+3021,Sharjah,10347.87,Medium
+234,Dubai,10347.84,Medium
+4451,Dubai,10347.44,Medium
+3219,Dubai,10347.15,Medium
+4859,Dubai,10346.88,Medium
+1837,Dubai,10346.62,Medium
+817,Dubai,10345.73,Medium
+2709,Dubai,10345.54,Medium
+1915,Abu Dhabi,10345.52,Medium
+3729,Sharjah,10345.20,Medium
+2701,Sharjah,10344.59,Medium
+3116,Abu Dhabi,10343.28,Medium
+3530,Dubai,10343.10,Medium
+3935,Dubai,10340.30,Medium
+33,Sharjah,10339.84,Medium
+1579,Abu Dhabi,10339.56,Medium
+1800,Sharjah,10337.78,Medium
+4073,Dubai,10335.85,Medium
+4071,Dubai,10335.01,Medium
+3922,Dubai,10334.89,Medium
+4804,Dubai,10334.78,Medium
+2067,Dubai,10334.48,Medium
+2742,Sharjah,10333.72,Medium
+1910,Abu Dhabi,10333.51,Medium
+3500,Dubai,10332.14,Medium
+967,Dubai,10330.84,Medium
+2488,Dubai,10328.87,Medium
+1435,Sharjah,10328.82,Medium
+2668,Abu Dhabi,10327.07,Medium
+555,Dubai,10326.66,Medium
+3914,Dubai,10323.83,Medium
+485,Abu Dhabi,10323.57,Medium
+1673,Dubai,10323.32,Medium
+3510,Dubai,10323.07,Medium
+4619,Sharjah,10322.40,Medium
+1415,Abu Dhabi,10322.28,Medium
+2501,Sharjah,10321.85,Medium
+2168,Dubai,10321.68,Medium
+4035,Abu Dhabi,10320.37,Medium
+2695,Dubai,10319.48,Medium
+3423,Sharjah,10317.20,Medium
+1313,Dubai,10315.39,Medium
+1277,Sharjah,10313.92,Medium
+2525,Dubai,10313.39,Medium
+2885,Dubai,10313.00,Medium
+3962,Sharjah,10312.67,Medium
+2907,Abu Dhabi,10312.13,Medium
+1994,Dubai,10311.82,Medium
+2500,Dubai,10311.02,Medium
+4688,Abu Dhabi,10308.12,Medium
+138,Abu Dhabi,10307.34,Medium
+3366,Abu Dhabi,10306.53,Medium
+413,Abu Dhabi,10306.52,Medium
+2827,Sharjah,10305.38,Medium
+1650,Dubai,10304.20,Medium
+259,Dubai,10303.10,Medium
+4334,Dubai,10302.30,Medium
+2593,Dubai,10302.16,Medium
+670,Dubai,10301.57,Medium
+1634,Abu Dhabi,10297.30,Medium
+4902,Sharjah,10296.07,Medium
+1911,Abu Dhabi,10294.96,Medium
+1992,Dubai,10292.73,Medium
+2326,Dubai,10292.61,Medium
+3434,Dubai,10292.59,Medium
+2285,Abu Dhabi,10291.74,Medium
+3626,Dubai,10291.33,Medium
+4040,Sharjah,10288.19,Medium
+777,Dubai,10287.66,Medium
+4261,Abu Dhabi,10285.51,Medium
+387,Abu Dhabi,10285.15,Medium
+4912,Dubai,10284.48,Medium
+761,Sharjah,10282.55,Medium
+2296,Dubai,10281.80,Medium
+2671,Dubai,10278.69,Medium
+1821,Abu Dhabi,10278.08,Medium
+1656,Dubai,10277.79,Medium
+2045,Dubai,10277.62,Medium
+3180,Sharjah,10274.86,Medium
+4711,Dubai,10274.85,Medium
+2335,Dubai,10274.76,Medium
+4905,Dubai,10274.74,Medium
+2286,Dubai,10269.73,Medium
+1466,Abu Dhabi,10268.26,Medium
+4052,Dubai,10267.65,Medium
+1747,Dubai,10267.48,Medium
+3755,Dubai,10267.33,Medium
+4077,Abu Dhabi,10267.00,Medium
+3945,Dubai,10266.62,Medium
+4026,Sharjah,10266.31,Medium
+1318,Dubai,10265.27,Medium
+2108,Abu Dhabi,10262.72,Medium
+1860,Dubai,10262.52,Medium
+2866,Dubai,10262.48,Medium
+536,Dubai,10260.63,Medium
+2357,Sharjah,10259.98,Medium
+4821,Abu Dhabi,10259.71,Medium
+3374,Abu Dhabi,10256.91,Medium
+1091,Abu Dhabi,10256.91,Medium
+2784,Abu Dhabi,10255.82,Medium
+165,Dubai,10255.43,Medium
+2457,Sharjah,10253.00,Medium
+4889,Abu Dhabi,10252.24,Medium
+930,Sharjah,10251.87,Medium
+3884,Dubai,10251.70,Medium
+4987,Sharjah,10251.60,Medium
+1580,Dubai,10251.06,Medium
+1741,Dubai,10249.97,Medium
+1473,Abu Dhabi,10249.73,Medium
+2883,Abu Dhabi,10249.69,Medium
+3813,Abu Dhabi,10249.46,Medium
+1950,Dubai,10249.00,Medium
+756,Sharjah,10248.20,Medium
+3768,Dubai,10246.69,Medium
+4362,Sharjah,10246.66,Medium
+4189,Dubai,10246.57,Medium
+3034,Dubai,10246.21,Medium
+3742,Sharjah,10245.83,Medium
+4264,Abu Dhabi,10245.36,Medium
+4771,Abu Dhabi,10245.05,Medium
+418,Dubai,10241.43,Medium
+19,Sharjah,10240.60,Medium
+4237,Sharjah,10240.58,Medium
+1038,Abu Dhabi,10238.55,Medium
+1925,Sharjah,10238.38,Medium
+4183,Abu Dhabi,10237.82,Medium
+833,Dubai,10237.58,Medium
+1509,Dubai,10236.79,Medium
+122,Abu Dhabi,10236.50,Medium
+2766,Dubai,10236.43,Medium
+4971,Abu Dhabi,10235.12,Medium
+101,Abu Dhabi,10233.87,Medium
+4697,Abu Dhabi,10233.53,Medium
+2634,Sharjah,10233.34,Medium
+902,Sharjah,10231.30,Medium
+882,Dubai,10229.80,Medium
+80,Abu Dhabi,10229.42,Medium
+1162,Dubai,10229.08,Medium
+1492,Dubai,10228.66,Medium
+1923,Dubai,10227.81,Medium
+2095,Dubai,10225.26,Medium
+2537,Dubai,10224.69,Medium
+251,Dubai,10224.37,Medium
+4715,Dubai,10223.79,Medium
+2937,Dubai,10223.63,Medium
+1556,Dubai,10222.29,Medium
+1110,Sharjah,10222.09,Medium
+292,Dubai,10219.52,Medium
+465,Dubai,10219.28,Medium
+3944,Abu Dhabi,10217.50,Medium
+1176,Sharjah,10216.78,Medium
+18,Dubai,10215.82,Medium
+4164,Dubai,10214.20,Medium
+1521,Dubai,10214.14,Medium
+699,Dubai,10212.80,Medium
+3971,Dubai,10212.75,Medium
+1467,Sharjah,10211.60,Medium
+4787,Dubai,10211.58,Medium
+1108,Abu Dhabi,10211.53,Medium
+1819,Dubai,10210.51,Medium
+4219,Abu Dhabi,10209.70,Medium
+3881,Dubai,10209.15,Medium
+3132,Dubai,10208.81,Medium
+1274,Dubai,10203.89,Medium
+3150,Abu Dhabi,10203.09,Medium
+2282,Abu Dhabi,10200.38,Medium
+2085,Dubai,10200.04,Medium
+2343,Dubai,10199.08,Medium
+2237,Sharjah,10198.47,Medium
+4439,Dubai,10197.92,Medium
+2666,Dubai,10197.49,Medium
+3279,Dubai,10196.87,Medium
+4918,Dubai,10196.86,Medium
+2716,Dubai,10195.27,Medium
+2991,Dubai,10195.17,Medium
+4984,Dubai,10195.09,Medium
+3957,Abu Dhabi,10194.71,Medium
+3757,Abu Dhabi,10194.60,Medium
+328,Dubai,10194.43,Medium
+2392,Dubai,10193.25,Medium
+4980,Sharjah,10192.76,Medium
+1990,Sharjah,10191.34,Medium
+1011,Dubai,10188.11,Medium
+1113,Dubai,10188.06,Medium
+3904,Dubai,10186.04,Medium
+1441,Dubai,10184.78,Medium
+1514,Sharjah,10184.60,Medium
+2929,Abu Dhabi,10182.87,Medium
+3290,Abu Dhabi,10181.23,Medium
+3248,Dubai,10180.70,Medium
+2685,Sharjah,10179.95,Medium
+530,Abu Dhabi,10178.13,Medium
+37,Dubai,10177.47,Medium
+2140,Sharjah,10177.08,Medium
+771,Dubai,10176.08,Medium
+3227,Dubai,10175.79,Medium
+3787,Sharjah,10174.98,Medium
+4596,Abu Dhabi,10174.80,Medium
+4141,Dubai,10174.18,Medium
+3354,Dubai,10173.89,Medium
+3284,Abu Dhabi,10173.49,Medium
+2214,Sharjah,10173.12,Medium
+4951,Dubai,10172.27,Medium
+1128,Sharjah,10171.13,Medium
+2645,Abu Dhabi,10170.65,Medium
+4012,Abu Dhabi,10170.41,Medium
+1841,Sharjah,10169.30,Medium
+2814,Dubai,10168.99,Medium
+3048,Dubai,10165.32,Medium
+3876,Dubai,10164.58,Medium
+326,Abu Dhabi,10163.55,Medium
+4516,Abu Dhabi,10160.81,Medium
+2210,Sharjah,10157.78,Medium
+1873,Abu Dhabi,10153.72,Medium
+975,Dubai,10153.11,Medium
+469,Abu Dhabi,10152.52,Medium
+3479,Dubai,10150.60,Medium
+4552,Dubai,10150.48,Medium
+2146,Dubai,10150.14,Medium
+4276,Abu Dhabi,10148.93,Medium
+826,Abu Dhabi,10148.88,Medium
+4127,Abu Dhabi,10148.60,Medium
+3654,Abu Dhabi,10146.40,Medium
+1668,Abu Dhabi,10142.96,Medium
+3357,Dubai,10141.72,Medium
+4066,Dubai,10141.30,Medium
+4314,Dubai,10140.60,Medium
+1227,Dubai,10140.20,Medium
+183,Abu Dhabi,10139.92,Medium
+732,Abu Dhabi,10137.36,Medium
+4899,Dubai,10136.45,Medium
+4921,Dubai,10136.28,Medium
+327,Dubai,10135.92,Medium
+8,Dubai,10133.17,Medium
+90,Dubai,10132.51,Medium
+1801,Sharjah,10131.90,Medium
+1952,Dubai,10131.26,Medium
+263,Sharjah,10130.37,Medium
+2503,Dubai,10128.53,Medium
+3728,Dubai,10128.43,Medium
+3339,Dubai,10127.47,Medium
+3632,Dubai,10125.70,Medium
+184,Dubai,10125.69,Medium
+3776,Sharjah,10124.98,Medium
+4598,Abu Dhabi,10123.09,Medium
+2641,Abu Dhabi,10120.74,Medium
+3304,Abu Dhabi,10120.56,Medium
+385,Dubai,10119.76,Medium
+407,Sharjah,10118.91,Medium
+4101,Dubai,10117.36,Medium
+613,Dubai,10116.68,Medium
+2489,Abu Dhabi,10116.57,Medium
+4795,Abu Dhabi,10116.42,Medium
+1471,Dubai,10115.26,Medium
+311,Sharjah,10114.62,Medium
+2098,Dubai,10114.54,Medium
+1325,Dubai,10114.19,Medium
+3648,Abu Dhabi,10114.08,Medium
+1499,Dubai,10113.11,Medium
+3710,Abu Dhabi,10112.71,Medium
+3851,Dubai,10112.70,Medium
+4034,Dubai,10111.40,Medium
+4453,Dubai,10110.11,Medium
+1858,Abu Dhabi,10109.56,Medium
+4856,Abu Dhabi,10108.40,Medium
+2770,Dubai,10108.38,Medium
+1396,Sharjah,10106.01,Medium
+2234,Dubai,10105.32,Medium
+2704,Dubai,10101.64,Medium
+2803,Sharjah,10101.59,Medium
+2373,Sharjah,10100.49,Medium
+1382,Abu Dhabi,10100.19,Medium
+178,Abu Dhabi,10098.40,Medium
+4128,Abu Dhabi,10096.33,Medium
+1034,Dubai,10096.08,Medium
+658,Dubai,10095.75,Medium
+1335,Abu Dhabi,10094.93,Medium
+2871,Abu Dhabi,10092.97,Medium
+2263,Dubai,10090.04,Medium
+2646,Dubai,10089.57,Medium
+2507,Dubai,10089.53,Medium
+4138,Dubai,10089.05,Medium
+1891,Dubai,10089.04,Medium
+343,Sharjah,10087.87,Medium
+346,Dubai,10086.65,Medium
+2379,Dubai,10085.51,Medium
+3040,Abu Dhabi,10085.51,Medium
+1395,Abu Dhabi,10085.31,Medium
+2259,Dubai,10085.30,Medium
+2241,Dubai,10085.08,Medium
+4379,Dubai,10084.72,Medium
+750,Dubai,10084.50,Medium
+2094,Dubai,10082.86,Medium
+2070,Abu Dhabi,10081.53,Medium
+1304,Dubai,10081.17,Medium
+696,Abu Dhabi,10081.17,Medium
+2167,Abu Dhabi,10080.95,Medium
+2988,Dubai,10078.57,Medium
+4635,Dubai,10077.47,Medium
+2202,Abu Dhabi,10076.94,Medium
+830,Dubai,10076.57,Medium
+2151,Sharjah,10074.16,Medium
+744,Dubai,10074.10,Medium
+4961,Abu Dhabi,10071.20,Medium
+2994,Dubai,10070.66,Medium
+2867,Dubai,10070.62,Medium
+2947,Dubai,10066.55,Medium
+4226,Sharjah,10065.37,Medium
+840,Dubai,10064.77,Medium
+594,Abu Dhabi,10063.82,Medium
+3949,Dubai,10063.42,Medium
+4042,Dubai,10063.08,Medium
+1299,Dubai,10061.47,Medium
+1109,Dubai,10060.81,Medium
+3777,Dubai,10059.27,Medium
+1388,Dubai,10059.26,Medium
+2422,Sharjah,10059.08,Medium
+420,Dubai,10059.00,Medium
+1793,Dubai,10058.22,Medium
+1510,Sharjah,10058.01,Medium
+1340,Dubai,10057.32,Medium
+4464,Abu Dhabi,10057.04,Medium
+4878,Abu Dhabi,10056.87,Medium
+3058,Abu Dhabi,10055.85,Medium
+2333,Dubai,10055.22,Medium
+1904,Dubai,10054.98,Medium
+2661,Dubai,10054.53,Medium
+2940,Dubai,10053.54,Medium
+1448,Dubai,10053.27,Medium
+491,Dubai,10052.74,Medium
+1613,Sharjah,10052.17,Medium
+2287,Abu Dhabi,10051.74,Medium
+3233,Dubai,10051.01,Medium
+1330,Abu Dhabi,10050.79,Medium
+188,Abu Dhabi,10048.10,Medium
+587,Sharjah,10047.04,Medium
+737,Dubai,10046.73,Medium
+2617,Dubai,10045.25,Medium
+146,Sharjah,10045.24,Medium
+584,Sharjah,10044.06,Medium
+4737,Sharjah,10039.44,Medium
+76,Sharjah,10039.19,Medium
+3282,Dubai,10038.19,Medium
+3661,Abu Dhabi,10036.65,Medium
+1422,Abu Dhabi,10036.64,Medium
+2307,Abu Dhabi,10036.28,Medium
+4554,Sharjah,10035.98,Medium
+210,Sharjah,10035.82,Medium
+312,Dubai,10035.37,Medium
+1932,Abu Dhabi,10033.67,Medium
+59,Sharjah,10032.99,Medium
+3316,Dubai,10032.90,Medium
+1676,Dubai,10032.31,Medium
+2367,Dubai,10032.30,Medium
+1680,Abu Dhabi,10031.94,Medium
+3652,Abu Dhabi,10030.25,Medium
+4817,Abu Dhabi,10029.95,Medium
+2132,Abu Dhabi,10029.46,Medium
+680,Dubai,10028.80,Medium
+3006,Dubai,10028.51,Medium
+1887,Abu Dhabi,10026.72,Medium
+1307,Dubai,10026.34,Medium
+72,Dubai,10022.70,Medium
+3333,Dubai,10021.02,Medium
+4284,Sharjah,10020.74,Medium
+720,Dubai,10020.64,Medium
+2794,Abu Dhabi,10020.55,Medium
+2777,Abu Dhabi,10020.29,Medium
+1879,Sharjah,10020.03,Medium
+2990,Dubai,10017.20,Medium
+4072,Abu Dhabi,10017.06,Medium
+4357,Abu Dhabi,10017.01,Medium
+197,Dubai,10017.00,Medium
+3807,Sharjah,10016.40,Medium
+4031,Dubai,10016.34,Medium
+4419,Abu Dhabi,10016.07,Medium
+3737,Dubai,10015.36,Medium
+339,Dubai,10011.17,Medium
+3482,Sharjah,10009.35,Medium
+2224,Dubai,10006.94,Medium
+3334,Dubai,10005.83,Medium
+160,Dubai,10003.87,Medium
+1133,Abu Dhabi,10003.60,Medium
+3549,Dubai,10001.33,Medium
+3660,Sharjah,9997.85,Medium
+3732,Abu Dhabi,9994.81,Medium
+2172,Dubai,9993.49,Medium
+3223,Dubai,9992.43,Medium
+1944,Dubai,9992.04,Medium
+1022,Sharjah,9990.00,Medium
+3428,Dubai,9989.89,Medium
+3685,Abu Dhabi,9989.46,Medium
+4964,Dubai,9985.43,Medium
+4941,Dubai,9983.66,Medium
+2790,Dubai,9982.40,Medium
+3828,Dubai,9982.09,Medium
+1280,Dubai,9981.89,Medium
+683,Abu Dhabi,9981.47,Medium
+4759,Sharjah,9980.59,Medium
+813,Dubai,9979.78,Medium
+361,Dubai,9977.92,Medium
+4625,Dubai,9976.82,Medium
+3152,Dubai,9976.61,Medium
+4666,Dubai,9975.24,Medium
+50,Abu Dhabi,9973.63,Medium
+2381,Sharjah,9973.21,Medium
+1755,Dubai,9972.79,Medium
+1136,Dubai,9971.88,Medium
+3761,Abu Dhabi,9971.85,Medium
+1929,Dubai,9971.23,Medium
+2738,Abu Dhabi,9969.08,Medium
+3369,Dubai,9968.33,Medium
+2041,Abu Dhabi,9965.56,Medium
+3136,Dubai,9965.46,Medium
+41,Abu Dhabi,9964.67,Medium
+3474,Dubai,9963.95,Medium
+1116,Abu Dhabi,9963.51,Medium
+4054,Dubai,9963.07,Medium
+4832,Abu Dhabi,9961.83,Medium
+3581,Sharjah,9960.73,Medium
+4202,Sharjah,9959.06,Medium
+3996,Abu Dhabi,9958.98,Medium
+2456,Abu Dhabi,9958.76,Medium
+513,Dubai,9958.57,Medium
+1901,Dubai,9957.31,Medium
+1909,Sharjah,9957.23,Medium
+3850,Abu Dhabi,9956.97,Medium
+3947,Dubai,9956.53,Medium
+3994,Sharjah,9956.05,Medium
+4574,Dubai,9955.34,Medium
+790,Sharjah,9950.69,Medium
+484,Sharjah,9948.47,Medium
+4780,Abu Dhabi,9946.90,Medium
+4709,Dubai,9946.38,Medium
+2901,Abu Dhabi,9944.85,Medium
+3425,Sharjah,9944.32,Medium
+2372,Sharjah,9941.94,Medium
+814,Dubai,9941.60,Medium
+3307,Dubai,9939.86,Medium
+3394,Dubai,9939.81,Medium
+391,Dubai,9937.51,Medium
+3842,Abu Dhabi,9935.74,Medium
+2736,Dubai,9934.71,Medium
+3612,Abu Dhabi,9934.08,Medium
+3222,Dubai,9933.47,Medium
+1956,Sharjah,9933.47,Medium
+3207,Abu Dhabi,9933.31,Medium
+1778,Dubai,9933.23,Medium
+4069,Dubai,9933.22,Medium
+923,Dubai,9932.46,Medium
+1053,Sharjah,9931.07,Medium
+1886,Sharjah,9930.99,Medium
+1151,Dubai,9926.01,Medium
+4129,Dubai,9925.26,Medium
+3974,Abu Dhabi,9921.79,Medium
+35,Dubai,9921.62,Medium
+1374,Sharjah,9920.90,Medium
+4349,Abu Dhabi,9920.14,Medium
+1376,Dubai,9919.65,Medium
+4823,Dubai,9918.03,Medium
+1080,Sharjah,9917.12,Medium
+3690,Dubai,9915.22,Medium
+2464,Dubai,9913.50,Medium
+430,Dubai,9911.57,Medium
+1323,Dubai,9906.32,Medium
+2881,Abu Dhabi,9905.93,Medium
+2933,Sharjah,9905.66,Medium
+2019,Sharjah,9905.54,Medium
+2155,Dubai,9904.75,Medium
+4935,Dubai,9903.10,Medium
+3372,Abu Dhabi,9900.90,Medium
+2719,Dubai,9898.39,Medium
+2811,Dubai,9898.37,Medium
+3018,Abu Dhabi,9893.97,Medium
+3154,Dubai,9893.83,Medium
+228,Sharjah,9893.12,Medium
+4260,Sharjah,9892.28,Medium
+1424,Dubai,9891.11,Medium
+2876,Dubai,9890.89,Medium
+1868,Dubai,9890.43,Medium
+1196,Dubai,9890.23,Medium
+753,Dubai,9890.04,Medium
+1224,Dubai,9889.77,Medium
+1844,Dubai,9889.02,Medium
+3539,Abu Dhabi,9888.32,Medium
+4985,Abu Dhabi,9888.20,Medium
+1339,Dubai,9887.22,Medium
+1839,Dubai,9884.59,Medium
+2191,Dubai,9882.41,Medium
+2125,Abu Dhabi,9881.62,Medium
+3694,Dubai,9880.62,Medium
+1816,Abu Dhabi,9877.76,Medium
+2051,Dubai,9876.28,Medium
+2481,Dubai,9875.69,Medium
+2083,Sharjah,9875.12,Medium
+4610,Dubai,9874.98,Medium
+842,Abu Dhabi,9873.96,Medium
+439,Sharjah,9873.49,Medium
+2553,Sharjah,9873.35,Medium
+4095,Dubai,9871.48,Medium
+3634,Dubai,9871.31,Medium
+4519,Dubai,9870.95,Medium
+904,Dubai,9870.69,Medium
+1880,Dubai,9870.52,Medium
+2078,Abu Dhabi,9870.01,Medium
+645,Sharjah,9869.26,Medium
+4397,Dubai,9868.81,Medium
+4520,Dubai,9867.92,Medium
+544,Abu Dhabi,9866.82,Medium
+1188,Dubai,9866.72,Medium
+3468,Dubai,9865.44,Medium
+4747,Sharjah,9865.37,Medium
+435,Dubai,9865.21,Medium
+4208,Dubai,9864.84,Medium
+2023,Dubai,9864.78,Medium
+428,Abu Dhabi,9864.12,Medium
+2705,Sharjah,9863.97,Medium
+1767,Dubai,9863.93,Medium
+3005,Dubai,9863.68,Medium
+1296,Dubai,9862.72,Medium
+95,Sharjah,9862.42,Medium
+2948,Dubai,9861.38,Medium
+360,Dubai,9861.03,Medium
+4838,Dubai,9860.57,Medium
+1005,Abu Dhabi,9856.88,Medium
+4815,Dubai,9855.64,Medium
+2548,Sharjah,9855.56,Medium
+4281,Dubai,9855.07,Medium
+204,Sharjah,9854.83,Medium
+958,Abu Dhabi,9852.88,Medium
+3543,Sharjah,9851.54,Medium
+2941,Abu Dhabi,9850.46,Medium
+1881,Abu Dhabi,9850.29,Medium
+378,Dubai,9850.11,Medium
+4090,Dubai,9848.71,Medium
+3196,Dubai,9847.84,Medium
+113,Dubai,9846.74,Medium
+1584,Dubai,9845.68,Medium
+93,Dubai,9841.44,Medium
+3872,Dubai,9837.74,Medium
+4255,Dubai,9836.51,Medium
+3743,Sharjah,9834.81,Medium
+3251,Dubai,9834.27,Medium
+4755,Dubai,9834.24,Medium
+3509,Dubai,9832.92,Medium
+4830,Dubai,9831.83,Medium
+3589,Abu Dhabi,9830.15,Medium
+349,Dubai,9825.70,Medium
+2915,Sharjah,9824.62,Medium
+4592,Dubai,9824.24,Medium
+2861,Dubai,9822.79,Medium
+3785,Sharjah,9822.65,Medium
+3893,Sharjah,9822.45,Medium
+537,Sharjah,9822.45,Medium
+3657,Dubai,9821.84,Medium
+482,Abu Dhabi,9821.27,Medium
+4051,Dubai,9816.56,Medium
+2404,Dubai,9816.39,Medium
+2722,Abu Dhabi,9816.18,Medium
+3243,Abu Dhabi,9814.88,Medium
+4561,Sharjah,9810.34,Medium
+718,Dubai,9809.60,Medium
+1159,Abu Dhabi,9809.53,Medium
+2213,Dubai,9808.80,Medium
+3167,Abu Dhabi,9808.53,Medium
+2334,Sharjah,9807.76,Medium
+1552,Abu Dhabi,9806.69,Medium
+4312,Sharjah,9801.07,Medium
+3268,Sharjah,9800.63,Medium
+845,Dubai,9800.34,Medium
+797,Sharjah,9799.85,Medium
+4670,Sharjah,9798.03,Medium
+1669,Dubai,9797.18,Medium
+2332,Dubai,9796.69,Medium
+3109,Abu Dhabi,9796.26,Medium
+2542,Abu Dhabi,9795.21,Medium
+1124,Abu Dhabi,9793.79,Medium
+264,Dubai,9793.12,Medium
+4186,Dubai,9792.84,Medium
+2674,Sharjah,9792.05,Medium
+770,Abu Dhabi,9791.49,Medium
+4682,Abu Dhabi,9791.26,Medium
+2818,Dubai,9790.28,Medium
+2087,Dubai,9788.69,Medium
+2004,Dubai,9783.58,Medium
+4059,Dubai,9783.01,Medium
+2723,Dubai,9782.22,Medium
+2969,Abu Dhabi,9781.68,Medium
+3076,Dubai,9781.58,Medium
+3533,Sharjah,9780.92,Medium
+4846,Sharjah,9779.83,Medium
+2082,Abu Dhabi,9779.50,Medium
+3329,Sharjah,9775.93,Medium
+100,Dubai,9774.32,Medium
+1470,Dubai,9774.00,Medium
+581,Abu Dhabi,9773.45,Medium
+3212,Sharjah,9771.47,Medium
+2062,Dubai,9770.80,Medium
+3274,Dubai,9770.76,Medium
+1203,Dubai,9769.93,Medium
+891,Dubai,9769.22,Medium
+4131,Abu Dhabi,9768.76,Medium
+671,Abu Dhabi,9767.61,Medium
+976,Dubai,9767.33,Medium
+4253,Abu Dhabi,9765.51,Medium
+2112,Sharjah,9765.00,Medium
+4135,Dubai,9763.84,Medium
+4541,Dubai,9763.63,Medium
+287,Sharjah,9761.80,Medium
+2415,Dubai,9761.49,Medium
+603,Dubai,9761.38,Medium
+3029,Abu Dhabi,9761.03,Medium
+2916,Dubai,9760.20,Medium
+3098,Sharjah,9759.15,Medium
+4772,Abu Dhabi,9758.90,Medium
+198,Abu Dhabi,9758.32,Medium
+2773,Abu Dhabi,9758.23,Medium
+1216,Abu Dhabi,9757.07,Medium
+3059,Dubai,9756.72,Medium
+3360,Dubai,9756.00,Medium
+1582,Abu Dhabi,9755.42,Medium
+948,Sharjah,9752.21,Medium
+2184,Dubai,9751.72,Medium
+4007,Abu Dhabi,9751.08,Medium
+4115,Abu Dhabi,9750.38,Medium
+1861,Sharjah,9747.30,Medium
+232,Sharjah,9746.07,Medium
+2760,Abu Dhabi,9745.97,Medium
+368,Dubai,9745.62,Medium
+1736,Dubai,9744.22,Medium
+4470,Abu Dhabi,9744.14,Medium
+1052,Sharjah,9742.15,Medium
+2789,Dubai,9741.77,Medium
+1469,Dubai,9741.38,Medium
+1541,Abu Dhabi,9740.89,Medium
+686,Dubai,9740.52,Medium
+3846,Dubai,9740.23,Medium
+3262,Sharjah,9739.91,Medium
+4746,Abu Dhabi,9739.43,Medium
+1354,Dubai,9738.95,Medium
+4958,Dubai,9738.47,Medium
+281,Dubai,9738.23,Medium
+208,Abu Dhabi,9738.21,Medium
+3574,Dubai,9735.88,Medium
+4045,Abu Dhabi,9735.15,Medium
+2528,Sharjah,9734.43,Medium
+1152,Dubai,9732.10,Medium
+4967,Abu Dhabi,9731.60,Medium
+2249,Abu Dhabi,9731.59,Medium
+1443,Dubai,9730.10,Medium
+853,Dubai,9729.83,Medium
+1075,Dubai,9727.43,Medium
+1803,Abu Dhabi,9726.76,Medium
+4926,Sharjah,9724.53,Medium
+4739,Abu Dhabi,9723.85,Medium
+3338,Dubai,9723.38,Medium
+4665,Dubai,9722.99,Medium
+4866,Sharjah,9722.56,Medium
+2298,Dubai,9713.94,Medium
+849,Sharjah,9712.47,Medium
+4091,Sharjah,9712.08,Medium
+3270,Dubai,9711.18,Medium
+1908,Sharjah,9709.88,Medium
+1366,Dubai,9708.95,Medium
+2816,Dubai,9706.95,Medium
+2665,Abu Dhabi,9706.62,Medium
+148,Abu Dhabi,9706.12,Medium
+3011,Dubai,9705.54,Medium
+4687,Dubai,9705.42,Medium
+3610,Sharjah,9701.21,Medium
+2589,Dubai,9696.43,Medium
+3260,Sharjah,9695.95,Medium
+4225,Sharjah,9693.85,Medium
+1030,Dubai,9693.22,Medium
+91,Sharjah,9692.85,Medium
+717,Abu Dhabi,9691.38,Medium
+4767,Abu Dhabi,9690.89,Medium
+2855,Dubai,9688.46,Medium
+1512,Sharjah,9688.40,Medium
+4555,Dubai,9686.83,Medium
+2835,Dubai,9685.52,Medium
+4993,Abu Dhabi,9684.39,Medium
+2726,Abu Dhabi,9684.35,Medium
+1754,Dubai,9684.09,Medium
+1523,Dubai,9683.10,Medium
+4617,Dubai,9679.59,Medium
+1168,Dubai,9679.25,Medium
+539,Dubai,9678.95,Medium
+1526,Sharjah,9677.59,Medium
+2101,Dubai,9676.12,Medium
+1946,Abu Dhabi,9675.53,Medium
+3149,Abu Dhabi,9674.88,Medium
+304,Dubai,9674.15,Medium
+149,Dubai,9670.23,Medium
+2565,Dubai,9670.15,Medium
+4852,Abu Dhabi,9668.54,Medium
+4741,Dubai,9668.05,Medium
+1782,Sharjah,9666.04,Medium
+4322,Dubai,9665.99,Medium
+569,Sharjah,9663.52,Medium
+111,Abu Dhabi,9662.05,Medium
+602,Dubai,9661.31,Medium
+2305,Abu Dhabi,9659.66,Medium
+1281,Abu Dhabi,9659.46,Medium
+4216,Abu Dhabi,9659.35,Medium
+1084,Abu Dhabi,9656.26,Medium
+4061,Dubai,9655.02,Medium
+1456,Abu Dhabi,9652.96,Medium
+2943,Dubai,9650.59,Medium
+3311,Dubai,9650.45,Medium
+2689,Abu Dhabi,9649.95,Medium
+1016,Dubai,9646.00,Medium
+773,Dubai,9645.25,Medium
+126,Dubai,9644.97,Medium
+898,Dubai,9643.66,Medium
+3993,Abu Dhabi,9643.53,Medium
+755,Abu Dhabi,9643.17,Medium
+4531,Abu Dhabi,9643.12,Medium
+2583,Sharjah,9642.68,Medium
+2142,Dubai,9642.20,Medium
+1147,Abu Dhabi,9642.00,Medium
+1378,Dubai,9641.91,Medium
+4491,Sharjah,9641.74,Medium
+3643,Abu Dhabi,9641.48,Medium
+4292,Sharjah,9641.16,Medium
+3824,Abu Dhabi,9641.02,Medium
+2785,Sharjah,9639.44,Medium
+3763,Abu Dhabi,9638.74,Medium
+3933,Dubai,9635.28,Medium
+3466,Abu Dhabi,9634.64,Medium
+1337,Sharjah,9633.87,Medium
+4718,Sharjah,9630.17,Medium
+163,Abu Dhabi,9629.21,Medium
+2936,Sharjah,9628.11,Medium
+4919,Sharjah,9627.91,Medium
+4096,Abu Dhabi,9627.46,Medium
+1454,Dubai,9625.09,Medium
+4275,Dubai,9622.62,Medium
+1331,Abu Dhabi,9622.58,Medium
+2117,Dubai,9620.20,Medium
+1544,Dubai,9618.15,Medium
+1649,Dubai,9617.23,Medium
+2699,Abu Dhabi,9616.83,Medium
+591,Dubai,9614.03,Medium
+4679,Sharjah,9613.39,Medium
+3528,Dubai,9612.86,Medium
+1445,Sharjah,9611.45,Medium
+708,Dubai,9611.00,Medium
+905,Dubai,9610.55,Medium
+746,Dubai,9609.87,Medium
+560,Abu Dhabi,9609.41,Medium
+4291,Abu Dhabi,9609.18,Medium
+4503,Dubai,9609.08,Medium
+4469,Sharjah,9603.91,Medium
+3380,Sharjah,9602.58,Medium
+2655,Dubai,9600.39,Medium
+4232,Dubai,9599.96,Medium
+4672,Dubai,9599.04,Medium
+4001,Dubai,9598.71,Medium
+2165,Abu Dhabi,9596.75,Medium
+1897,Dubai,9596.27,Medium
+3417,Abu Dhabi,9593.55,Medium
+4169,Dubai,9590.63,Medium
+2198,Abu Dhabi,9590.02,Medium
+4159,Abu Dhabi,9589.89,Medium
+794,Abu Dhabi,9589.02,Medium
+1123,Abu Dhabi,9588.87,Medium
+1907,Dubai,9587.09,Medium
+3308,Dubai,9587.08,Medium
+4777,Dubai,9586.57,Medium
+3062,Sharjah,9584.74,Medium
+505,Dubai,9582.66,Medium
+2145,Sharjah,9582.63,Medium
+2031,Dubai,9582.37,Medium
+3133,Abu Dhabi,9581.77,Medium
+1684,Dubai,9581.13,Medium
+943,Dubai,9580.95,Medium
+2369,Dubai,9577.38,Medium
+3236,Abu Dhabi,9577.25,Medium
+877,Dubai,9570.40,Medium
+780,Dubai,9570.03,Medium
+4153,Sharjah,9567.54,Medium
+1588,Sharjah,9566.16,Medium
+3570,Dubai,9566.13,Medium
+726,Sharjah,9565.67,Medium
+1623,Dubai,9565.59,Medium
+2788,Dubai,9563.57,Medium
+1820,Dubai,9562.49,Medium
+605,Dubai,9561.69,Medium
+3532,Dubai,9557.74,Medium
+1831,Abu Dhabi,9550.97,Medium
+3907,Dubai,9550.45,Medium
+3230,Abu Dhabi,9549.31,Medium
+1015,Sharjah,9548.06,Medium
+4642,Dubai,9546.81,Medium
+4155,Abu Dhabi,9546.60,Medium
+2331,Dubai,9546.17,Medium
+376,Dubai,9539.60,Medium
+945,Dubai,9537.92,Medium
+2006,Dubai,9535.44,Medium
+2364,Dubai,9535.17,Medium
+2733,Dubai,9533.79,Medium
+1137,Dubai,9533.38,Medium
+2075,Dubai,9533.21,Medium
+518,Dubai,9532.81,Medium
+1455,Sharjah,9530.85,Medium
+557,Sharjah,9530.30,Medium
+2371,Dubai,9527.90,Medium
+1013,Dubai,9527.57,Medium
+4932,Sharjah,9526.98,Medium
+3556,Dubai,9524.81,Medium
+1155,Dubai,9524.71,Medium
+2504,Abu Dhabi,9522.10,Medium
+3291,Dubai,9520.83,Medium
+1222,Abu Dhabi,9519.62,Medium
+3177,Abu Dhabi,9519.37,Medium
+3915,Dubai,9519.31,Medium
+2274,Sharjah,9519.28,Medium
+2545,Dubai,9518.03,Medium
+1042,Sharjah,9517.64,Medium
+1717,Abu Dhabi,9515.21,Medium
+1972,Abu Dhabi,9514.96,Medium
+2997,Dubai,9513.27,Medium
+1065,Sharjah,9512.20,Medium
+2681,Dubai,9512.03,Medium
+4696,Abu Dhabi,9510.56,Medium
+1240,Sharjah,9510.49,Medium
+1617,Dubai,9510.27,Medium
+3998,Dubai,9509.54,Medium
+2466,Dubai,9509.35,Medium
+3886,Dubai,9507.24,Medium
+1823,Dubai,9505.07,Medium
+2767,Dubai,9503.60,Medium
+3060,Sharjah,9501.60,Medium
+2388,Dubai,9501.53,Medium
+2401,Abu Dhabi,9501.20,Medium
+3067,Abu Dhabi,9496.05,Medium
+4614,Abu Dhabi,9495.16,Medium
+2377,Dubai,9495.01,Medium
+3031,Abu Dhabi,9492.99,Medium
+473,Dubai,9492.76,Medium
+1446,Abu Dhabi,9491.87,Medium
+3800,Sharjah,9491.22,Medium
+4896,Abu Dhabi,9489.58,Medium
+1605,Dubai,9488.71,Medium
+4716,Sharjah,9488.58,Medium
+1662,Dubai,9487.79,Medium
+3638,Abu Dhabi,9486.10,Medium
+4161,Dubai,9485.77,Medium
+4708,Dubai,9485.14,Medium
+1040,Abu Dhabi,9483.83,Medium
+3276,Dubai,9483.14,Medium
+110,Dubai,9481.48,Medium
+1392,Dubai,9481.30,Medium
+1709,Dubai,9478.93,Medium
+2605,Dubai,9478.25,Medium
+2539,Dubai,9476.98,Medium
+1237,Dubai,9470.71,Medium
+864,Abu Dhabi,9470.61,Medium
+1953,Sharjah,9470.26,Medium
+1725,Abu Dhabi,9469.80,Medium
+2873,Abu Dhabi,9469.35,Medium
+172,Dubai,9469.03,Medium
+1872,Dubai,9468.87,Medium
+583,Abu Dhabi,9468.43,Medium
+277,Abu Dhabi,9466.69,Medium
+2769,Abu Dhabi,9463.29,Medium
+774,Dubai,9462.67,Medium
+1917,Sharjah,9461.87,Medium
+4884,Dubai,9461.60,Medium
+4686,Dubai,9461.02,Medium
+3097,Dubai,9457.39,Medium
+1870,Abu Dhabi,9455.77,Medium
+3142,Dubai,9453.34,Medium
+2139,Abu Dhabi,9453.15,Medium
+2091,Dubai,9452.72,Medium
+1770,Abu Dhabi,9446.32,Medium
+2207,Abu Dhabi,9444.44,Medium
+4581,Dubai,9444.20,Medium
+4799,Dubai,9443.03,Medium
+1849,Dubai,9441.89,Medium
+321,Abu Dhabi,9438.41,Medium
+4549,Abu Dhabi,9438.36,Medium
+4543,Abu Dhabi,9438.36,Medium
+4661,Dubai,9437.90,Medium
+4499,Dubai,9436.20,Medium
+1067,Abu Dhabi,9436.10,Medium
+3802,Dubai,9435.64,Medium
+3576,Sharjah,9434.64,Medium
+3923,Abu Dhabi,9434.00,Medium
+1241,Abu Dhabi,9433.31,Medium
+1204,Abu Dhabi,9433.04,Medium
+3775,Sharjah,9431.62,Medium
+3659,Dubai,9430.41,Medium
+4005,Dubai,9430.06,Medium
+1272,Dubai,9429.18,Medium
+534,Abu Dhabi,9427.95,Medium
+320,Abu Dhabi,9426.80,Medium
+3367,Abu Dhabi,9426.48,Medium
+868,Sharjah,9424.15,Medium
+62,Sharjah,9419.86,Medium
+1356,Sharjah,9415.43,Medium
+1383,Abu Dhabi,9413.36,Medium
+2546,Sharjah,9410.50,Medium
+4408,Dubai,9408.61,Medium
+3055,Abu Dhabi,9405.62,Medium
+3166,Dubai,9405.13,Medium
+2822,Dubai,9404.62,Medium
+1306,Abu Dhabi,9400.49,Medium
+3106,Abu Dhabi,9398.48,Medium
+3213,Sharjah,9398.25,Medium
+2654,Abu Dhabi,9398.07,Medium
+479,Abu Dhabi,9397.16,Medium
+1186,Sharjah,9395.44,Medium
+4650,Sharjah,9394.32,Medium
+619,Dubai,9392.26,Medium
+4207,Dubai,9391.99,Medium
+2378,Abu Dhabi,9391.77,Medium
+2712,Dubai,9388.75,Medium
+4109,Sharjah,9388.06,Medium
+2322,Dubai,9386.69,Medium
+2281,Abu Dhabi,9384.95,Medium
+2321,Dubai,9381.85,Medium
+2430,Abu Dhabi,9380.41,Medium
+2761,Dubai,9377.05,Medium
+1528,Dubai,9372.34,Medium
+4363,Dubai,9371.61,Medium
+2749,Dubai,9368.72,Medium
+740,Abu Dhabi,9367.70,Medium
+1636,Dubai,9367.26,Medium
+2996,Abu Dhabi,9366.11,Medium
+3552,Abu Dhabi,9365.47,Medium
+4693,Dubai,9365.06,Medium
+309,Dubai,9363.41,Medium
+1220,Dubai,9363.17,Medium
+3218,Sharjah,9363.06,Medium
+1567,Abu Dhabi,9362.89,Medium
+700,Dubai,9360.32,Medium
+1999,Dubai,9360.14,Medium
+1370,Dubai,9359.55,Medium
+4381,Sharjah,9358.34,Medium
+422,Dubai,9357.36,Medium
+956,Dubai,9356.07,Medium
+3302,Dubai,9354.92,Medium
+1018,Sharjah,9353.74,Medium
+141,Dubai,9353.70,Medium
+2872,Dubai,9351.33,Medium
+1563,Sharjah,9351.29,Medium
+2490,Sharjah,9351.27,Medium
+2566,Dubai,9351.08,Medium
+3862,Abu Dhabi,9349.58,Medium
+1811,Dubai,9346.81,Medium
+217,Abu Dhabi,9344.11,Medium
+1105,Dubai,9343.41,Medium
+3039,Abu Dhabi,9342.80,Medium
+4062,Abu Dhabi,9342.33,Medium
+4162,Abu Dhabi,9339.29,Medium
+3561,Dubai,9339.25,Medium
+2391,Abu Dhabi,9336.99,Medium
+2148,Dubai,9335.15,Medium
+1060,Abu Dhabi,9331.52,Medium
+266,Dubai,9329.17,Medium
+1620,Abu Dhabi,9329.14,Medium
+575,Dubai,9326.13,Medium
+3622,Dubai,9325.17,Medium
+2864,Dubai,9325.09,Medium
+2053,Sharjah,9324.94,Medium
+3827,Dubai,9324.41,Medium
+3702,Dubai,9321.45,Medium
+3888,Dubai,9319.90,Medium
+280,Dubai,9319.14,Medium
+2904,Dubai,9318.49,Medium
+3939,Dubai,9317.59,Medium
+703,Sharjah,9317.10,Medium
+3375,Sharjah,9316.81,Medium
+4656,Dubai,9316.03,Medium
+815,Sharjah,9315.79,Medium
+3892,Dubai,9313.74,Medium
+3948,Dubai,9313.01,Medium
+2389,Dubai,9309.59,Medium
+3751,Dubai,9307.60,Medium
+179,Sharjah,9305.51,Medium
+221,Dubai,9304.07,Medium
+900,Dubai,9303.42,Medium
+4837,Dubai,9300.74,Medium
+3418,Dubai,9299.06,Medium
+3422,Abu Dhabi,9298.74,Medium
+4556,Dubai,9297.66,Medium
+1768,Abu Dhabi,9295.22,Medium
+2865,Dubai,9293.57,Medium
+382,Dubai,9290.57,Medium
+1229,Abu Dhabi,9289.59,Medium
+3190,Dubai,9289.19,Medium
+2875,Abu Dhabi,9286.57,Medium
+3571,Sharjah,9286.29,Medium
+4634,Dubai,9285.76,Medium
+297,Abu Dhabi,9283.37,Medium
+4820,Abu Dhabi,9283.24,Medium
+1737,Abu Dhabi,9282.87,Medium
+2215,Abu Dhabi,9280.14,Medium
+2686,Sharjah,9280.13,Medium
+4542,Abu Dhabi,9279.63,Medium
+2395,Dubai,9278.21,Medium
+2950,Sharjah,9277.90,Medium
+2725,Dubai,9277.81,Medium
+4423,Dubai,9277.55,Medium
+4722,Abu Dhabi,9276.25,Medium
+2972,Sharjah,9274.28,Medium
+2040,Abu Dhabi,9272.74,Medium
+2484,Sharjah,9271.91,Medium
+2690,Dubai,9271.36,Medium
+4880,Sharjah,9270.41,Medium
+4386,Dubai,9269.83,Medium
+3917,Abu Dhabi,9268.00,Medium
+1719,Dubai,9267.21,Medium
+995,Dubai,9265.01,Medium
+861,Abu Dhabi,9261.59,Medium
+69,Dubai,9261.10,Medium
+1004,Dubai,9260.74,Medium
+4676,Abu Dhabi,9258.32,Medium
+3457,Dubai,9256.80,Medium
+2179,Dubai,9256.37,Medium
+4160,Abu Dhabi,9255.57,Medium
+689,Sharjah,9254.35,Medium
+3115,Sharjah,9253.64,Medium
+1207,Dubai,9250.93,Medium
+4833,Dubai,9246.26,Medium
+3511,Sharjah,9240.45,Medium
+3540,Dubai,9236.03,Medium
+3719,Abu Dhabi,9234.57,Medium
+4501,Dubai,9231.00,Medium
+21,Abu Dhabi,9230.98,Medium
+3709,Sharjah,9229.98,Medium
+4339,Abu Dhabi,9229.42,Medium
+2559,Sharjah,9227.08,Medium
+1286,Sharjah,9226.93,Medium
+2810,Dubai,9226.31,Medium
+573,Dubai,9226.11,Medium
+3525,Abu Dhabi,9226.08,Medium
+4346,Dubai,9224.75,Medium
+1859,Dubai,9224.49,Medium
+576,Dubai,9224.04,Medium
+2836,Dubai,9223.60,Medium
+429,Sharjah,9223.32,Medium
+2471,Abu Dhabi,9220.15,Medium
+3349,Sharjah,9219.46,Medium
+79,Dubai,9217.79,Medium
+2492,Abu Dhabi,9217.06,Medium
+2496,Dubai,9213.79,Medium
+3503,Dubai,9213.38,Medium
+1008,Abu Dhabi,9210.43,Medium
+982,Sharjah,9208.73,Medium
+1979,Sharjah,9205.95,Medium
+3927,Sharjah,9205.22,Medium
+3459,Dubai,9202.75,Medium
+4452,Dubai,9201.57,Medium
+392,Sharjah,9201.30,Medium
+4948,Dubai,9199.27,Medium
+2607,Dubai,9199.13,Medium
+2753,Abu Dhabi,9198.94,Medium
+523,Abu Dhabi,9197.67,Medium
+322,Dubai,9197.07,Medium
+2696,Dubai,9196.70,Medium
+3309,Dubai,9195.72,Medium
+4990,Dubai,9195.69,Medium
+1043,Abu Dhabi,9195.25,Medium
+4242,Abu Dhabi,9195.24,Medium
+2732,Sharjah,9192.32,Medium
+3542,Dubai,9190.67,Medium
+4445,Sharjah,9188.66,Medium
+2494,Dubai,9184.22,Medium
+3629,Dubai,9182.58,Medium
+2554,Dubai,9180.45,Medium
+2467,Dubai,9178.91,Medium
+925,Sharjah,9177.96,Medium
+1436,Dubai,9177.85,Medium
+2888,Dubai,9176.14,Medium
+3686,Dubai,9176.11,Medium
+1547,Sharjah,9175.00,Medium
+4752,Dubai,9174.88,Medium
+4532,Abu Dhabi,9174.58,Medium
+1630,Dubai,9174.36,Medium
+7,Abu Dhabi,9174.12,Medium
+2530,Sharjah,9172.25,Medium
+1092,Abu Dhabi,9171.69,Medium
+2130,Dubai,9171.36,Medium
+3745,Sharjah,9169.84,Medium
+1288,Dubai,9169.50,Medium
+3590,Dubai,9168.82,Medium
+4053,Dubai,9167.15,Medium
+4940,Dubai,9165.65,Medium
+778,Dubai,9162.40,Medium
+2398,Sharjah,9159.14,Medium
+855,Dubai,9158.43,Medium
+2080,Abu Dhabi,9157.98,Medium
+4591,Dubai,9155.90,Medium
+3967,Sharjah,9155.13,Medium
+2519,Dubai,9153.43,Medium
+103,Abu Dhabi,9153.11,Medium
+3677,Dubai,9150.28,Medium
+918,Sharjah,9149.68,Medium
+1973,Abu Dhabi,9148.40,Medium
+3259,Sharjah,9148.12,Medium
+3621,Dubai,9147.49,Medium
+3608,Dubai,9147.25,Medium
+1670,Dubai,9146.77,Medium
+1722,Abu Dhabi,9146.17,Medium
+1055,Dubai,9145.78,Medium
+274,Dubai,9136.98,Medium
+1735,Dubai,9134.24,Medium
+3619,Abu Dhabi,9133.55,Medium
+171,Dubai,9132.01,Medium
+3635,Sharjah,9128.46,Medium
+2658,Abu Dhabi,9128.05,Medium
+254,Sharjah,9127.06,Medium
+4931,Dubai,9125.79,Medium
+4150,Sharjah,9124.29,Medium
+4706,Dubai,9123.43,Medium
+641,Abu Dhabi,9121.70,Medium
+1790,Abu Dhabi,9120.98,Medium
+1640,Dubai,9120.49,Medium
+793,Dubai,9118.63,Medium
+4749,Dubai,9115.89,Medium
+3779,Sharjah,9114.01,Medium
+1029,Dubai,9112.53,Medium
+2356,Dubai,9110.77,Medium
+2264,Dubai,9108.55,Medium
+3866,Abu Dhabi,9108.01,Medium
+4790,Dubai,9107.28,Medium
+1937,Abu Dhabi,9105.95,Medium
+2676,Dubai,9105.29,Medium
+1024,Dubai,9104.18,Medium
+4158,Dubai,9103.75,Medium
+691,Dubai,9103.24,Medium
+4489,Abu Dhabi,9100.39,Medium
+3352,Dubai,9099.19,Medium
+4585,Sharjah,9099.00,Medium
+3559,Dubai,9097.82,Medium
+3449,Dubai,9097.67,Medium
+3906,Dubai,9095.68,Medium
+608,Sharjah,9092.79,Medium
+3953,Dubai,9092.36,Medium
+4002,Dubai,9091.56,Medium
+3121,Dubai,9089.90,Medium
+896,Dubai,9088.62,Medium
+2837,Abu Dhabi,9088.09,Medium
+3934,Dubai,9086.77,Medium
+4972,Dubai,9086.34,Medium
+1802,Dubai,9084.74,Medium
+4888,Dubai,9081.93,Medium
+427,Sharjah,9081.47,Medium
+1600,Dubai,9080.95,Medium
+180,Abu Dhabi,9075.52,Medium
+1381,Dubai,9074.58,Medium
+2571,Dubai,9067.52,Medium
+3382,Abu Dhabi,9066.63,Medium
+2232,Abu Dhabi,9062.81,Medium
+1185,Dubai,9062.16,Medium
+1632,Sharjah,9062.13,Medium
+1483,Dubai,9060.38,Medium
+4517,Sharjah,9058.91,Medium
+4171,Dubai,9057.04,Medium
+2337,Abu Dhabi,9054.91,Medium
+821,Abu Dhabi,9054.14,Medium
+2034,Dubai,9053.41,Medium
+1930,Dubai,9051.13,Medium
+4825,Dubai,9050.60,Medium
+3444,Dubai,9049.14,Medium
+4603,Abu Dhabi,9048.20,Medium
+3580,Dubai,9047.78,Medium
+512,Dubai,9046.60,Medium
+4998,Abu Dhabi,9045.97,Medium
+294,Abu Dhabi,9044.71,Medium
+3030,Dubai,9044.13,Medium
+517,Sharjah,9043.94,Medium
+4779,Sharjah,9043.03,Medium
+4478,Dubai,9039.83,Medium
+2206,Abu Dhabi,9039.01,Medium
+4058,Sharjah,9037.68,Medium
+1200,Dubai,9035.74,Medium
+2752,Abu Dhabi,9035.72,Medium
+1704,Dubai,9033.30,Medium
+3159,Abu Dhabi,9031.60,Medium
+3315,Dubai,9031.43,Medium
+1874,Abu Dhabi,9030.83,Medium
+1413,Sharjah,9030.73,Medium
+2626,Dubai,9029.59,Medium
+3747,Sharjah,9028.48,Medium
+525,Abu Dhabi,9022.89,Medium
+4690,Abu Dhabi,9022.25,Medium
+3937,Abu Dhabi,9019.88,Medium
+1559,Abu Dhabi,9019.64,Medium
+1693,Abu Dhabi,9019.17,Medium
+3573,Abu Dhabi,9018.09,Medium
+4403,Abu Dhabi,9015.88,Medium
+4609,Dubai,9015.63,Medium
+829,Sharjah,9015.37,Medium
+2707,Abu Dhabi,9015.03,Medium
+3649,Abu Dhabi,9014.52,Medium
+4548,Abu Dhabi,9013.86,Medium
+48,Abu Dhabi,9012.46,Medium
+4662,Sharjah,9011.75,Medium
+993,Abu Dhabi,9009.50,Medium
+500,Abu Dhabi,9009.36,Medium
+3521,Dubai,9007.96,Medium
+1322,Dubai,9006.47,Medium
+3431,Abu Dhabi,9000.66,Medium
+4401,Dubai,9000.08,Medium
+78,Dubai,8999.07,Medium
+3669,Dubai,8993.57,Medium
+2845,Dubai,8992.93,Medium
+3538,Dubai,8990.93,Medium
+1199,Dubai,8990.83,Medium
+1235,Abu Dhabi,8989.22,Medium
+1805,Abu Dhabi,8986.95,Medium
+225,Dubai,8984.78,Medium
+3534,Dubai,8981.96,Medium
+2402,Dubai,8980.59,Medium
+2567,Abu Dhabi,8979.80,Medium
+1532,Dubai,8979.32,Medium
+318,Sharjah,8978.51,Medium
+2909,Abu Dhabi,8977.67,Medium
+600,Abu Dhabi,8975.89,Medium
+1242,Sharjah,8975.22,Medium
+1971,Dubai,8973.56,Medium
+4611,Abu Dhabi,8973.07,Medium
+1672,Abu Dhabi,8971.21,Medium
+371,Dubai,8969.56,Medium
+1827,Dubai,8968.69,Medium
+452,Dubai,8963.21,Medium
+269,Abu Dhabi,8958.80,Medium
+3427,Abu Dhabi,8958.01,Medium
+1181,Dubai,8955.61,Medium
+1139,Dubai,8955.11,Medium
+886,Dubai,8954.85,Medium
+623,Sharjah,8954.49,Medium
+2376,Dubai,8954.36,Medium
+2090,Dubai,8951.85,Medium
+2908,Sharjah,8949.77,Medium
+643,Dubai,8948.75,Medium
+1221,Dubai,8947.90,Medium
+1262,Abu Dhabi,8937.60,Medium
+4730,Dubai,8937.40,Medium
+1965,Dubai,8936.62,Medium
+3232,Dubai,8935.18,Medium
+1774,Dubai,8932.37,Medium
+43,Sharjah,8930.11,Medium
+1732,Sharjah,8927.99,Medium
+4214,Dubai,8927.79,Medium
+998,Dubai,8927.19,Medium
+4809,Dubai,8926.75,Medium
+3833,Abu Dhabi,8926.21,Medium
+2278,Abu Dhabi,8925.33,Medium
+2181,Abu Dhabi,8921.41,Medium
+4664,Dubai,8919.60,Medium
+1464,Dubai,8919.52,Medium
+3609,Abu Dhabi,8918.49,Medium
+2455,Abu Dhabi,8917.36,Medium
+4975,Sharjah,8915.81,Medium
+595,Dubai,8913.67,Medium
+2453,Sharjah,8913.42,Medium
+4505,Sharjah,8912.09,Medium
+4327,Dubai,8911.57,Medium
+668,Abu Dhabi,8911.40,Medium
+400,Dubai,8909.86,Medium
+1927,Dubai,8909.70,Medium
+562,Sharjah,8908.65,Medium
+4765,Dubai,8899.07,Medium
+638,Sharjah,8898.61,Medium
+3191,Dubai,8898.53,Medium
+4319,Dubai,8898.32,Medium
+1135,Abu Dhabi,8893.79,Medium
+674,Dubai,8893.22,Medium
+1597,Dubai,8892.44,Medium
+1427,Dubai,8890.79,Medium
+936,Abu Dhabi,8887.57,Medium
+697,Abu Dhabi,8883.74,Medium
+3771,Dubai,8882.26,Medium
+56,Dubai,8882.22,Medium
+3646,Abu Dhabi,8882.10,Medium
+4575,Sharjah,8881.59,Medium
+2922,Abu Dhabi,8880.89,Medium
+1905,Sharjah,8878.15,Medium
+4370,Dubai,8877.41,Medium
+3891,Dubai,8874.67,Medium
+1920,Dubai,8874.48,Medium
+4015,Dubai,8871.73,Medium
+1438,Abu Dhabi,8870.66,Medium
+747,Dubai,8869.53,Medium
+4032,Abu Dhabi,8867.70,Medium
+570,Dubai,8867.39,Medium
+2931,Dubai,8861.73,Medium
+2564,Abu Dhabi,8861.62,Medium
+2256,Dubai,8861.15,Medium
+2663,Dubai,8861.08,Medium
+2216,Dubai,8860.67,Medium
+1871,Dubai,8857.03,Medium
+1014,Sharjah,8856.73,Medium
+325,Abu Dhabi,8856.52,Medium
+2299,Dubai,8851.01,Medium
+3358,Dubai,8850.67,Medium
+4571,Abu Dhabi,8849.83,Medium
+1665,Dubai,8849.74,Medium
+1098,Sharjah,8849.57,Medium
+4528,Sharjah,8849.49,Medium
+120,Sharjah,8848.79,Medium
+3328,Abu Dhabi,8846.27,Medium
+4387,Dubai,8841.14,Medium
+4502,Dubai,8840.65,Medium
+330,Dubai,8838.77,Medium
+3902,Dubai,8838.49,Medium
+2435,Dubai,8837.79,Medium
+4434,Dubai,8834.77,Medium
+497,Dubai,8834.77,Medium
+3409,Abu Dhabi,8833.36,Medium
+150,Abu Dhabi,8832.54,Medium
+3269,Abu Dhabi,8831.76,Medium
+3046,Dubai,8831.68,Medium
+710,Abu Dhabi,8831.68,Medium
+3404,Dubai,8831.22,Medium
+216,Abu Dhabi,8827.91,Medium
+2111,Dubai,8826.20,Medium
+332,Dubai,8823.78,Medium
+4185,Dubai,8823.68,Medium
+2942,Abu Dhabi,8822.54,Medium
+4797,Dubai,8822.53,Medium
+3350,Dubai,8821.65,Medium
+3320,Abu Dhabi,8819.87,Medium
+335,Sharjah,8817.19,Medium
+4996,Dubai,8816.79,Medium
+1088,Dubai,8816.44,Medium
+614,Dubai,8813.23,Medium
+4099,Abu Dhabi,8812.80,Medium
+2863,Abu Dhabi,8811.09,Medium
+3811,Dubai,8809.79,Medium
+4459,Dubai,8803.89,Medium
+2960,Abu Dhabi,8801.54,Medium
+4906,Dubai,8801.51,Medium
+1146,Sharjah,8798.13,Medium
+3674,Dubai,8797.90,Medium
+3389,Sharjah,8797.18,Medium
+1072,Sharjah,8794.71,Medium
+846,Abu Dhabi,8793.42,Medium
+676,Dubai,8789.95,Medium
+256,Abu Dhabi,8787.98,Medium
+3054,Dubai,8787.51,Medium
+2175,Abu Dhabi,8785.51,Medium
+388,Abu Dhabi,8784.79,Medium
+4190,Abu Dhabi,8784.35,Medium
+1302,Abu Dhabi,8783.83,Medium
+2748,Abu Dhabi,8783.24,Medium
+285,Dubai,8781.51,Medium
+2047,Sharjah,8779.57,Medium
+693,Dubai,8779.46,Medium
+1079,Dubai,8779.44,Medium
+1165,Dubai,8778.00,Medium
+4254,Dubai,8775.17,Medium
+1614,Sharjah,8772.74,Medium
+478,Dubai,8772.74,Medium
+3201,Dubai,8772.40,Medium
+3497,Dubai,8771.56,Medium
+4901,Abu Dhabi,8770.68,Medium
+597,Dubai,8769.83,Medium
+4843,Sharjah,8769.32,Medium
+2697,Abu Dhabi,8764.75,Medium
+1215,Abu Dhabi,8763.82,Medium
+1863,Dubai,8762.04,Medium
+924,Sharjah,8760.94,Medium
+1596,Abu Dhabi,8755.36,Medium
+848,Abu Dhabi,8753.70,Medium
+145,Abu Dhabi,8753.38,Medium
+1515,Dubai,8752.75,Medium
+2606,Dubai,8751.81,Medium
+125,Abu Dhabi,8750.92,Medium
+1249,Dubai,8743.17,Medium
+2651,Abu Dhabi,8741.26,Medium
+577,Dubai,8738.30,Medium
+471,Dubai,8735.78,Medium
+4719,Dubai,8734.25,Medium
+4218,Dubai,8733.17,Medium
+2133,Abu Dhabi,8725.31,Medium
+4663,Dubai,8719.41,Medium
+1180,Abu Dhabi,8718.39,Medium
+4359,Dubai,8717.95,Medium
+1391,Abu Dhabi,8716.94,Medium
+1399,Sharjah,8713.57,Medium
+2920,Abu Dhabi,8713.23,Medium
+345,Dubai,8708.82,Medium
+554,Sharjah,8708.76,Medium
+1978,Dubai,8708.01,Medium
+1254,Sharjah,8706.33,Medium
+4903,Dubai,8705.78,Medium
+3639,Abu Dhabi,8701.27,Medium
+547,Sharjah,8699.94,Medium
+2724,Dubai,8699.72,Medium
+1659,Dubai,8699.04,Medium
+4845,Abu Dhabi,8695.22,Medium
+3867,Dubai,8693.46,Medium
+2562,Abu Dhabi,8684.41,Medium
+2109,Abu Dhabi,8682.12,Medium
+4781,Sharjah,8681.68,Medium
+4573,Dubai,8679.10,Medium
+2932,Dubai,8678.14,Medium
+314,Dubai,8677.47,Medium
+917,Dubai,8676.13,Medium
+989,Dubai,8673.45,Medium
+3101,Abu Dhabi,8672.26,Medium
+2672,Dubai,8671.30,Medium
+1967,Sharjah,8670.79,Medium
+4608,Sharjah,8666.29,Medium
+1271,Dubai,8665.76,Medium
+1350,Sharjah,8664.34,Medium
+3858,Dubai,8663.97,Medium
+1658,Dubai,8663.31,Medium
+2138,Dubai,8659.51,Medium
+2660,Sharjah,8659.14,Medium
+4274,Dubai,8656.81,Medium
+139,Abu Dhabi,8656.21,Medium
+161,Sharjah,8655.45,Medium
+4646,Dubai,8653.68,Medium
+2010,Abu Dhabi,8653.56,Medium
+3946,Dubai,8651.91,Medium
+860,Dubai,8651.88,Medium
+4018,Dubai,8650.68,Medium
+49,Dubai,8650.36,Medium
+3504,Dubai,8649.66,Medium
+1733,Abu Dhabi,8648.79,Medium
+3111,Abu Dhabi,8648.42,Medium
+1530,Abu Dhabi,8642.98,Medium
+1903,Sharjah,8642.86,Medium
+4056,Abu Dhabi,8640.64,Medium
+1618,Dubai,8639.90,Medium
+762,Sharjah,8638.52,Medium
+4882,Dubai,8636.91,Medium
+2746,Dubai,8635.25,Medium
+1769,Abu Dhabi,8633.74,Medium
+3526,Sharjah,8633.51,Medium
+736,Dubai,8631.21,Medium
+4923,Sharjah,8630.73,Medium
+1922,Abu Dhabi,8630.18,Medium
+32,Dubai,8625.45,Medium
+176,Abu Dhabi,8625.45,Medium
+3516,Abu Dhabi,8621.16,Medium
+2498,Dubai,8619.68,Medium
+2561,Dubai,8618.83,Medium
+2532,Dubai,8616.65,Medium
+1663,Abu Dhabi,8615.36,Medium
+3158,Dubai,8615.32,Medium
+3964,Dubai,8613.82,Medium
+3518,Dubai,8613.01,Medium
+3455,Sharjah,8612.92,Medium
+3975,Sharjah,8606.17,Medium
+1344,Dubai,8605.62,Medium
+2558,Dubai,8604.02,Medium
+1622,Dubai,8602.14,Medium
+4020,Sharjah,8600.45,Medium
+3750,Dubai,8599.80,Medium
+2192,Sharjah,8599.58,Medium
+3345,Dubai,8598.98,Medium
+4089,Dubai,8595.91,Medium
+65,Abu Dhabi,8594.32,Medium
+2301,Sharjah,8594.10,Medium
+1919,Sharjah,8591.63,Medium
+1017,Sharjah,8590.14,Medium
+2270,Sharjah,8581.64,Medium
+1278,Abu Dhabi,8581.30,Medium
+2203,Dubai,8581.03,Medium
+3912,Abu Dhabi,8580.12,Medium
+4835,Abu Dhabi,8579.20,Medium
+3450,Dubai,8578.67,Medium
+4083,Dubai,8577.95,Medium
+2412,Sharjah,8577.47,Medium
+1854,Abu Dhabi,8574.56,Medium
+44,Abu Dhabi,8574.18,Medium
+1783,Abu Dhabi,8573.79,Medium
+1362,Abu Dhabi,8573.25,Medium
+305,Dubai,8571.71,Medium
+2063,Sharjah,8568.88,Medium
+4486,Dubai,8568.13,Medium
+4354,Abu Dhabi,8567.07,Medium
+1607,Dubai,8565.63,Medium
+3970,Abu Dhabi,8565.24,Medium
+3312,Dubai,8561.22,Medium
+3185,Dubai,8561.21,Medium
+490,Dubai,8558.16,Medium
+3663,Dubai,8558.08,Medium
+2656,Dubai,8553.10,Medium
+3204,Abu Dhabi,8552.74,Medium
+2020,Abu Dhabi,8551.06,Medium
+1603,Abu Dhabi,8549.76,Medium
+2502,Dubai,8545.86,Medium
+3094,Abu Dhabi,8545.21,Medium
+4328,Sharjah,8544.32,Medium
+844,Dubai,8537.64,Medium
+4420,Abu Dhabi,8536.95,Medium
+64,Abu Dhabi,8536.34,Medium
+4285,Sharjah,8533.93,Medium
+3173,Dubai,8533.39,Medium
+3814,Sharjah,8531.73,Medium
+1416,Sharjah,8531.22,Medium
+299,Dubai,8530.48,Medium
+4140,Dubai,8525.36,Medium
+2375,Sharjah,8519.38,Medium
+1899,Dubai,8518.07,Medium
+3887,Abu Dhabi,8515.93,Medium
+2032,Dubai,8511.31,Medium
+3096,Dubai,8507.21,Medium
+2619,Dubai,8507.05,Medium
+202,Dubai,8504.73,Medium
+3356,Dubai,8503.84,Medium
+4198,Dubai,8501.55,Medium
+818,Dubai,8500.53,Medium
+2889,Dubai,8499.30,Medium
+119,Abu Dhabi,8498.96,Medium
+3613,Abu Dhabi,8497.69,Medium
+2405,Sharjah,8496.56,Medium
+4463,Abu Dhabi,8495.18,Medium
+785,Dubai,8494.55,Medium
+3769,Sharjah,8494.20,Medium
+2187,Dubai,8493.21,Medium
+4484,Dubai,8492.08,Medium
+4588,Abu Dhabi,8491.33,Medium
+857,Sharjah,8486.67,Medium
+2178,Sharjah,8485.88,Medium
+2013,Dubai,8485.44,Medium
+4738,Dubai,8483.46,Medium
+920,Sharjah,8479.76,Medium
+1231,Dubai,8478.58,Medium
+1856,Dubai,8473.92,Medium
+158,Dubai,8472.66,Medium
+631,Abu Dhabi,8471.59,Medium
+3454,Sharjah,8469.14,Medium
+102,Sharjah,8465.83,Medium
+4474,Sharjah,8464.51,Medium
+2703,Dubai,8463.64,Medium
+919,Sharjah,8463.51,Medium
+4710,Dubai,8463.41,Medium
+3838,Dubai,8461.74,Medium
+788,Abu Dhabi,8459.25,Medium
+2623,Dubai,8457.88,Medium
+3063,Dubai,8455.55,Medium
+477,Sharjah,8455.23,Medium
+871,Dubai,8450.89,Medium
+3700,Dubai,8448.01,Medium
+1145,Abu Dhabi,8447.13,Medium
+4298,Abu Dhabi,8444.27,Medium
+1051,Dubai,8435.44,Medium
+3143,Abu Dhabi,8431.40,Medium
+2829,Abu Dhabi,8430.11,Medium
+3606,Dubai,8429.50,Medium
+3861,Abu Dhabi,8429.15,Medium
+2879,Dubai,8427.67,Medium
+4063,Dubai,8426.51,Medium
+2312,Sharjah,8426.28,Medium
+3899,Dubai,8420.37,Medium
+2230,Dubai,8418.66,Medium
+3000,Dubai,8417.96,Medium
+2197,Dubai,8416.33,Medium
+1543,Dubai,8415.20,Medium
+1678,Dubai,8412.47,Medium
+548,Dubai,8410.61,Medium
+1069,Sharjah,8409.75,Medium
+4894,Sharjah,8408.56,Medium
+1814,Abu Dhabi,8405.65,Medium
+3281,Dubai,8405.05,Medium
+2441,Dubai,8401.99,Medium
+393,Sharjah,8396.26,Medium
+1150,Abu Dhabi,8388.41,Medium
+4583,Abu Dhabi,8382.26,Medium
+2419,Sharjah,8377.87,Medium
+834,Dubai,8374.21,Medium
+457,Dubai,8371.76,Medium
+4406,Dubai,8364.97,Medium
+1321,Dubai,8362.61,Medium
+3841,Dubai,8360.67,Medium
+4332,Dubai,8358.16,Medium
+1,Sharjah,8357.16,Medium
+1444,Dubai,8354.72,Medium
+196,Dubai,8348.38,Medium
+3368,Sharjah,8345.95,Medium
+3671,Dubai,8342.95,Medium
+4602,Sharjah,8338.26,Medium
+2896,Sharjah,8333.72,Medium
+687,Abu Dhabi,8332.62,Medium
+3332,Dubai,8330.27,Medium
+2185,Dubai,8322.83,Medium
+3951,Dubai,8322.28,Medium
+23,Dubai,8321.78,Medium
+2414,Sharjah,8311.61,Medium
+1418,Sharjah,8300.72,Medium
+1833,Dubai,8300.00,Medium
+2449,Dubai,8297.04,Medium
+1875,Abu Dhabi,8293.62,Medium
+3192,Sharjah,8293.28,Medium
+3256,Sharjah,8287.53,Medium
+1945,Dubai,8283.41,Medium
+4301,Sharjah,8282.69,Medium
+863,Abu Dhabi,8282.33,Medium
+3131,Abu Dhabi,8281.73,Medium
+3766,Sharjah,8279.31,Medium
+1916,Sharjah,8275.80,Medium
+2998,Dubai,8275.29,Medium
+3012,Abu Dhabi,8275.29,Medium
+2721,Abu Dhabi,8271.17,Medium
+4671,Abu Dhabi,8271.15,Medium
+4678,Sharjah,8270.43,Medium
+3878,Abu Dhabi,8268.58,Medium
+3815,Dubai,8268.03,Medium
+1439,Dubai,8266.05,Medium
+3074,Dubai,8258.80,Medium
+1279,Dubai,8255.98,Medium
+824,Dubai,8255.96,Medium
+3050,Dubai,8254.46,Medium
+3991,Abu Dhabi,8251.99,Medium
+1629,Dubai,8246.19,Medium
+4306,Dubai,8246.12,Medium
+765,Abu Dhabi,8245.73,Medium
+1117,Dubai,8245.17,Medium
+3406,Dubai,8245.16,Medium
+4523,Dubai,8243.11,Medium
+1610,Dubai,8242.57,Medium
+3178,Sharjah,8241.24,Medium
+722,Abu Dhabi,8230.19,Medium
+616,Dubai,8229.53,Medium
+2577,Sharjah,8226.89,Medium
+4764,Dubai,8226.58,Medium
+186,Sharjah,8222.35,Medium
+1032,Abu Dhabi,8219.55,Medium
+3075,Abu Dhabi,8213.39,Medium
+3898,Abu Dhabi,8203.21,Medium
+1175,Dubai,8202.00,Medium
+3242,Dubai,8198.12,Medium
+1549,Dubai,8195.68,Medium
+3910,Sharjah,8193.62,Medium
+3966,Abu Dhabi,8189.94,Medium
+4194,Abu Dhabi,8184.71,Medium
+4855,Dubai,8180.87,Medium
+4391,Dubai,8178.91,Medium
+4636,Dubai,8174.27,Medium
+3203,Abu Dhabi,8173.75,Medium
+412,Abu Dhabi,8171.86,Medium
+1598,Dubai,8171.70,Medium
+255,Abu Dhabi,8169.19,Medium
+3843,Dubai,8168.44,Medium
+2017,Abu Dhabi,8164.83,Medium
+4485,Abu Dhabi,8160.90,Medium
+2928,Dubai,8154.57,Medium
+1505,Sharjah,8154.21,Medium
+4551,Abu Dhabi,8153.57,Medium
+2511,Abu Dhabi,8149.01,Medium
+2957,Sharjah,8147.52,Medium
+4658,Dubai,8145.77,Medium
+4881,Dubai,8144.02,Medium
+3036,Sharjah,8139.65,Medium
+1202,Dubai,8136.14,Medium
+4641,Abu Dhabi,8132.57,Medium
+1269,Abu Dhabi,8131.93,Medium
+1667,Abu Dhabi,8131.12,Medium
+1407,Dubai,8130.43,Medium
+1073,Sharjah,8128.47,Medium
+4515,Dubai,8122.84,Medium
+4652,Sharjah,8122.62,Medium
+3931,Sharjah,8122.43,Medium
+498,Abu Dhabi,8121.66,Medium
+1884,Dubai,8115.92,Medium
+901,Dubai,8106.28,Medium
+2588,Abu Dhabi,8104.72,Medium
+3852,Sharjah,8104.22,Medium
+678,Sharjah,8102.48,Medium
+1959,Dubai,8101.12,Medium
+2890,Sharjah,8096.20,Medium
+3679,Dubai,8094.73,Medium
+434,Dubai,8089.50,Medium
+443,Sharjah,8086.74,Medium
+2171,Dubai,8083.15,Medium
+3032,Dubai,8078.67,Medium
+4733,Dubai,8078.19,Medium
+3023,Sharjah,8073.05,Medium
+1555,Dubai,8072.60,Medium
+4251,Sharjah,8071.56,Medium
+997,Sharjah,8062.88,Medium
+3231,Abu Dhabi,8062.49,Medium
+3558,Sharjah,8058.15,Medium
+4143,Dubai,8057.47,Medium
+4870,Dubai,8051.11,Medium
+406,Dubai,8050.76,Medium
+3941,Abu Dhabi,8048.46,Medium
+4907,Dubai,8047.88,Medium
+1798,Sharjah,8046.93,Medium
+3072,Dubai,8042.16,Medium
+2001,Abu Dhabi,8040.85,Medium
+1745,Abu Dhabi,8033.09,Medium
+3683,Dubai,8030.19,Medium
+3519,Dubai,8025.45,Medium
+36,Dubai,8017.71,Medium
+2491,Abu Dhabi,8015.46,Medium
+2406,Abu Dhabi,8014.17,Medium
+4338,Abu Dhabi,8013.89,Medium
+4788,Dubai,8009.36,Medium
+2236,Dubai,8007.30,Medium
+2295,Abu Dhabi,8005.86,Medium
+979,Dubai,8004.97,Medium
+2854,Dubai,7998.07,Medium
+2580,Abu Dhabi,7994.25,Medium
+1417,Dubai,7984.87,Medium
+3653,Sharjah,7983.76,Medium
+2795,Dubai,7980.41,Medium
+3103,Abu Dhabi,7979.47,Medium
+4802,Sharjah,7978.28,Medium
+3069,Abu Dhabi,7970.74,Medium
+3379,Sharjah,7963.56,Medium
+193,Dubai,7962.83,Medium
+2338,Sharjah,7962.71,Medium
+2750,Dubai,7956.21,Medium
+155,Dubai,7952.61,Medium
+446,Abu Dhabi,7946.73,Medium
+4008,Dubai,7946.70,Medium
+3484,Dubai,7943.60,Medium
+4080,Abu Dhabi,7943.47,Medium
+4097,Dubai,7943.38,Medium
+3399,Abu Dhabi,7941.25,Medium
+1934,Sharjah,7936.31,Medium
+4374,Dubai,7936.13,Medium
+4192,Abu Dhabi,7921.18,Medium
+3770,Dubai,7920.37,Medium
+4104,Dubai,7917.52,Medium
+2693,Dubai,7910.14,Medium
+1087,Dubai,7909.20,Medium
+2509,Dubai,7905.07,Medium
+2961,Dubai,7901.20,Medium
+754,Dubai,7897.98,Medium
+996,Dubai,7897.95,Medium
+3174,Dubai,7896.71,Medium
+390,Dubai,7896.40,Medium
+3924,Abu Dhabi,7895.96,Medium
+999,Sharjah,7894.96,Medium
+1681,Dubai,7890.60,Medium
+3490,Dubai,7887.00,Medium
+3562,Abu Dhabi,7884.15,Medium
+1651,Dubai,7877.87,Medium
+4394,Sharjah,7861.90,Medium
+2431,Dubai,7860.85,Medium
+883,Abu Dhabi,7858.85,Medium
+2370,Abu Dhabi,7856.30,Medium
+3615,Dubai,7855.51,Medium
+2763,Dubai,7854.91,Medium
+431,Dubai,7848.85,Medium
+1367,Abu Dhabi,7848.22,Medium
+2289,Abu Dhabi,7846.01,Medium
+519,Abu Dhabi,7839.98,Medium
+1482,Dubai,7825.84,Medium
+2384,Abu Dhabi,7825.55,Medium
+4311,Abu Dhabi,7825.40,Medium
+3950,Sharjah,7825.39,Medium
+4982,Sharjah,7819.70,Medium
+4344,Dubai,7811.64,Medium
+4566,Dubai,7799.60,Medium
+1451,Abu Dhabi,7794.03,Medium
+1153,Dubai,7793.60,Medium
+4822,Sharjah,7789.45,Medium
+522,Dubai,7785.60,Medium
+2514,Abu Dhabi,7777.72,Medium
+4744,Dubai,7776.83,Medium
+3596,Sharjah,7772.13,Medium
+1707,Abu Dhabi,7768.75,Medium
+4920,Dubai,7766.66,Medium
+1036,Dubai,7759.94,Medium
+3475,Sharjah,7754.65,Medium
+1191,Abu Dhabi,7753.73,Medium
+2958,Abu Dhabi,7753.12,Medium
+847,Sharjah,7738.39,Medium
+1836,Dubai,7738.16,Medium
+4404,Abu Dhabi,7732.45,Medium
+135,Abu Dhabi,7727.42,Medium
+424,Abu Dhabi,7715.50,Medium
+3438,Sharjah,7713.16,Medium
+1592,Abu Dhabi,7706.45,Medium
+6,Dubai,7703.35,Medium
+2531,Sharjah,7701.14,Medium
+2118,Dubai,7696.97,Medium
+1021,Dubai,7694.35,Medium
+4156,Sharjah,7687.78,Medium
+3834,Sharjah,7681.09,Medium
+3651,Sharjah,7678.06,Medium
+4578,Dubai,7676.37,Medium
+4154,Dubai,7665.91,Medium
+2478,Dubai,7662.10,Medium
+4653,Dubai,7658.03,Medium
+4558,Dubai,7654.74,Medium
+453,Dubai,7651.32,Medium
+1347,Dubai,7650.99,Medium
+4295,Dubai,7648.30,Medium
+432,Abu Dhabi,7647.10,Medium
+501,Dubai,7640.61,Medium
+162,Dubai,7639.28,Medium
+622,Dubai,7630.98,Medium
+4699,Dubai,7630.46,Medium
+776,Dubai,7621.18,Medium
+4514,Dubai,7613.04,Medium
+966,Sharjah,7609.47,Medium
+2169,Dubai,7608.21,Medium
+2926,Dubai,7607.92,Medium
+4966,Abu Dhabi,7586.60,Medium
+4388,Sharjah,7584.34,Medium
+2293,Dubai,7583.43,Medium
+4857,Dubai,7576.14,Medium
+1167,Abu Dhabi,7562.74,Medium
+1723,Abu Dhabi,7555.26,Medium
+4068,Dubai,7552.45,Medium
+3821,Dubai,7548.28,Medium
+3437,Dubai,7547.72,Medium
+4203,Dubai,7544.49,Medium
+928,Sharjah,7540.61,Medium
+2859,Dubai,7529.57,Medium
+2396,Dubai,7529.37,Medium
+1258,Abu Dhabi,7527.28,Medium
+2600,Dubai,7526.36,Medium
+258,Sharjah,7524.76,Medium
+704,Dubai,7514.24,Medium
+61,Abu Dhabi,7511.48,Medium
+4812,Sharjah,7505.47,Medium
+175,Sharjah,7502.53,Medium
+408,Dubai,7501.85,Medium
+4429,Sharjah,7500.34,Medium
+3088,Dubai,7493.42,Medium
+3486,Abu Dhabi,7489.99,Medium
+823,Abu Dhabi,7484.97,Medium
+1359,Abu Dhabi,7483.00,Medium
+2917,Abu Dhabi,7473.39,Medium
+3982,Dubai,7457.33,Medium
+1212,Abu Dhabi,7452.21,Medium
+2136,Dubai,7446.51,Medium
+4029,Dubai,7443.76,Medium
+71,Dubai,7443.72,Medium
+3033,Dubai,7440.59,Medium
+2886,Dubai,7438.82,Medium
+964,Sharjah,7436.98,Medium
+4544,Abu Dhabi,7431.13,Medium
+1379,Sharjah,7424.63,Medium
+1171,Sharjah,7418.56,Medium
+775,Dubai,7417.68,Medium
+2423,Sharjah,7417.00,Medium
+2657,Dubai,7400.22,Medium
+1976,Sharjah,7399.28,Medium
+1371,Sharjah,7396.39,Medium
+2912,Dubai,7369.41,Medium
+4750,Abu Dhabi,7364.54,Medium
+3523,Sharjah,7363.94,Medium
+3781,Dubai,7361.12,Medium
+1360,Dubai,7360.91,Medium
+673,Abu Dhabi,7360.05,Medium
+1010,Sharjah,7358.49,Medium
+1484,Dubai,7358.08,Medium
+4701,Sharjah,7342.69,Medium
+1788,Dubai,7341.26,Medium
+88,Abu Dhabi,7339.68,Medium
+4424,Dubai,7334.73,Medium
+3868,Abu Dhabi,7333.62,Medium
+449,Dubai,7326.63,Medium
+810,Dubai,7311.38,Medium
+1931,Dubai,7309.14,Medium
+3869,Abu Dhabi,7303.22,Medium
+1144,Sharjah,7298.93,Medium
+77,Dubai,7296.13,Medium
+1397,Abu Dhabi,7292.70,Medium
+4535,Dubai,7286.58,Medium
+2119,Abu Dhabi,7273.97,Medium
+912,Dubai,7271.27,Medium
+610,Abu Dhabi,7270.00,Medium
+313,Abu Dhabi,7260.24,Medium
+4286,Sharjah,7260.11,Medium
+4309,Abu Dhabi,7260.04,Medium
+4048,Abu Dhabi,7242.27,Medium
+1338,Sharjah,7228.75,Medium
+4606,Sharjah,7217.72,Medium
+4206,Abu Dhabi,7214.43,Medium
+909,Abu Dhabi,7188.37,Medium
+1785,Abu Dhabi,7164.55,Medium
+739,Dubai,7160.56,Medium
+3157,Dubai,7150.39,Medium
+4766,Dubai,7136.61,Medium
+2563,Dubai,7116.30,Medium
+2310,Abu Dhabi,7112.86,Medium
+1794,Dubai,7086.84,Medium
+893,Abu Dhabi,7063.71,Medium
+2463,Sharjah,7062.04,Medium
+2201,Sharjah,7040.15,Medium
+2257,Dubai,7026.19,Medium
+4024,Abu Dhabi,7016.62,Medium
+3126,Dubai,6971.68,Medium
+2327,Abu Dhabi,6950.45,Medium
+2195,Sharjah,6947.06,Medium
+1896,Abu Dhabi,6945.12,Medium
+1939,Abu Dhabi,6924.91,Medium
+3188,Dubai,6916.69,Medium
+1983,Dubai,6914.10,Medium
+3024,Dubai,6901.86,Medium
+2196,Dubai,6897.73,Medium
+303,Abu Dhabi,6879.99,Medium
+2486,Dubai,6879.62,Medium
+4482,Abu Dhabi,6873.01,Medium
+3600,Sharjah,6853.39,Medium
+52,Dubai,6846.58,Medium
+4873,Sharjah,6839.83,Medium
+1851,Sharjah,6835.90,Medium
+2368,Dubai,6808.01,Medium
+1089,Dubai,6806.04,Medium
+1561,Abu Dhabi,6801.38,Medium
+2352,Dubai,6793.46,Medium
+128,Abu Dhabi,6771.31,Medium
+685,Dubai,6758.82,Medium
+4705,Dubai,6746.26,Medium
+1161,Dubai,6736.68,Medium
+874,Abu Dhabi,6680.16,Medium
+1312,Sharjah,6674.04,Medium
+3022,Dubai,6666.08,Medium
+2768,Sharjah,6630.42,Medium
+4324,Abu Dhabi,6606.46,Medium
+2964,Dubai,6578.77,Medium
+3808,Dubai,6567.42,Medium
+3122,Dubai,6540.15,Medium
+973,Dubai,6514.65,Medium
+212,Dubai,6453.94,Medium
+4965,Abu Dhabi,6419.29,Medium
+2993,Dubai,6405.78,Medium
+3507,Dubai,6396.07,Medium
+2330,Dubai,6371.45,Medium
+317,Dubai,6344.63,Medium
+2647,Abu Dhabi,6278.64,Medium
+1211,Sharjah,6097.41,Medium
+4369,Sharjah,6051.15,Medium
+1864,Dubai,5999.71,Medium
+96,Abu Dhabi,5939.86,Medium
+3798,Abu Dhabi,5936.33,Medium
+3286,Abu Dhabi,5936.24,Medium
+3472,Sharjah,5902.60,Medium
